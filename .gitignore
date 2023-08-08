@@ -1,0 +1,6 @@
+hs_err_pid*
+/.project
+/.classpath
+/.settings
+/target
+dataset.ndjson

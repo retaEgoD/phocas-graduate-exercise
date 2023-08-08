@@ -1,0 +1,113 @@
+name: Test
+on: push
+
+jobs:
+  test:
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
+    steps:
+      - 
+        name: Checkout
+        uses: actions/checkout@v3
+      - 
+        name: Setup Java 17
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu' 
+          java-version: '17'
+      - 
+        name: Maven Test
+        run: mvn test
+        
+  mem_limit_none:
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
+    steps:
+      - 
+        name: Checkout
+        uses: actions/checkout@v3
+      - 
+        name: Setup Java 17
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu' 
+          java-version: '17'
+      - 
+        name: Maven Package
+        run: mvn -Dmaven.test.skip=true package
+      - 
+        name: Build dataset
+        run: java -jar Generator.jar
+      - 
+        name: Run
+        run: java -jar target/graduate-0.0.1-SNAPSHOT.jar
+        
+  mem_limit_200MB:
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
+    steps:
+      - 
+        name: Checkout
+        uses: actions/checkout@v3
+      - 
+        name: Setup Java 17
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu' 
+          java-version: '17'
+      - 
+        name: Maven Package
+        run: mvn -Dmaven.test.skip=true package
+      - 
+        name: Build dataset
+        run: java -jar Generator.jar
+      - 
+        name: Run
+        run: java -Xmx200m -jar target/graduate-0.0.1-SNAPSHOT.jar
+        
+  mem_limit_150MB:
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
+    steps:
+      - 
+        name: Checkout
+        uses: actions/checkout@v3
+      - 
+        name: Setup Java 17
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu' 
+          java-version: '17'
+      - 
+        name: Maven Package
+        run: mvn -Dmaven.test.skip=true package
+      - 
+        name: Build dataset
+        run: java -jar Generator.jar
+      - 
+        name: Run
+        run: java -Xmx150m -jar target/graduate-0.0.1-SNAPSHOT.jar
+        
+  mem_limit_30MB:
+    timeout-minutes: 15
+    runs-on: ubuntu-latest
+    steps:
+      - 
+        name: Checkout
+        uses: actions/checkout@v3
+      - 
+        name: Setup Java 17
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu' 
+          java-version: '17'
+      - 
+        name: Maven Package
+        run: mvn -Dmaven.test.skip=true package
+      - 
+        name: Build dataset
+        run: java -jar Generator.jar
+      - 
+        name: Run
+        run: java -Xmx30m -jar target/graduate-0.0.1-SNAPSHOT.jar
+
