@@ -22,7 +22,7 @@ public class Solution {
 	public static void main(String[] args) {
 
 		try {
-			final JSONReader reader = new JSONReader();
+			final DatasetReader reader = new DatasetReader();
 			reader.readFile("dataset.ndjson");
 			final HashMap<String, LinkedList<Transaction>> salesPersonTransactions = reader.getSalesPersonToTransactions();
 			final HashMap<String, Integer> salesPersonTotals = reader.getSalesPersonToTotalValues();
@@ -48,6 +48,8 @@ public class Solution {
 			System.out.println("Road of most transactions: " + roadMax);
 		} catch (ParseException e) {
 			System.out.println("Date in incorrect format.");
+		} catch (IOException e) {
+			System.out.println("File not found.");
 		}
 
 	}
