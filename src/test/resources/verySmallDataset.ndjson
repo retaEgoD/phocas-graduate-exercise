@@ -1,0 +1,1000 @@
+{"road":"Northwood Villas","suburb":"Northwood","city":"Christchurch","customer":"Aria","salesPerson":"Emma","category":"Pixie","brand":"yet","value":1932,"date":"2022-04-14T10:48:12.513Z"}
+{"road":"Shire Lane","suburb":"Woolston","city":"Christchurch","customer":"Chloe","salesPerson":"Luke","category":"Golems","brand":"if","value":8068,"date":"2022-04-14T11:57:14.033Z"}
+{"road":"Oban Road","suburb":"Browns Bay","city":"Auckland","customer":"Noah","salesPerson":"Lincoln","category":"Minotaur","brand":"for","value":9436,"date":"2022-04-30T14:13:49.995Z"}
+{"road":"Sykes Road","suburb":"Manurewa","city":"Auckland","customer":"Everly","salesPerson":"Ezra","category":"Kraken","brand":"yet","value":2783,"date":"2022-01-18T16:09:46.322Z"}
+{"road":"Eastwood Rise","suburb":"Browns Bay","city":"Auckland","customer":"Daniel","salesPerson":"Jacob","category":"Pixie","brand":"for","value":815,"date":"2021-08-07T04:47:57.742Z"}
+{"road":"Merrill Place","suburb":"Birkdale","city":"Auckland","customer":"Isaiah","salesPerson":"Ezra","category":"Hydra","brand":"yet","value":1743,"date":"2021-09-30T01:06:36.166Z"}
+{"road":"Taylor Road","suburb":"Mangere Bridge","city":"Auckland","customer":"Maverick","salesPerson":"Olivia","category":"Unicorn","brand":"if","value":2824,"date":"2021-07-26T04:14:28.773Z"}
+{"road":"Cathie Place","suburb":"Karori","city":"Wellington","customer":"Stella","salesPerson":"Liam","category":"Elf","brand":"a","value":8288,"date":"2021-08-12T02:37:52.408Z"}
+{"road":"Lulworth Lane","suburb":"Westmorland","city":"Christchurch","customer":"Josiah","salesPerson":"Olivia","category":"Sphinx","brand":"an","value":3530,"date":"2021-07-31T12:34:23.981Z"}
+{"road":"Darroch Street","suburb":"Belfast","city":"Christchurch","customer":"Daniel","salesPerson":"Matthew","category":"Griffin","brand":"a","value":1172,"date":"2022-04-30T20:18:42.293Z"}
+{"road":"Stewart Drive","suburb":"Johnsonville","city":"Wellington","customer":"Riley","salesPerson":"Nora","category":"Sphinx","brand":"but","value":4881,"date":"2022-05-09T23:24:23.810Z"}
+{"road":"Wha Street","suburb":"Lyall Bay","city":"Wellington","customer":"Lily","salesPerson":"Scarlett","category":"Golems","brand":"the","value":1931,"date":"2022-01-02T02:01:43.209Z"}
+{"road":"Ihumatao Quarry Road","suburb":"Mangere","city":"Auckland","customer":"Willow","salesPerson":"Isabella","category":"Mermaid","brand":"the","value":4352,"date":"2022-02-08T23:06:14.145Z"}
+{"road":"Winhall Rise","suburb":"Remuera","city":"Auckland","customer":"Emma","salesPerson":"Matthew","category":"Kraken","brand":"a","value":416,"date":"2021-12-08T20:07:40.642Z"}
+{"road":"Caroline Way","suburb":"Northwood","city":"Christchurch","customer":"Aiden","salesPerson":"Ryleigh","category":"Pixie","brand":"or","value":9618,"date":"2021-10-21T12:25:24.518Z"}
+{"road":"Rosebay Rise","suburb":"Henderson","city":"Auckland","customer":"Eli","salesPerson":"Lucas","category":"Phoenix","brand":"an","value":3079,"date":"2022-01-30T20:09:52.107Z"}
+{"road":"Sandy Lane","suburb":"Avondale","city":"Auckland","customer":"Anthony","salesPerson":"Olivia","category":"Leprechaun","brand":"yet","value":5880,"date":"2021-07-27T07:34:57.871Z"}
+{"road":"Whitford Road","suburb":"Somerville","city":"Auckland","customer":"Luke","salesPerson":"Anthony","category":"Minotaur","brand":"or","value":9023,"date":"2022-04-15T04:57:17.618Z"}
+{"road":"Amdale Avenue","suburb":"Broomfield","city":"Christchurch","customer":"Luca","salesPerson":"Aurora","category":"Hydra","brand":"yet","value":1176,"date":"2022-01-21T07:53:43.927Z"}
+{"road":"Don Buck Road","suburb":"Massey","city":"Auckland","customer":"Jayden","salesPerson":"Jacob","category":"Golems","brand":"but","value":5767,"date":"2022-04-07T11:36:47.042Z"}
+{"road":"Hāpine Lane","suburb":"Hobsonville","city":"Auckland","customer":"Josiah","salesPerson":"Levi","category":"Ogre","brand":"so","value":3545,"date":"2021-10-15T13:54:31.482Z"}
+{"road":"Polygon Road","suburb":"St Heliers","city":"Auckland","customer":"Benjamin","salesPerson":"Charlotte","category":"Ogre","brand":"so","value":6148,"date":"2021-06-03T02:02:55.944Z"}
+{"road":"Friedlanders Road","suburb":"Manurewa","city":"Auckland","customer":"Asher","salesPerson":"Abigail","category":"Golems","brand":"an","value":5346,"date":"2021-11-09T18:22:04.118Z"}
+{"road":"Earls Terrace","suburb":"Mount Victoria","city":"Wellington","customer":"Aurora","salesPerson":"William","category":"Phoenix","brand":"so","value":4691,"date":"2021-11-07T21:22:47.569Z"}
+{"road":"Longshore Drive","suburb":"Long Bay","city":"Auckland","customer":"Emma","salesPerson":"Owen","category":"Elf","brand":"but","value":5393,"date":"2021-12-18T22:39:01.799Z"}
+{"road":"Spring Valley Place","suburb":"Oteha","city":"Auckland","customer":"Samuel","salesPerson":"Rylee","category":"Unicorn","brand":"so","value":6832,"date":"2021-10-16T18:58:25.289Z"}
+{"road":"Ashcraig Court","suburb":"Torbay","city":"Auckland","customer":"Noah","salesPerson":"Matthew","category":"Phoenix","brand":"so","value":1905,"date":"2021-06-17T01:24:39.722Z"}
+{"road":"Altair Place","suburb":"Windsor Park","city":"Auckland","customer":"Nora","salesPerson":"Rylee","category":"Golems","brand":"yet","value":9246,"date":"2021-12-04T03:30:57.469Z"}
+{"road":"Kokopu Lane","suburb":"Bexley","city":"Christchurch","customer":"Harper","salesPerson":"Charlie","category":"Hydra","brand":"if","value":3453,"date":"2021-09-12T12:50:51.130Z"}
+{"road":"Blackgate Place","suburb":"Weymouth","city":"Auckland","customer":"Ella","salesPerson":"Ezra","category":"Unicorn","brand":"for","value":4532,"date":"2021-06-25T13:14:40.985Z"}
+{"road":"Kittyhawk Avenue","suburb":"Wigram","city":"Christchurch","customer":"Evelyn","salesPerson":"Lincoln","category":"Mermaid","brand":"the","value":4368,"date":"2022-03-02T15:33:26.484Z"}
+{"road":"Winning Post Place","suburb":"Halswell","city":"Christchurch","customer":"Maya","salesPerson":"Olivia","category":"Kraken","brand":"but","value":8994,"date":"2021-10-20T02:32:26.281Z"}
+{"road":"Gloria Avenue","suburb":"Te Atatu Peninsula","city":"Auckland","customer":"Mateo","salesPerson":"Abigail","category":"Dragon","brand":"and","value":366,"date":"2022-01-20T21:34:17.750Z"}
+{"road":"Matahae Drive","suburb":"Flat Bush","city":"Auckland","customer":"Sofia","salesPerson":"Julian","category":"Pegasus","brand":"but","value":6555,"date":"2021-11-03T00:06:39.131Z"}
+{"road":"Radiata Avenue","suburb":"Parklands","city":"Christchurch","customer":"Zoey","salesPerson":"Zoey","category":"Phoenix","brand":"the","value":5682,"date":"2021-12-13T02:58:25.339Z"}
+{"road":"Sophora Way","suburb":"Albany","city":"Auckland","customer":"Madison","salesPerson":"Luke","category":"Medusa","brand":"for","value":2994,"date":"2022-05-28T13:04:28.858Z"}
+{"road":"Bronwyn Way","suburb":"Paparangi","city":"Wellington","customer":"Alexander","salesPerson":"Noah","category":"Kraken","brand":"but","value":5517,"date":"2022-03-31T03:12:14.431Z"}
+{"road":"Mareth Street","suburb":"Panmure","city":"Auckland","customer":"Maya","salesPerson":"Lincoln","category":"Pegasus","brand":"the","value":104,"date":"2021-08-28T14:17:04.563Z"}
+{"road":"Leewood Place","suburb":"Pakuranga Heights","city":"Auckland","customer":"Aiden","salesPerson":"Mason","category":"Medusa","brand":"but","value":2485,"date":"2022-01-24T21:55:42.784Z"}
+{"road":"Rupi Court","suburb":"Mount Wellington","city":"Auckland","customer":"Benjamin","salesPerson":"Elizabeth","category":"Pegasus","brand":"an","value":2979,"date":"2022-03-14T10:50:57.747Z"}
+{"road":"Arthur Carman Street","suburb":"Johnsonville","city":"Wellington","customer":"Lucas","salesPerson":"Noah","category":"Bashee","brand":"or","value":9274,"date":"2021-06-07T15:06:11.130Z"}
+{"road":"Lydbury Place","suburb":"Parklands","city":"Christchurch","customer":"Leo","salesPerson":"Gabriel","category":"Mermaid","brand":"the","value":6837,"date":"2021-10-07T21:21:58.278Z"}
+{"road":"Longburn Road","suburb":"Henderson","city":"Auckland","customer":"Benjamin","salesPerson":"Oliver","category":"Leviathan","brand":"but","value":8647,"date":"2021-12-25T11:56:54.986Z"}
+{"road":"Middlemore Road","suburb":"Otahuhu","city":"Auckland","customer":"Ethan","salesPerson":"Eleanor","category":"Leviathan","brand":"but","value":4239,"date":"2021-07-04T03:36:19.801Z"}
+{"road":"Clayburn Road","suburb":"Glen Eden","city":"Auckland","customer":"Elizabeth","salesPerson":"Sofia","category":"Pixie","brand":"for","value":7668,"date":"2021-09-10T17:20:30.859Z"}
+{"road":"Camrose Place","suburb":"Glenfield","city":"Auckland","customer":"Abigail","salesPerson":"Noah","category":"Leprechaun","brand":"an","value":1491,"date":"2021-12-12T17:02:41.528Z"}
+{"road":"Murchison Street","suburb":"Island Bay","city":"Wellington","customer":"Logan","salesPerson":"John","category":"Harpy","brand":"for","value":1240,"date":"2021-10-26T00:03:40.475Z"}
+{"road":"Fowler Avenue","suburb":"Mount Albert","city":"Auckland","customer":"William","salesPerson":"Maya","category":"Mermaid","brand":"a","value":8224,"date":"2021-07-12T19:36:40.368Z"}
+{"road":"Taramea Street","suburb":"Avondale","city":"Auckland","customer":"Benjamin","salesPerson":"Jacob","category":"Phoenix","brand":"for","value":5535,"date":"2021-09-04T09:25:16.853Z"}
+{"road":"Rosewood Place","suburb":"Bryndwr","city":"Christchurch","customer":"Alexander","salesPerson":"Daniel","category":"Golems","brand":"or","value":322,"date":"2022-01-05T21:33:52.876Z"}
+{"road":"Tahuna Street","suburb":"Wainoni","city":"Christchurch","customer":"Jackson","salesPerson":"Aurora","category":"Mermaid","brand":"yet","value":8516,"date":"2021-10-02T00:38:59.447Z"}
+{"road":"Windrush Close","suburb":"Mangere","city":"Auckland","customer":"Isabella","salesPerson":"Eleanor","category":"Mermaid","brand":"yet","value":6647,"date":"2022-02-14T15:17:15.194Z"}
+{"road":"Langstone Lane","suburb":"Northcote","city":"Christchurch","customer":"Jacob","salesPerson":"Liam","category":"Bashee","brand":"a","value":2586,"date":"2021-09-07T09:36:25.117Z"}
+{"road":"Baker Street","suburb":"New Brighton","city":"Christchurch","customer":"Emilia","salesPerson":"Ivy","category":"Phoenix","brand":"so","value":6772,"date":"2022-04-04T19:36:49.351Z"}
+{"road":"Ravenna Street","suburb":"Avonhead","city":"Christchurch","customer":"Amelia","salesPerson":"Eleanor","category":"Dragon","brand":"yet","value":1717,"date":"2021-10-28T09:49:33.923Z"}
+{"road":"Burgess Street","suburb":"Sumner","city":"Christchurch","customer":"Carter","salesPerson":"Sebastian","category":"Mermaid","brand":"an","value":3897,"date":"2022-03-31T01:52:05.342Z"}
+{"road":"Princess Maria Place","suburb":"Massey","city":"Auckland","customer":"Noah","salesPerson":"Elijah","category":"Elf","brand":"a","value":5097,"date":"2021-08-30T11:32:49.062Z"}
+{"road":"Beavis Lane","suburb":"Karori","city":"Wellington","customer":"Jayden","salesPerson":"Carter","category":"Bashee","brand":"yet","value":4224,"date":"2022-03-28T22:36:52.204Z"}
+{"road":"Rubens Lane","suburb":"West Harbour","city":"Auckland","customer":"Ethan","salesPerson":"Owen","category":"Sphinx","brand":"but","value":4709,"date":"2021-06-24T23:05:33.026Z"}
+{"road":"Berwick Grove","suburb":"Seatoun","city":"Wellington","customer":"Julian","salesPerson":"Julian","category":"Cyclops","brand":"or","value":583,"date":"2021-08-27T04:26:31.422Z"}
+{"road":"Tusac Place","suburb":"Totara Vale","city":"Auckland","customer":"Evelyn","salesPerson":"Isabella","category":"Sphinx","brand":"yet","value":1277,"date":"2022-03-26T12:04:17.077Z"}
+{"road":"Finch Street","suburb":"Morningside","city":"Auckland","customer":"Joseph","salesPerson":"Jacob","category":"Minotaur","brand":"a","value":24,"date":"2021-10-01T16:04:16.320Z"}
+{"road":"Stebbings Road","suburb":"Glenside","city":"Wellington","customer":"Josiah","salesPerson":"Sebastian","category":"Minotaur","brand":"an","value":8182,"date":"2021-08-27T22:21:59.129Z"}
+{"road":"Clarence Street","suburb":"Addington","city":"Christchurch","customer":"Elizabeth","salesPerson":"Sofia","category":"Sphinx","brand":"if","value":9172,"date":"2021-09-17T03:10:12.734Z"}
+{"road":"Cooper Street","suburb":"Karori","city":"Wellington","customer":"Maya","salesPerson":"Charlie","category":"Sphinx","brand":"and","value":1870,"date":"2021-10-27T11:13:27.213Z"}
+{"road":"Simon Ellice Drive","suburb":"Bayview","city":"Auckland","customer":"Elijah","salesPerson":"Oliver","category":"Kraken","brand":"if","value":790,"date":"2021-11-15T22:54:56.038Z"}
+{"road":"Balgay Street","suburb":"Upper Riccarton","city":"Christchurch","customer":"Josiah","salesPerson":"Oliver","category":"Harpy","brand":"if","value":7211,"date":"2021-09-03T05:01:10.060Z"}
+{"road":"Torea Place","suburb":"Waterview","city":"Auckland","customer":"Anthony","salesPerson":"Asher","category":"Phoenix","brand":"an","value":3214,"date":"2021-09-24T03:51:16.547Z"}
+{"road":"Bolero Place","suburb":"Parklands","city":"Christchurch","customer":"James","salesPerson":"Isla","category":"Harpy","brand":"the","value":307,"date":"2022-03-31T08:35:56.019Z"}
+{"road":"Bokeen Lane","suburb":"Flat Bush","city":"Auckland","customer":"Elena","salesPerson":"Paisley","category":"Elf","brand":"if","value":6950,"date":"2022-01-12T09:31:33.507Z"}
+{"road":"Stonehill Drive","suburb":"Wiri","city":"Auckland","customer":"Mila","salesPerson":"Stella","category":"Bashee","brand":"or","value":1222,"date":"2021-11-27T12:42:28.670Z"}
+{"road":"Packspur Drive","suburb":"Flat Bush","city":"Auckland","customer":"Emily","salesPerson":"Grace","category":"Harpy","brand":"the","value":2756,"date":"2022-01-24T21:00:11.185Z"}
+{"road":"Deele Close","suburb":"Pinehill","city":"Auckland","customer":"Ethan","salesPerson":"Elias","category":"Minotaur","brand":"yet","value":529,"date":"2021-08-15T05:53:34.058Z"}
+{"road":"Idyll Place","suburb":"Northcross","city":"Auckland","customer":"Hudson","salesPerson":"Penelope","category":"Ogre","brand":"the","value":6806,"date":"2022-04-08T04:02:20.218Z"}
+{"road":"Puriri Street","suburb":"Takapuna","city":"Auckland","customer":"Abigail","salesPerson":"Levi","category":"Ogre","brand":"yet","value":1532,"date":"2022-05-18T06:11:12.244Z"}
+{"road":"Cavendish Drive","suburb":"Wiri","city":"Auckland","customer":"Rylee","salesPerson":"Amelia","category":"Griffin","brand":"and","value":6427,"date":"2021-12-12T05:13:55.627Z"}
+{"road":"Karangahape Road","suburb":"Grafton","city":"Auckland","customer":"Muhammad","salesPerson":"Ezra","category":"Pegasus","brand":"if","value":6051,"date":"2021-10-18T03:31:08.023Z"}
+{"road":"Landscape Road","suburb":"Epsom","city":"Auckland","customer":"Sophia","salesPerson":"Riley","category":"Leprechaun","brand":"so","value":2877,"date":"2021-12-17T23:18:57.840Z"}
+{"road":"Celia Place","suburb":"Mangere East","city":"Auckland","customer":"Alexander","salesPerson":"Isaiah","category":"Pixie","brand":"or","value":9581,"date":"2022-01-24T09:15:21.009Z"}
+{"road":"Errol Lane","suburb":"Huntsbury","city":"Christchurch","customer":"Eliana","salesPerson":"William","category":"Mermaid","brand":"yet","value":8775,"date":"2021-08-07T21:56:06.678Z"}
+{"road":"Marion Street","suburb":"Te Aro","city":"Wellington","customer":"Anthony","salesPerson":"Aurora","category":"Pegasus","brand":"and","value":6733,"date":"2021-11-07T00:35:24.413Z"}
+{"road":"Silverwood Place","suburb":"Hornby","city":"Christchurch","customer":"Rylee","salesPerson":"Ryleigh","category":"Kraken","brand":"if","value":5103,"date":"2021-08-19T16:52:53.960Z"}
+{"road":"Royal Terrace","suburb":"Sandringham","city":"Auckland","customer":"Nora","salesPerson":"Isla","category":"Hydra","brand":"but","value":6513,"date":"2021-10-25T15:17:16.377Z"}
+{"road":"Newcastle Terrace","suburb":"Mount Albert","city":"Auckland","customer":"Ivy","salesPerson":"Mia","category":"Minotaur","brand":"an","value":1753,"date":"2022-04-17T18:10:44.821Z"}
+{"road":"Mile Place","suburb":"Henderson","city":"Auckland","customer":"Everly","salesPerson":"Grace","category":"Sphinx","brand":"if","value":2963,"date":"2021-10-14T12:55:46.145Z"}
+{"road":"Paora Street","suburb":"Orakei","city":"Auckland","customer":"Eleanor","salesPerson":"Penelope","category":"Phoenix","brand":"but","value":9397,"date":"2021-06-01T09:29:04.743Z"}
+{"road":"High Street","suburb":"Christchurch Central","city":"Christchurch","customer":"Ryleigh","salesPerson":"Lincoln","category":"Pixie","brand":"for","value":6818,"date":"2022-05-23T05:50:33.554Z"}
+{"road":"Tawa Place","suburb":"Parklands","city":"Christchurch","customer":"Sofia","salesPerson":"Noah","category":"Hydra","brand":"an","value":9420,"date":"2022-05-20T04:13:19.821Z"}
+{"road":"Peterborough Street","suburb":"Christchurch Central","city":"Christchurch","customer":"Alexander","salesPerson":"Ryleigh","category":"Medusa","brand":"yet","value":5135,"date":"2021-12-28T03:18:53.959Z"}
+{"road":"Darnell Crescent","suburb":"Clover Park","city":"Auckland","customer":"Mason","salesPerson":"Grace","category":"Ogre","brand":"if","value":9249,"date":"2021-10-23T09:25:53.521Z"}
+{"road":"Harold Denton Place","suburb":"St Albans","city":"Christchurch","customer":"Addison","salesPerson":"Joseph","category":"Pixie","brand":"yet","value":4482,"date":"2022-03-01T15:09:18.717Z"}
+{"road":"McDonald Crescent","suburb":"Mount Wellington","city":"Auckland","customer":"Daniel","salesPerson":"Eleanor","category":"Phoenix","brand":"and","value":989,"date":"2022-04-26T18:15:38.209Z"}
+{"road":"Broadpark Road","suburb":"Waimairi Beach","city":"Christchurch","customer":"David","salesPerson":"Matthew","category":"Phoenix","brand":"but","value":5068,"date":"2022-02-20T11:25:36.722Z"}
+{"road":"Baleden Lane","suburb":"Mount Eden","city":"Auckland","customer":"Aurora","salesPerson":"Addison","category":"Unicorn","brand":"for","value":3033,"date":"2022-05-07T02:38:07.689Z"}
+{"road":"Corlett Street","suburb":"Johnsonville","city":"Wellington","customer":"Noah","salesPerson":"Julian","category":"Elf","brand":"the","value":8310,"date":"2021-08-30T04:23:13.985Z"}
+{"road":"Viking Avenue","suburb":"Hillsborough","city":"Auckland","customer":"Gianna","salesPerson":"Elizabeth","category":"Elf","brand":"a","value":1150,"date":"2021-06-13T18:50:22.454Z"}
+{"road":"Hilton Way","suburb":"Johnsonville","city":"Wellington","customer":"Nova","salesPerson":"Penelope","category":"Griffin","brand":"the","value":618,"date":"2021-12-15T14:23:04.230Z"}
+{"road":"Teesdale Street","suburb":"Burnside","city":"Christchurch","customer":"Grayson","salesPerson":"Elizabeth","category":"Griffin","brand":"for","value":5722,"date":"2021-11-09T14:52:03.155Z"}
+{"road":"Quinns Road","suburb":"Waiatarua","city":"Auckland","customer":"Jacob","salesPerson":"Gabriel","category":"Sphinx","brand":"yet","value":2170,"date":"2021-12-28T21:34:10.559Z"}
+{"road":"Nga Waka Place","suburb":"Mangere","city":"Auckland","customer":"Kai","salesPerson":"Rylee","category":"Griffin","brand":"a","value":2559,"date":"2021-11-06T01:02:57.007Z"}
+{"road":"Amapur Place","suburb":"Flat Bush","city":"Auckland","customer":"Violet","salesPerson":"Matthew","category":"Bashee","brand":"so","value":7347,"date":"2021-06-27T08:04:36.456Z"}
+{"road":"Zohrab Street","suburb":"Hataitai","city":"Wellington","customer":"Aurora","salesPerson":"Abigail","category":"Griffin","brand":"the","value":1220,"date":"2021-12-04T07:30:29.364Z"}
+{"road":"Vanessa Crescent","suburb":"Glendowie","city":"Auckland","customer":"Lucas","salesPerson":"Hudson","category":"Golems","brand":"an","value":2342,"date":"2022-03-12T20:50:34.142Z"}
+{"road":"Roslyn Road","suburb":"Mount Wellington","city":"Auckland","customer":"Harper","salesPerson":"Penelope","category":"Mermaid","brand":"yet","value":1132,"date":"2021-12-17T12:48:04.657Z"}
+{"road":"Wairata Place","suburb":"Te Atatu South","city":"Auckland","customer":"Everly","salesPerson":"Mia","category":"Pegasus","brand":"or","value":6967,"date":"2021-07-05T23:38:07.484Z"}
+{"road":"Andes Avenue","suburb":"Mangere Bridge","city":"Auckland","customer":"Oliver","salesPerson":"Julian","category":"Harpy","brand":"or","value":7938,"date":"2022-04-25T23:28:14.608Z"}
+{"road":"Durham Street East","suburb":"Auckland Central","city":"Auckland","customer":"Jacob","salesPerson":"Riley","category":"Golems","brand":"for","value":3586,"date":"2021-11-02T11:16:06.912Z"}
+{"road":"Charles Street","suburb":"Waltham","city":"Christchurch","customer":"Muhammad","salesPerson":"Aurora","category":"Unicorn","brand":"or","value":737,"date":"2022-04-17T00:05:17.215Z"}
+{"road":"Stoney Creek Drive","suburb":"Waitakere","city":"Auckland","customer":"Asher","salesPerson":"Oliver","category":"Elf","brand":"but","value":3772,"date":"2022-03-25T03:03:31.269Z"}
+{"road":"Swansea Street","suburb":"Ngaio","city":"Wellington","customer":"Luke","salesPerson":"Joseph","category":"Harpy","brand":"an","value":7839,"date":"2021-07-01T09:48:36.618Z"}
+{"road":"Thompson Road","suburb":"Panmure","city":"Auckland","customer":"Avery","salesPerson":"Mia","category":"Golems","brand":"and","value":8537,"date":"2021-10-28T09:25:54.313Z"}
+{"road":"Daphne Street","suburb":"Kelston","city":"Auckland","customer":"Grace","salesPerson":"Penelope","category":"Golems","brand":"for","value":5873,"date":"2022-05-04T15:07:26.494Z"}
+{"road":"North Street","suburb":"Tawa","city":"Wellington","customer":"Emilia","salesPerson":"Grace","category":"Kraken","brand":"the","value":1625,"date":"2021-08-23T05:09:31.432Z"}
+{"road":"Pilot Drive","suburb":"Hobsonville","city":"Auckland","customer":"Eliana","salesPerson":"Elijah","category":"Minotaur","brand":"so","value":7010,"date":"2022-05-08T19:17:12.519Z"}
+{"road":"Cousins Road","suburb":"Flat Bush","city":"Auckland","customer":"David","salesPerson":"Eli","category":"Minotaur","brand":"but","value":9933,"date":"2022-01-28T23:20:02.078Z"}
+{"road":"Chesterton Street","suburb":"Newlands","city":"Wellington","customer":"Liam","salesPerson":"Hazel","category":"Kraken","brand":"the","value":3381,"date":"2022-03-23T00:16:06.801Z"}
+{"road":"Noeleen Street","suburb":"Glenfield","city":"Auckland","customer":"Hazel","salesPerson":"Anthony","category":"Mermaid","brand":"but","value":3847,"date":"2021-12-23T06:14:47.048Z"}
+{"road":"Castlemaine Close","suburb":"Dannemora","city":"Auckland","customer":"James","salesPerson":"Elena","category":"Hydra","brand":"but","value":4429,"date":"2022-02-10T23:29:35.402Z"}
+{"road":"Correa Court","suburb":"Goodwood Heights","city":"Auckland","customer":"Willow","salesPerson":"Ava","category":"Phoenix","brand":"yet","value":5834,"date":"2022-01-20T08:02:00.354Z"}
+{"road":"Mansfield Street","suburb":"Newtown","city":"Wellington","customer":"Layla","salesPerson":"Matthew","category":"Griffin","brand":"so","value":764,"date":"2021-08-10T06:16:37.853Z"}
+{"road":"Porena Lane","suburb":"Favona","city":"Auckland","customer":"Liam","salesPerson":"Isaiah","category":"Leviathan","brand":"for","value":7059,"date":"2021-08-15T16:26:47.754Z"}
+{"road":"Edenvale Crescent","suburb":"Mount Eden","city":"Auckland","customer":"Jack","salesPerson":"Oliver","category":"Pegasus","brand":"or","value":7193,"date":"2022-02-11T11:48:49.048Z"}
+{"road":"Elder Place","suburb":"Massey","city":"Auckland","customer":"Ava","salesPerson":"Samuel","category":"Kraken","brand":"for","value":7654,"date":"2021-08-06T06:58:33.466Z"}
+{"road":"Anahere Lane","suburb":"Hillsborough","city":"Auckland","customer":"Daniel","salesPerson":"Noah","category":"Ogre","brand":"a","value":3925,"date":"2021-11-25T22:47:01.734Z"}
+{"road":"Richard Street","suburb":"Westmere","city":"Auckland","customer":"Eli","salesPerson":"Mia","category":"Golems","brand":"yet","value":7912,"date":"2021-08-30T20:55:13.361Z"}
+{"road":"John Downs Drive","suburb":"Browns Bay","city":"Auckland","customer":"Charlotte","salesPerson":"Elijah","category":"Bashee","brand":"for","value":121,"date":"2021-07-15T17:07:48.852Z"}
+{"road":"Te Anau Place","suburb":"Pakuranga Heights","city":"Auckland","customer":"Ivy","salesPerson":"Isabella","category":"Golems","brand":"yet","value":9873,"date":"2022-03-13T20:08:02.186Z"}
+{"road":"Kingston Heights Road","suburb":"Kingston","city":"Wellington","customer":"Sophia","salesPerson":"Daniel","category":"Sphinx","brand":"if","value":4223,"date":"2021-10-24T17:38:41.551Z"}
+{"road":"Lancing Road","suburb":"Sandringham","city":"Auckland","customer":"Elena","salesPerson":"Isaiah","category":"Leviathan","brand":"yet","value":6213,"date":"2021-06-10T18:01:35.746Z"}
+{"road":"Glen Atkinson Street","suburb":"St Heliers","city":"Auckland","customer":"Emma","salesPerson":"Kai","category":"Elf","brand":"the","value":1449,"date":"2022-04-11T11:34:41.187Z"}
+{"road":"Albion Lane","suburb":"Hillmorton","city":"Christchurch","customer":"Daniel","salesPerson":"Liam","category":"Cyclops","brand":"for","value":1442,"date":"2021-06-22T16:47:24.341Z"}
+{"road":"Mandarin Place","suburb":"Half Moon Bay","city":"Auckland","customer":"Charlotte","salesPerson":"Charlotte","category":"Kraken","brand":"or","value":5996,"date":"2021-10-30T01:16:12.348Z"}
+{"road":"Senecio Place","suburb":"Weymouth","city":"Auckland","customer":"Amelia","salesPerson":"Jacob","category":"Minotaur","brand":"yet","value":4366,"date":"2021-12-06T04:01:59.872Z"}
+{"road":"Vanadium Place","suburb":"Middleton","city":"Christchurch","customer":"Liam","salesPerson":"Carter","category":"Griffin","brand":"the","value":8406,"date":"2021-09-15T07:48:55.048Z"}
+{"road":"Korora Street","suburb":"Bromley","city":"Christchurch","customer":"Stella","salesPerson":"Amelia","category":"Phoenix","brand":"so","value":2010,"date":"2021-06-30T14:56:38.751Z"}
+{"road":"Quona Avenue","suburb":"Mount Roskill","city":"Auckland","customer":"Penelope","salesPerson":"Eli","category":"Griffin","brand":"the","value":3433,"date":"2021-10-20T21:34:13.842Z"}
+{"road":"Woodham Courts","suburb":"Linwood","city":"Christchurch","customer":"Aria","salesPerson":"Carter","category":"Griffin","brand":"the","value":3574,"date":"2022-04-14T03:22:17.456Z"}
+{"road":"Nottingham Avenue","suburb":"Halswell","city":"Christchurch","customer":"Riley","salesPerson":"Luke","category":"Cyclops","brand":"yet","value":3781,"date":"2021-06-22T02:34:19.016Z"}
+{"road":"Vardon Road","suburb":"Green Bay","city":"Auckland","customer":"Muhammad","salesPerson":"Elizabeth","category":"Medusa","brand":"a","value":5030,"date":"2021-10-04T10:20:03.437Z"}
+{"road":"Endeavour Street","suburb":"Lyall Bay","city":"Wellington","customer":"Willow","salesPerson":"Nova","category":"Minotaur","brand":"the","value":953,"date":"2021-10-31T18:57:10.581Z"}
+{"road":"Baker Street","suburb":"New Brighton","city":"Christchurch","customer":"Layla","salesPerson":"Joseph","category":"Leviathan","brand":"a","value":2204,"date":"2022-05-05T16:56:44.661Z"}
+{"road":"Hariata Street","suburb":"Flat Bush","city":"Auckland","customer":"William","salesPerson":"Addison","category":"Golems","brand":"if","value":4003,"date":"2021-10-29T19:30:06.854Z"}
+{"road":"Patmos Place","suburb":"Mount Pleasant","city":"Christchurch","customer":"Riley","salesPerson":"John","category":"Leviathan","brand":"if","value":9806,"date":"2021-07-27T19:17:47.843Z"}
+{"road":"Cebalo Place","suburb":"Mount Wellington","city":"Auckland","customer":"John","salesPerson":"Mason","category":"Hydra","brand":"so","value":4027,"date":"2021-08-09T05:32:55.368Z"}
+{"road":"Ambleside Drive","suburb":"Burnside","city":"Christchurch","customer":"Wyatt","salesPerson":"Matthew","category":"Griffin","brand":"but","value":7118,"date":"2021-11-10T12:44:25.524Z"}
+{"road":"Kanorau Place","suburb":"Mangere","city":"Auckland","customer":"Stella","salesPerson":"Isabella","category":"Bashee","brand":"a","value":2066,"date":"2021-09-19T02:12:13.159Z"}
+{"road":"Cuthberts Road","suburb":"Bromley","city":"Christchurch","customer":"Joseph","salesPerson":"Grace","category":"Hydra","brand":"an","value":3196,"date":"2022-04-26T06:27:17.700Z"}
+{"road":"Soljak Place","suburb":"Mount Albert","city":"Auckland","customer":"Aiden","salesPerson":"Lincoln","category":"Pixie","brand":"the","value":2801,"date":"2021-06-01T18:14:24.880Z"}
+{"road":"Baldwin Avenue","suburb":"Mount Albert","city":"Auckland","customer":"Ryleigh","salesPerson":"Paisley","category":"Cyclops","brand":"the","value":3062,"date":"2022-02-11T14:40:03.472Z"}
+{"road":"Yacht Place","suburb":"Bucklands Beach","city":"Auckland","customer":"Eli","salesPerson":"Amelia","category":"Dragon","brand":"if","value":2321,"date":"2021-12-22T05:34:21.711Z"}
+{"road":"Glendon Avenue","suburb":"Avondale","city":"Auckland","customer":"Aurora","salesPerson":"Owen","category":"Griffin","brand":"yet","value":2955,"date":"2022-05-18T04:40:40.405Z"}
+{"road":"Hilltop Road","suburb":"Flat Bush","city":"Auckland","customer":"Emily","salesPerson":"Levi","category":"Mermaid","brand":"or","value":632,"date":"2022-04-05T23:10:10.576Z"}
+{"road":"Nirvana Way","suburb":"Mount Roskill","city":"Auckland","customer":"Ivy","salesPerson":"Sophia","category":"Minotaur","brand":"an","value":4602,"date":"2021-11-15T19:27:53.582Z"}
+{"road":"Mackwood Place","suburb":"Birkdale","city":"Auckland","customer":"Isabella","salesPerson":"Liam","category":"Ogre","brand":"for","value":7271,"date":"2021-10-24T14:28:51.553Z"}
+{"road":"Forest Hill Road","suburb":"Oratia","city":"Auckland","customer":"Samuel","salesPerson":"Maya","category":"Ogre","brand":"or","value":9782,"date":"2021-10-19T01:26:21.657Z"}
+{"road":"Heaton Terrace","suburb":"Brooklyn","city":"Wellington","customer":"Ellie","salesPerson":"Scarlett","category":"Dragon","brand":"so","value":5075,"date":"2021-06-14T02:57:15.533Z"}
+{"road":"Platinum Drive","suburb":"Wigram","city":"Christchurch","customer":"Isaiah","salesPerson":"Jacob","category":"Leprechaun","brand":"for","value":4812,"date":"2021-09-01T06:50:01.010Z"}
+{"road":"Normans Road","suburb":"Strowan","city":"Christchurch","customer":"Eleanor","salesPerson":"Alexander","category":"Minotaur","brand":"for","value":3595,"date":"2021-08-21T05:23:08.225Z"}
+{"road":"Donegal Park Drive","suburb":"Flat Bush","city":"Auckland","customer":"Sophia","salesPerson":"Levi","category":"Leprechaun","brand":"an","value":8570,"date":"2022-05-11T03:47:44.949Z"}
+{"road":"Pintner Place","suburb":"Somerville","city":"Auckland","customer":"Gianna","salesPerson":"Eleanor","category":"Kraken","brand":"an","value":9668,"date":"2021-08-26T18:53:18.666Z"}
+{"road":"Nicholas Street","suburb":"Auckland Central","city":"Auckland","customer":"Elizabeth","salesPerson":"Maya","category":"Dragon","brand":"and","value":296,"date":"2022-04-13T15:04:31.807Z"}
+{"road":"Sandhurst Way","suburb":"Crofton Downs","city":"Wellington","customer":"Emma","salesPerson":"Matthew","category":"Pixie","brand":"so","value":3179,"date":"2021-08-03T21:50:54.740Z"}
+{"road":"Phoebe Meikle Place","suburb":"Torbay","city":"Auckland","customer":"Maverick","salesPerson":"Lucas","category":"Medusa","brand":"but","value":4521,"date":"2021-06-15T16:52:30.540Z"}
+{"road":"Alwyn Place","suburb":"Newlands","city":"Wellington","customer":"Luke","salesPerson":"Olivia","category":"Medusa","brand":"a","value":8864,"date":"2021-07-06T08:18:04.844Z"}
+{"road":"Greys Avenue","suburb":"Auckland Central","city":"Auckland","customer":"Michael","salesPerson":"Jaxon","category":"Medusa","brand":"a","value":6696,"date":"2021-06-26T04:22:02.745Z"}
+{"road":"Hattersley Grove","suburb":"Churton Park","city":"Wellington","customer":"Jack","salesPerson":"Liam","category":"Leprechaun","brand":"a","value":1339,"date":"2021-08-15T18:10:21.374Z"}
+{"road":"Parker Crescent","suburb":"Otara","city":"Auckland","customer":"Leo","salesPerson":"Lucas","category":"Cyclops","brand":"so","value":6436,"date":"2021-08-28T22:03:51.043Z"}
+{"road":"Kerridge Close","suburb":"Shamrock Park","city":"Auckland","customer":"Rylee","salesPerson":"Amelia","category":"Unicorn","brand":"or","value":949,"date":"2022-01-26T01:32:45.334Z"}
+{"road":"Edmonton Avenue","suburb":"Onehunga","city":"Auckland","customer":"Paisley","salesPerson":"Eli","category":"Phoenix","brand":"yet","value":4384,"date":"2021-12-15T01:32:03.525Z"}
+{"road":"Pyes Lane","suburb":"Okura","city":"Auckland","customer":"Gabriel","salesPerson":"Addison","category":"Pegasus","brand":"or","value":4560,"date":"2022-02-11T00:59:30.338Z"}
+{"road":"Francis James Lane","suburb":"Redcliffs","city":"Christchurch","customer":"Muhammad","salesPerson":"Hudson","category":"Kraken","brand":"for","value":6237,"date":"2021-06-08T12:46:42.493Z"}
+{"road":"Long Street","suburb":"Torbay","city":"Auckland","customer":"Riley","salesPerson":"Eli","category":"Kraken","brand":"a","value":4497,"date":"2021-07-27T09:40:55.021Z"}
+{"road":"Onekiritea Road","suburb":"Hobsonville","city":"Auckland","customer":"Aiden","salesPerson":"Charlotte","category":"Sphinx","brand":"or","value":5670,"date":"2021-10-26T10:55:30.951Z"}
+{"road":"Pavilion Drive","suburb":"Mangere","city":"Auckland","customer":"Mia","salesPerson":"Penelope","category":"Pixie","brand":"or","value":5408,"date":"2021-09-05T21:44:58.148Z"}
+{"road":"Davies Street","suburb":"Tawa","city":"Wellington","customer":"Lincoln","salesPerson":"Joseph","category":"Elf","brand":"but","value":7070,"date":"2021-12-12T13:11:40.895Z"}
+{"road":"Marei Road","suburb":"Ellerslie","city":"Auckland","customer":"Gabriel","salesPerson":"Ivy","category":"Medusa","brand":"the","value":9042,"date":"2022-01-29T19:45:41.652Z"}
+{"road":"Hoturoa Place","suburb":"Manurewa","city":"Auckland","customer":"Josiah","salesPerson":"Elijah","category":"Phoenix","brand":"a","value":6980,"date":"2022-05-12T12:55:20.098Z"}
+{"road":"Madeira Lane","suburb":"Massey","city":"Auckland","customer":"Matthew","salesPerson":"Ava","category":"Harpy","brand":"but","value":381,"date":"2022-02-17T03:52:04.009Z"}
+{"road":"Pearce Street","suburb":"Onehunga","city":"Auckland","customer":"Luca","salesPerson":"Stella","category":"Unicorn","brand":"so","value":2421,"date":"2021-09-05T02:48:48.205Z"}
+{"road":"Balla Place","suburb":"East Tamaki","city":"Auckland","customer":"Madison","salesPerson":"Samuel","category":"Hydra","brand":"an","value":2681,"date":"2021-07-17T08:52:55.536Z"}
+{"road":"Denarius Lane","suburb":"Glendene","city":"Auckland","customer":"Hazel","salesPerson":"Sophia","category":"Ogre","brand":"the","value":2940,"date":"2022-03-22T20:35:03.675Z"}
+{"road":"Manchester Terrace","suburb":"Melrose","city":"Wellington","customer":"Levi","salesPerson":"Muhammad","category":"Leviathan","brand":"for","value":9436,"date":"2021-11-02T06:47:25.461Z"}
+{"road":"Vandeleur Avenue","suburb":"Birkdale","city":"Auckland","customer":"Layla","salesPerson":"Grace","category":"Leviathan","brand":"a","value":2116,"date":"2021-06-12T03:19:11.210Z"}
+{"road":"Santa Cruz Drive","suburb":"Shamrock Park","city":"Auckland","customer":"Harper","salesPerson":"John","category":"Golems","brand":"and","value":6295,"date":"2021-08-20T04:38:43.813Z"}
+{"road":"Timmer Road","suburb":"Flat Bush","city":"Auckland","customer":"Rylee","salesPerson":"Isabella","category":"Pixie","brand":"a","value":9884,"date":"2022-01-13T01:43:31.317Z"}
+{"road":"Thomas Hook Street","suburb":"Tawa","city":"Wellington","customer":"Levi","salesPerson":"Oliver","category":"Phoenix","brand":"and","value":4357,"date":"2021-10-24T09:28:13.131Z"}
+{"road":"Davis Place","suburb":"Woolston","city":"Christchurch","customer":"Maverick","salesPerson":"Emma","category":"Bashee","brand":"the","value":3469,"date":"2022-01-14T07:54:26.202Z"}
+{"road":"The Crest","suburb":"Sunnyhills","city":"Auckland","customer":"Henry","salesPerson":"Luke","category":"Bashee","brand":"an","value":1008,"date":"2021-11-29T14:44:12.630Z"}
+{"road":"Columbia Crescent","suburb":"Beachlands","city":"Auckland","customer":"Maya","salesPerson":"Rylee","category":"Mermaid","brand":"so","value":973,"date":"2021-07-20T13:24:08.053Z"}
+{"road":"Adrian Place","suburb":"Shirley","city":"Christchurch","customer":"Oliver","salesPerson":"Elena","category":"Leviathan","brand":"if","value":2868,"date":"2021-09-25T20:46:34.288Z"}
+{"road":"Karo Place","suburb":"Ilam","city":"Christchurch","customer":"Ivy","salesPerson":"Eleanor","category":"Minotaur","brand":"but","value":3467,"date":"2021-12-04T15:55:45.730Z"}
+{"road":"Monteith Crescent","suburb":"Remuera","city":"Auckland","customer":"Rylee","salesPerson":"Julian","category":"Dragon","brand":"the","value":7315,"date":"2021-07-29T21:09:16.327Z"}
+{"road":"Link Road","suburb":"Kainga","city":"Christchurch","customer":"Jacob","salesPerson":"Lincoln","category":"Dragon","brand":"so","value":298,"date":"2021-11-26T23:04:09.182Z"}
+{"road":"Norrie Street","suburb":"Redwood","city":"Christchurch","customer":"Luca","salesPerson":"Oliver","category":"Golems","brand":"so","value":5410,"date":"2022-02-08T19:40:07.207Z"}
+{"road":"Luxton Place","suburb":"Mount Pleasant","city":"Christchurch","customer":"Zoey","salesPerson":"Olivia","category":"Medusa","brand":"a","value":3650,"date":"2021-11-13T16:06:25.734Z"}
+{"road":"Morrow Street","suburb":"Newmarket","city":"Auckland","customer":"Sophia","salesPerson":"Ivy","category":"Griffin","brand":"or","value":2356,"date":"2022-05-28T20:56:46.525Z"}
+{"road":"Frederick Street","suburb":"Waltham","city":"Christchurch","customer":"Grace","salesPerson":"Hudson","category":"Leviathan","brand":"and","value":9003,"date":"2021-12-29T15:14:04.437Z"}
+{"road":"Awatea Gardens","suburb":"Wigram","city":"Christchurch","customer":"David","salesPerson":"Gabriel","category":"Pixie","brand":"so","value":3550,"date":"2021-07-18T10:11:06.517Z"}
+{"road":"State Highway 16","suburb":"Whenuapai","city":"Auckland","customer":"Jaxon","salesPerson":"Ezra","category":"Unicorn","brand":"the","value":4331,"date":"2021-12-14T19:57:23.977Z"}
+{"road":"Rata Vine Drive","suburb":"Wiri","city":"Auckland","customer":"Charlotte","salesPerson":"Liam","category":"Ogre","brand":"or","value":2634,"date":"2022-04-21T15:10:49.596Z"}
+{"road":"Taitimu Drive","suburb":"Weymouth","city":"Auckland","customer":"Gabriel","salesPerson":"Elias","category":"Golems","brand":"the","value":9090,"date":"2021-12-05T06:43:12.509Z"}
+{"road":"Harrowglen Drive","suburb":"Northcross","city":"Auckland","customer":"Owen","salesPerson":"Paisley","category":"Harpy","brand":"so","value":3416,"date":"2022-03-25T14:20:05.726Z"}
+{"road":"Edgerton Road","suburb":"Te Atatu Peninsula","city":"Auckland","customer":"Benjamin","salesPerson":"Liam","category":"Elf","brand":"yet","value":7738,"date":"2022-04-22T12:40:47.471Z"}
+{"road":"Takahe Road","suburb":"Titirangi","city":"Auckland","customer":"Alexander","salesPerson":"Gabriel","category":"Phoenix","brand":"a","value":350,"date":"2021-12-29T20:25:24.039Z"}
+{"road":"Scorpio Place","suburb":"Windsor Park","city":"Auckland","customer":"Madison","salesPerson":"Kai","category":"Harpy","brand":"but","value":3531,"date":"2021-06-26T12:59:43.483Z"}
+{"road":"Ryehill Close","suburb":"New Lynn","city":"Auckland","customer":"Maverick","salesPerson":"Elias","category":"Leviathan","brand":"and","value":6674,"date":"2021-11-11T02:48:06.244Z"}
+{"road":"Middlemore Crescent","suburb":"Papatoetoe","city":"Auckland","customer":"Daniel","salesPerson":"Jacob","category":"Elf","brand":"if","value":9751,"date":"2021-09-12T20:35:00.957Z"}
+{"road":"William Colenso Square","suburb":"Thorndon","city":"Wellington","customer":"Anthony","salesPerson":"Riley","category":"Medusa","brand":"so","value":106,"date":"2021-10-10T23:13:14.883Z"}
+{"road":"Almond Grove","suburb":"Greenhithe","city":"Auckland","customer":"Aria","salesPerson":"Olivia","category":"Pixie","brand":"and","value":7659,"date":"2021-08-26T22:08:33.138Z"}
+{"road":"Stallion Avenue","suburb":"Halswell","city":"Christchurch","customer":"Matthew","salesPerson":"Gabriel","category":"Phoenix","brand":"but","value":311,"date":"2021-09-16T13:03:00.622Z"}
+{"road":"Huntly Road","suburb":"Campbells Bay","city":"Auckland","customer":"Ava","salesPerson":"Matthew","category":"Phoenix","brand":"so","value":3373,"date":"2021-06-06T03:24:27.063Z"}
+{"road":"Amelia Earhart Avenue","suburb":"Mangere","city":"Auckland","customer":"Ella","salesPerson":"Riley","category":"Cyclops","brand":"the","value":507,"date":"2021-08-11T03:35:36.083Z"}
+{"road":"Banksia Place","suburb":"Goodwood Heights","city":"Auckland","customer":"Maya","salesPerson":"Paisley","category":"Golems","brand":"or","value":6176,"date":"2021-10-27T06:15:05.415Z"}
+{"road":"Todd Plaza","suburb":"New Lynn","city":"Auckland","customer":"Jayden","salesPerson":"Eleanor","category":"Ogre","brand":"the","value":131,"date":"2021-08-08T10:28:08.510Z"}
+{"road":"Paice Avenue","suburb":"Mount Eden","city":"Auckland","customer":"Gianna","salesPerson":"Abigail","category":"Mermaid","brand":"for","value":416,"date":"2022-05-24T08:20:04.960Z"}
+{"road":"Lady Isaac Way","suburb":"Mairehau","city":"Christchurch","customer":"Elias","salesPerson":"Ryleigh","category":"Pegasus","brand":"yet","value":2032,"date":"2022-03-10T01:40:31.195Z"}
+{"road":"Jutland Street","suburb":"North New Brighton","city":"Christchurch","customer":"Emma","salesPerson":"Elena","category":"Sphinx","brand":"the","value":1365,"date":"2022-03-27T12:11:03.646Z"}
+{"road":"Soljan Drive","suburb":"Henderson","city":"Auckland","customer":"Ezra","salesPerson":"Amelia","category":"Griffin","brand":"an","value":3112,"date":"2022-02-13T19:50:28.440Z"}
+{"road":"Grandison Crescent","suburb":"New Lynn","city":"Auckland","customer":"Riley","salesPerson":"Luna","category":"Sphinx","brand":"and","value":8720,"date":"2021-07-26T15:56:27.325Z"}
+{"road":"Nectar Avenue","suburb":"Glen Eden","city":"Auckland","customer":"Isabella","salesPerson":"Zoey","category":"Leprechaun","brand":"but","value":6729,"date":"2022-03-18T19:39:29.857Z"}
+{"road":"Clady Drive","suburb":"Flat Bush","city":"Auckland","customer":"Luna","salesPerson":"Isaiah","category":"Hydra","brand":"for","value":1448,"date":"2021-10-03T05:19:17.658Z"}
+{"road":"Spruce Place","suburb":"Totara Heights","city":"Auckland","customer":"Nora","salesPerson":"Stella","category":"Minotaur","brand":"for","value":3101,"date":"2022-01-25T13:42:50.049Z"}
+{"road":"Seelie Road","suburb":"Flat Bush","city":"Auckland","customer":"Ivy","salesPerson":"Penelope","category":"Elf","brand":"if","value":2125,"date":"2022-01-04T05:12:45.233Z"}
+{"road":"Duncan MacLean Link","suburb":"Morningside","city":"Auckland","customer":"Henry","salesPerson":"Penelope","category":"Harpy","brand":"yet","value":9316,"date":"2021-11-14T20:44:25.126Z"}
+{"road":"Espada Place","suburb":"Clover Park","city":"Auckland","customer":"Abigail","salesPerson":"Addison","category":"Leviathan","brand":"or","value":1170,"date":"2021-08-03T01:34:24.223Z"}
+{"road":"Lyons Crescent","suburb":"Strathmore Park","city":"Wellington","customer":"Aurora","salesPerson":"Abigail","category":"Leviathan","brand":"yet","value":3988,"date":"2021-09-25T19:57:20.221Z"}
+{"road":"Darion Drive","suburb":"Flat Bush","city":"Auckland","customer":"Owen","salesPerson":"Muhammad","category":"Hydra","brand":"for","value":7593,"date":"2021-10-10T08:26:27.873Z"}
+{"road":"Dawson Road","suburb":"Otara","city":"Auckland","customer":"Scarlett","salesPerson":"Elizabeth","category":"Ogre","brand":"the","value":5947,"date":"2021-12-17T13:06:13.105Z"}
+{"road":"Ozich Avenue","suburb":"Te Atatu South","city":"Auckland","customer":"Alexander","salesPerson":"Joseph","category":"Sphinx","brand":"or","value":9790,"date":"2022-02-25T04:53:36.786Z"}
+{"road":"Martin Place","suburb":"Panmure","city":"Auckland","customer":"Eli","salesPerson":"Zoey","category":"Minotaur","brand":"an","value":9672,"date":"2022-03-27T19:24:49.935Z"}
+{"road":"Hillary Crescent","suburb":"Belmont","city":"Auckland","customer":"Isabella","salesPerson":"Samuel","category":"Pegasus","brand":"yet","value":8953,"date":"2022-03-18T00:53:33.424Z"}
+{"road":"Dryden Avenue","suburb":"Papatoetoe","city":"Auckland","customer":"James","salesPerson":"Gabriel","category":"Kraken","brand":"so","value":3406,"date":"2021-08-23T18:42:44.227Z"}
+{"road":"Farnham Street","suburb":"Mornington","city":"Wellington","customer":"Muhammad","salesPerson":"Muhammad","category":"Bashee","brand":"or","value":243,"date":"2022-01-25T09:26:30.935Z"}
+{"road":"Mainston Road","suburb":"Remuera","city":"Auckland","customer":"Ryleigh","salesPerson":"Elias","category":"Bashee","brand":"if","value":3948,"date":"2022-05-30T03:32:36.667Z"}
+{"road":"Cyril French Drive","suburb":"Flat Bush","city":"Auckland","customer":"Zoey","salesPerson":"Charlotte","category":"Unicorn","brand":"but","value":223,"date":"2021-08-12T12:12:06.915Z"}
+{"road":"Clensmore Place","suburb":"Torbay","city":"Auckland","customer":"Harper","salesPerson":"Riley","category":"Medusa","brand":"the","value":3185,"date":"2022-04-11T18:45:16.995Z"}
+{"road":"Leiden Place","suburb":"Totara Vale","city":"Auckland","customer":"Joseph","salesPerson":"Charlotte","category":"Unicorn","brand":"a","value":2240,"date":"2021-07-14T14:47:30.513Z"}
+{"road":"Silver Birch Rise","suburb":"Henderson","city":"Auckland","customer":"Ava","salesPerson":"Isla","category":"Cyclops","brand":"yet","value":6775,"date":"2022-05-18T23:01:46.950Z"}
+{"road":"Baigent Way","suburb":"Middleton","city":"Christchurch","customer":"Sebastian","salesPerson":"Carter","category":"Unicorn","brand":"yet","value":1331,"date":"2021-08-19T07:09:27.485Z"}
+{"road":"Braestar Court","suburb":"Henderson","city":"Auckland","customer":"Maverick","salesPerson":"Jacob","category":"Hydra","brand":"a","value":1827,"date":"2022-05-30T22:21:04.147Z"}
+{"road":"Broadhaven Avenue","suburb":"Parklands","city":"Christchurch","customer":"Willow","salesPerson":"Sofia","category":"Phoenix","brand":"but","value":383,"date":"2021-10-13T16:17:27.333Z"}
+{"road":"Ronald Place","suburb":"Manurewa","city":"Auckland","customer":"Sofia","salesPerson":"Isla","category":"Ogre","brand":"or","value":8448,"date":"2022-04-27T15:56:02.196Z"}
+{"road":"Starlight Cove","suburb":"Hobsonville","city":"Auckland","customer":"Emily","salesPerson":"Jacob","category":"Sphinx","brand":"and","value":1456,"date":"2021-08-28T17:33:43.043Z"}
+{"road":"Jalna Avenue","suburb":"Khandallah","city":"Wellington","customer":"Elizabeth","salesPerson":"Chloe","category":"Pixie","brand":"an","value":8944,"date":"2021-09-10T15:42:25.495Z"}
+{"road":"Terra Nova Street","suburb":"Glen Eden","city":"Auckland","customer":"Kai","salesPerson":"Matthew","category":"Dragon","brand":"a","value":6197,"date":"2021-09-06T12:46:24.886Z"}
+{"road":"Ashbrook Lane","suburb":"Somerfield","city":"Christchurch","customer":"Samuel","salesPerson":"Samuel","category":"Golems","brand":"but","value":868,"date":"2022-02-24T05:51:56.424Z"}
+{"road":"Sir Peter Blake Parade","suburb":"Bayswater","city":"Auckland","customer":"Liam","salesPerson":"Sophia","category":"Medusa","brand":"an","value":8473,"date":"2021-12-17T23:42:02.297Z"}
+{"road":"Akoranga Drive","suburb":"Northcote","city":"Auckland","customer":"Olivia","salesPerson":"Ivy","category":"Hydra","brand":"but","value":2881,"date":"2022-01-08T14:52:10.228Z"}
+{"road":"Dalziel Place","suburb":"Woolston","city":"Christchurch","customer":"Isla","salesPerson":"Sofia","category":"Bashee","brand":"for","value":7584,"date":"2022-05-18T11:03:39.049Z"}
+{"road":"Chatham Avenue","suburb":"Mount Albert","city":"Auckland","customer":"Benjamin","salesPerson":"Abigail","category":"Dragon","brand":"for","value":3848,"date":"2021-06-30T19:15:43.751Z"}
+{"road":"Stubberfield Street","suburb":"Halswell","city":"Christchurch","customer":"Zoey","salesPerson":"Eleanor","category":"Unicorn","brand":"if","value":8459,"date":"2021-09-12T21:50:26.882Z"}
+{"road":"Alderley Road","suburb":"Mount Eden","city":"Auckland","customer":"Logan","salesPerson":"Levi","category":"Pixie","brand":"if","value":1929,"date":"2021-07-14T17:55:43.950Z"}
+{"road":"Secretariat Place","suburb":"Randwick Park","city":"Auckland","customer":"Luca","salesPerson":"Zoey","category":"Hydra","brand":"for","value":9427,"date":"2022-01-08T12:47:40.193Z"}
+{"road":"Ayrton Street","suburb":"Te Atatu South","city":"Auckland","customer":"Levi","salesPerson":"Amelia","category":"Pegasus","brand":"a","value":2775,"date":"2022-01-27T05:06:33.844Z"}
+{"road":"Knightsbridge Lane","suburb":"Aranui","city":"Christchurch","customer":"Liam","salesPerson":"Gabriel","category":"Unicorn","brand":"so","value":9260,"date":"2022-03-21T22:57:09.506Z"}
+{"road":"Pedersen Place","suburb":"Bucklands Beach","city":"Auckland","customer":"Evelyn","salesPerson":"Luke","category":"Sphinx","brand":"if","value":6021,"date":"2021-10-17T06:47:40.488Z"}
+{"road":"Boundary Road","suburb":"Clover Park","city":"Auckland","customer":"Gabriel","salesPerson":"Michael","category":"Pegasus","brand":"yet","value":4034,"date":"2021-08-17T10:52:27.587Z"}
+{"road":"Mackworth Street","suburb":"Woolston","city":"Christchurch","customer":"Avery","salesPerson":"Joseph","category":"Kraken","brand":"a","value":3666,"date":"2022-05-08T12:02:48.116Z"}
+{"road":"Randal Place","suburb":"Bayview","city":"Auckland","customer":"John","salesPerson":"Eleanor","category":"Sphinx","brand":"but","value":5802,"date":"2022-04-22T03:34:57.886Z"}
+{"road":"Hyndhope Road","suburb":"Kennedys Bush","city":"Christchurch","customer":"Charlie","salesPerson":"Scarlett","category":"Leviathan","brand":"so","value":7055,"date":"2021-12-15T19:04:31.814Z"}
+{"road":"McLean Street","suburb":"Linwood","city":"Christchurch","customer":"Jayden","salesPerson":"Samuel","category":"Dragon","brand":"a","value":4815,"date":"2021-12-11T03:31:14.930Z"}
+{"road":"Hillcrest Grove","suburb":"Hillpark","city":"Auckland","customer":"Layla","salesPerson":"Mia","category":"Minotaur","brand":"yet","value":1293,"date":"2022-04-08T21:02:15.338Z"}
+{"road":"Contact Lane","suburb":"Hobsonville","city":"Auckland","customer":"Jackson","salesPerson":"Rylee","category":"Bashee","brand":"the","value":5699,"date":"2022-05-15T00:53:29.530Z"}
+{"road":"Seacroft Place","suburb":"Waimairi Beach","city":"Christchurch","customer":"Everly","salesPerson":"Matthew","category":"Sphinx","brand":"and","value":9996,"date":"2021-11-14T17:38:35.437Z"}
+{"road":"Shera Road","suburb":"Remuera","city":"Auckland","customer":"Muhammad","salesPerson":"Zoey","category":"Sphinx","brand":"the","value":8092,"date":"2021-10-01T08:49:14.643Z"}
+{"road":"Kastos Way","suburb":"Strathmore Park","city":"Wellington","customer":"Jaxon","salesPerson":"Scarlett","category":"Griffin","brand":"a","value":591,"date":"2022-03-17T23:56:46.523Z"}
+{"road":"Waipouri Road","suburb":"Mangere","city":"Auckland","customer":"John","salesPerson":"Zoey","category":"Hydra","brand":"so","value":2455,"date":"2022-02-10T02:27:17.753Z"}
+{"road":"Ariki Place","suburb":"Hei Hei","city":"Christchurch","customer":"Isaiah","salesPerson":"Scarlett","category":"Pegasus","brand":"yet","value":5093,"date":"2022-03-26T01:24:28.129Z"}
+{"road":"Vidiri Court","suburb":"Flat Bush","city":"Auckland","customer":"Emilia","salesPerson":"Charlotte","category":"Harpy","brand":"or","value":9128,"date":"2021-09-24T09:09:26.153Z"}
+{"road":"Rollesby Street","suburb":"Hoon Hay","city":"Christchurch","customer":"Layla","salesPerson":"Lincoln","category":"Hydra","brand":"for","value":5254,"date":"2021-08-09T09:36:10.187Z"}
+{"road":"Wanganella Place","suburb":"Lynfield","city":"Auckland","customer":"Jackson","salesPerson":"Elias","category":"Golems","brand":"a","value":5170,"date":"2021-09-20T14:14:51.776Z"}
+{"road":"Parau Street","suburb":"Mount Eden","city":"Auckland","customer":"Benjamin","salesPerson":"Jacob","category":"Cyclops","brand":"or","value":8052,"date":"2022-05-21T00:54:51.333Z"}
+{"road":"Dione Place","suburb":"Flat Bush","city":"Auckland","customer":"Michael","salesPerson":"Noah","category":"Leviathan","brand":"yet","value":3204,"date":"2021-09-20T02:11:03.865Z"}
+{"road":"Lamorna Road","suburb":"Parklands","city":"Christchurch","customer":"Jacob","salesPerson":"Amelia","category":"Leprechaun","brand":"a","value":7563,"date":"2021-09-11T22:05:56.028Z"}
+{"road":"Abbotleigh Avenue","suburb":"Te Atatu Peninsula","city":"Auckland","customer":"Camila","salesPerson":"Amelia","category":"Phoenix","brand":"and","value":1711,"date":"2021-06-28T21:04:55.730Z"}
+{"road":"Gosset Street","suburb":"St Albans","city":"Christchurch","customer":"Leo","salesPerson":"Daniel","category":"Leviathan","brand":"an","value":5857,"date":"2022-01-22T08:18:22.910Z"}
+{"road":"Cradock Street","suburb":"Avondale","city":"Auckland","customer":"James","salesPerson":"Zoey","category":"Harpy","brand":"for","value":8863,"date":"2022-03-19T02:09:55.078Z"}
+{"road":"Sherwood Grove","suburb":"Northcross","city":"Auckland","customer":"Alexander","salesPerson":"Isaiah","category":"Harpy","brand":"an","value":7809,"date":"2022-03-15T13:06:30.517Z"}
+{"road":"Philomel Crescent","suburb":"Bayswater","city":"Auckland","customer":"Amelia","salesPerson":"Elizabeth","category":"Dragon","brand":"and","value":4228,"date":"2021-08-20T23:16:28.403Z"}
+{"road":"Noel Place","suburb":"Mount Roskill","city":"Auckland","customer":"Gianna","salesPerson":"Joseph","category":"Sphinx","brand":"if","value":4672,"date":"2022-04-29T21:43:29.199Z"}
+{"road":"Winery Way","suburb":"Henderson","city":"Auckland","customer":"Ella","salesPerson":"Olivia","category":"Kraken","brand":"an","value":7574,"date":"2022-04-11T14:41:52.469Z"}
+{"road":"Naples Way","suburb":"Albany Heights","city":"Auckland","customer":"Elena","salesPerson":"Gabriel","category":"Golems","brand":"yet","value":2531,"date":"2022-01-09T17:03:21.688Z"}
+{"road":"Fendalton Road","suburb":"Fendalton","city":"Christchurch","customer":"Riley","salesPerson":"Sofia","category":"Kraken","brand":"but","value":6793,"date":"2022-05-25T01:30:26.473Z"}
+{"road":"Remu Place","suburb":"Greenhithe","city":"Auckland","customer":"Lucas","salesPerson":"Rylee","category":"Minotaur","brand":"a","value":6795,"date":"2021-07-08T04:58:00.317Z"}
+{"road":"Rohi Place","suburb":"Flat Bush","city":"Auckland","customer":"Violet","salesPerson":"Elena","category":"Leviathan","brand":"or","value":2105,"date":"2022-04-03T19:42:54.730Z"}
+{"road":"Wilton Bush Road","suburb":"Wilton","city":"Wellington","customer":"Ryleigh","salesPerson":"Rylee","category":"Pixie","brand":"if","value":7830,"date":"2022-01-22T22:49:03.945Z"}
+{"road":"Mahoe Road","suburb":"Titirangi","city":"Auckland","customer":"Isaiah","salesPerson":"Luke","category":"Medusa","brand":"so","value":6385,"date":"2022-05-27T22:13:24.149Z"}
+{"road":"Stewart Duff Drive","suburb":"Moa Point","city":"Wellington","customer":"Ella","salesPerson":"Grace","category":"Harpy","brand":"if","value":4251,"date":"2022-05-04T10:42:09.547Z"}
+{"road":"Hanover Street","suburb":"Wadestown","city":"Wellington","customer":"Ezra","salesPerson":"Sebastian","category":"Hydra","brand":"so","value":3378,"date":"2022-01-17T18:49:26.792Z"}
+{"road":"Agincourt Street","suburb":"Glenfield","city":"Auckland","customer":"Maverick","salesPerson":"Luke","category":"Griffin","brand":"for","value":4695,"date":"2021-08-12T00:42:51.565Z"}
+{"road":"Valkyria Place","suburb":"Beach Haven","city":"Auckland","customer":"Mason","salesPerson":"Charlotte","category":"Griffin","brand":"a","value":2540,"date":"2021-11-21T01:36:12.798Z"}
+{"road":"Ofanoa Lane","suburb":"Mount Roskill","city":"Auckland","customer":"John","salesPerson":"Addison","category":"Leprechaun","brand":"the","value":7239,"date":"2022-03-13T10:36:51.262Z"}
+{"road":"Glendene Avenue","suburb":"Te Atatu South","city":"Auckland","customer":"Emily","salesPerson":"Lincoln","category":"Leprechaun","brand":"the","value":9517,"date":"2022-01-17T01:18:17.011Z"}
+{"road":"Clinker Place","suburb":"New Lynn","city":"Auckland","customer":"Ella","salesPerson":"Oliver","category":"Dragon","brand":"and","value":8990,"date":"2022-01-21T23:29:58.120Z"}
+{"road":"Spalding Street","suburb":"Bishopdale","city":"Christchurch","customer":"Ava","salesPerson":"Lincoln","category":"Kraken","brand":"for","value":8660,"date":"2021-12-18T21:22:01.574Z"}
+{"road":"Cuthberts Road","suburb":"Bromley","city":"Christchurch","customer":"Sebastian","salesPerson":"Sofia","category":"Harpy","brand":"so","value":960,"date":"2021-07-24T19:35:58.713Z"}
+{"road":"Velma Road","suburb":"Hillcrest","city":"Auckland","customer":"Ava","salesPerson":"Eli","category":"Griffin","brand":"but","value":5766,"date":"2022-02-16T21:26:54.577Z"}
+{"road":"Larch Place","suburb":"Casebrook","city":"Christchurch","customer":"Elizabeth","salesPerson":"Ryleigh","category":"Cyclops","brand":"for","value":6532,"date":"2022-04-04T23:52:18.525Z"}
+{"road":"Chapel Road","suburb":"Shamrock Park","city":"Auckland","customer":"Emily","salesPerson":"Stella","category":"Ogre","brand":"a","value":7512,"date":"2022-03-22T13:35:14.769Z"}
+{"road":"Fillbridge Way","suburb":"Karori","city":"Wellington","customer":"Jaxon","salesPerson":"Julian","category":"Dragon","brand":"so","value":3865,"date":"2022-05-12T18:22:31.585Z"}
+{"road":"Spinnaker Lane","suburb":"Clifton","city":"Christchurch","customer":"Aria","salesPerson":"Emma","category":"Leprechaun","brand":"if","value":718,"date":"2021-09-29T14:44:27.939Z"}
+{"road":"Levinge Lane","suburb":"Hillmorton","city":"Christchurch","customer":"Charlie","salesPerson":"Elizabeth","category":"Leviathan","brand":"but","value":6006,"date":"2022-05-27T06:57:02.705Z"}
+{"road":"Vaughan Crescent","suburb":"Murrays Bay","city":"Auckland","customer":"William","salesPerson":"Hudson","category":"Cyclops","brand":"but","value":2471,"date":"2022-01-14T18:17:53.316Z"}
+{"road":"Windoma Circle","suburb":"Manukau","city":"Auckland","customer":"Matthew","salesPerson":"Ryleigh","category":"Pixie","brand":"so","value":3929,"date":"2021-08-01T10:15:13.561Z"}
+{"road":"Hazel Glen","suburb":"Bayview","city":"Auckland","customer":"Sebastian","salesPerson":"Julian","category":"Harpy","brand":"and","value":8959,"date":"2021-11-19T13:45:11.599Z"}
+{"road":"Entrican Avenue","suburb":"Remuera","city":"Auckland","customer":"Jackson","salesPerson":"Stella","category":"Pixie","brand":"and","value":731,"date":"2021-09-05T06:11:53.479Z"}
+{"road":"Bryant Place","suburb":"Glendowie","city":"Auckland","customer":"Emilia","salesPerson":"Noah","category":"Hydra","brand":"if","value":8815,"date":"2021-07-03T08:37:26.210Z"}
+{"road":"Rindle Lane","suburb":"Northwood","city":"Christchurch","customer":"James","salesPerson":"Aurora","category":"Hydra","brand":"or","value":8057,"date":"2021-10-30T07:36:29.382Z"}
+{"road":"Yardley Street","suburb":"Avonhead","city":"Christchurch","customer":"Layla","salesPerson":"Luke","category":"Unicorn","brand":"for","value":4548,"date":"2022-03-21T20:09:08.089Z"}
+{"road":"Miro Street","suburb":"Miramar","city":"Wellington","customer":"Elias","salesPerson":"Matthew","category":"Leprechaun","brand":"so","value":3399,"date":"2022-02-20T11:27:30.947Z"}
+{"road":"Wright Street","suburb":"Mount Cook","city":"Wellington","customer":"Sofia","salesPerson":"Owen","category":"Bashee","brand":"so","value":1202,"date":"2021-12-06T16:42:00.976Z"}
+{"road":"Turi Avenue","suburb":"Whenuapai","city":"Auckland","customer":"Luna","salesPerson":"Isabella","category":"Bashee","brand":"but","value":8153,"date":"2021-08-11T04:35:36.076Z"}
+{"road":"Kupe Avenue","suburb":"Whenuapai","city":"Auckland","customer":"Lily","salesPerson":"Samuel","category":"Hydra","brand":"if","value":8385,"date":"2021-11-26T12:00:32.484Z"}
+{"road":"Seymour Street","suburb":"Saint Marys Bay","city":"Auckland","customer":"Scarlett","salesPerson":"Mia","category":"Minotaur","brand":"for","value":6985,"date":"2021-06-03T11:55:22.571Z"}
+{"road":"Broadway","suburb":"Miramar","city":"Wellington","customer":"Leo","salesPerson":"Sebastian","category":"Harpy","brand":"if","value":1099,"date":"2022-04-08T06:26:27.442Z"}
+{"road":"Kawau Crescent","suburb":"Bromley","city":"Christchurch","customer":"Samuel","salesPerson":"Aurora","category":"Phoenix","brand":"yet","value":6198,"date":"2022-03-23T05:33:58.989Z"}
+{"road":"St Kitts Place","suburb":"Grenada Village","city":"Wellington","customer":"Ella","salesPerson":"Emma","category":"Pegasus","brand":"the","value":4787,"date":"2022-02-11T07:17:58.357Z"}
+{"road":"Vogler Drive","suburb":"Wiri","city":"Auckland","customer":"Grayson","salesPerson":"Ryleigh","category":"Elf","brand":"the","value":3752,"date":"2022-02-20T00:04:12.736Z"}
+{"road":"Hemi Street","suburb":"Narrow Neck","city":"Auckland","customer":"Eliana","salesPerson":"Ava","category":"Leviathan","brand":"for","value":5936,"date":"2021-10-17T07:30:46.859Z"}
+{"road":"Istana Place","suburb":"Burwood","city":"Christchurch","customer":"Maverick","salesPerson":"Chloe","category":"Hydra","brand":"and","value":3164,"date":"2022-03-09T14:47:36.304Z"}
+{"road":"Taitua Drive","suburb":"Te Atatu South","city":"Auckland","customer":"Grayson","salesPerson":"Levi","category":"Unicorn","brand":"a","value":7784,"date":"2021-08-03T20:16:22.319Z"}
+{"road":"Feasegate Street","suburb":"Manurewa","city":"Auckland","customer":"Grayson","salesPerson":"Jaxon","category":"Kraken","brand":"yet","value":4531,"date":"2022-05-28T09:24:44.489Z"}
+{"road":"Corbett-Scott Avenue","suburb":"Epsom","city":"Auckland","customer":"Isabella","salesPerson":"Lincoln","category":"Medusa","brand":"or","value":4452,"date":"2022-02-28T06:35:08.031Z"}
+{"road":"Wakelin Place","suburb":"Redwood","city":"Christchurch","customer":"Wyatt","salesPerson":"Gabriel","category":"Pegasus","brand":"a","value":2205,"date":"2021-09-06T02:49:44.279Z"}
+{"road":"Borlase Lane","suburb":"Favona","city":"Auckland","customer":"Joseph","salesPerson":"Maya","category":"Leprechaun","brand":"but","value":757,"date":"2021-11-13T22:21:01.911Z"}
+{"road":"Derrynane Lane","suburb":"Cashmere","city":"Christchurch","customer":"Willow","salesPerson":"Sebastian","category":"Minotaur","brand":"an","value":6170,"date":"2021-10-05T02:20:14.280Z"}
+{"road":"Clifton Bay","suburb":"Clifton","city":"Christchurch","customer":"Aiden","salesPerson":"Charlie","category":"Elf","brand":"a","value":6137,"date":"2021-06-24T19:33:29.587Z"}
+{"road":"Ryehill Close","suburb":"New Lynn","city":"Auckland","customer":"Elena","salesPerson":"Kai","category":"Harpy","brand":"a","value":8719,"date":"2022-01-08T15:02:23.975Z"}
+{"road":"Leamington Road","suburb":"Mount Eden","city":"Auckland","customer":"Camila","salesPerson":"Michael","category":"Bashee","brand":"or","value":9950,"date":"2021-10-02T21:18:37.744Z"}
+{"road":"Valhalla Drive","suburb":"Beach Haven","city":"Auckland","customer":"John","salesPerson":"Jacob","category":"Ogre","brand":"a","value":1656,"date":"2022-05-24T04:27:54.273Z"}
+{"road":"Everest Street","suburb":"Devonport","city":"Auckland","customer":"Daniel","salesPerson":"Olivia","category":"Cyclops","brand":"for","value":6557,"date":"2021-11-12T02:51:47.083Z"}
+{"road":"Zelda Avenue","suburb":"Clover Park","city":"Auckland","customer":"Scarlett","salesPerson":"Riley","category":"Ogre","brand":"if","value":2990,"date":"2021-08-27T14:06:41.667Z"}
+{"road":"Tirau Place","suburb":"Mangere","city":"Auckland","customer":"John","salesPerson":"Mia","category":"Hydra","brand":"for","value":6460,"date":"2021-07-13T09:29:31.295Z"}
+{"road":"Moa Point Road","suburb":"Moa Point","city":"Wellington","customer":"Stella","salesPerson":"Scarlett","category":"Golems","brand":"for","value":5575,"date":"2021-10-23T22:33:48.473Z"}
+{"road":"Cathedral Square","suburb":"Christchurch Central","city":"Christchurch","customer":"Charlotte","salesPerson":"Carter","category":"Kraken","brand":"for","value":6396,"date":"2021-09-28T17:49:17.610Z"}
+{"road":"Okewa Road","suburb":"Titirangi","city":"Auckland","customer":"Aurora","salesPerson":"John","category":"Griffin","brand":"so","value":36,"date":"2022-04-14T07:07:32.111Z"}
+{"road":"Eccleston Hill","suburb":"Thorndon","city":"Wellington","customer":"Elena","salesPerson":"Liam","category":"Leviathan","brand":"and","value":7325,"date":"2022-01-30T05:41:09.384Z"}
+{"road":"Kirkella Crescent","suburb":"Mangere East","city":"Auckland","customer":"Leo","salesPerson":"Ezra","category":"Pixie","brand":"for","value":3039,"date":"2021-12-03T07:35:24.403Z"}
+{"road":"Lower Albert Street","suburb":"Auckland Central","city":"Auckland","customer":"Jack","salesPerson":"Isla","category":"Golems","brand":"and","value":9166,"date":"2022-02-26T12:27:45.717Z"}
+{"road":"Kohi Kai Place","suburb":"Weymouth","city":"Auckland","customer":"Elena","salesPerson":"Sophia","category":"Elf","brand":"the","value":5476,"date":"2022-02-05T16:11:41.809Z"}
+{"road":"Omana Road","suburb":"Milford","city":"Auckland","customer":"James","salesPerson":"Anthony","category":"Pixie","brand":"for","value":2273,"date":"2021-07-22T12:30:34.701Z"}
+{"road":"Waterstock Way","suburb":"Parklands","city":"Christchurch","customer":"Jacob","salesPerson":"Amelia","category":"Cyclops","brand":"for","value":7680,"date":"2021-10-04T04:52:50.228Z"}
+{"road":"Highgate Place","suburb":"Somerville","city":"Auckland","customer":"Gabriel","salesPerson":"Olivia","category":"Hydra","brand":"yet","value":8155,"date":"2021-07-07T04:37:23.471Z"}
+{"road":"Irene Avenue","suburb":"Mount Eden","city":"Auckland","customer":"Luna","salesPerson":"Jacob","category":"Bashee","brand":"if","value":6931,"date":"2022-05-01T01:40:02.314Z"}
+{"road":"Donald McLean Street","suburb":"Newtown","city":"Wellington","customer":"Logan","salesPerson":"Michael","category":"Griffin","brand":"but","value":1690,"date":"2021-06-07T17:56:22.101Z"}
+{"road":"Marina Road","suburb":"Torbay","city":"Auckland","customer":"Emily","salesPerson":"Hazel","category":"Cyclops","brand":"a","value":8622,"date":"2022-04-09T04:23:11.584Z"}
+{"road":"Vista Estate Boulevard","suburb":"Flat Bush","city":"Auckland","customer":"Daniel","salesPerson":"Grace","category":"Minotaur","brand":"a","value":7866,"date":"2021-09-17T12:47:18.172Z"}
+{"road":"Denbigh Avenue","suburb":"Mount Roskill","city":"Auckland","customer":"Luca","salesPerson":"Isabella","category":"Pegasus","brand":"yet","value":3445,"date":"2021-08-24T10:36:22.336Z"}
+{"road":"Sisson Drive","suburb":"Papanui","city":"Christchurch","customer":"Mia","salesPerson":"Sebastian","category":"Ogre","brand":"or","value":574,"date":"2022-03-09T00:01:30.370Z"}
+{"road":"Listack Drive","suburb":"Flat Bush","city":"Auckland","customer":"Josiah","salesPerson":"Elijah","category":"Medusa","brand":"but","value":3476,"date":"2021-12-05T05:22:52.122Z"}
+{"road":"Groynes Drive","suburb":"Northwood","city":"Christchurch","customer":"Kai","salesPerson":"Samuel","category":"Hydra","brand":"and","value":1289,"date":"2021-11-22T02:43:22.306Z"}
+{"road":"Pope Street","suburb":"Addington","city":"Christchurch","customer":"Riley","salesPerson":"Ryleigh","category":"Kraken","brand":"yet","value":4250,"date":"2021-06-26T09:32:21.879Z"}
+{"road":"Regency Lane","suburb":"Rosedale","city":"Auckland","customer":"Eli","salesPerson":"Charlotte","category":"Griffin","brand":"the","value":5427,"date":"2022-02-11T02:56:39.352Z"}
+{"road":"Range Road","suburb":"Swanson","city":"Auckland","customer":"James","salesPerson":"Matthew","category":"Pixie","brand":"a","value":9538,"date":"2022-01-02T16:57:08.102Z"}
+{"road":"Halberg Street","suburb":"Glenfield","city":"Auckland","customer":"Matthew","salesPerson":"Mason","category":"Cyclops","brand":"so","value":3015,"date":"2022-01-13T03:55:52.931Z"}
+{"road":"Laburnum Road","suburb":"New Windsor","city":"Auckland","customer":"Levi","salesPerson":"Grace","category":"Bashee","brand":"or","value":7653,"date":"2022-05-19T07:34:14.802Z"}
+{"road":"Penlington Place","suburb":"Karori","city":"Wellington","customer":"Hudson","salesPerson":"William","category":"Golems","brand":"and","value":5060,"date":"2022-04-20T05:23:27.196Z"}
+{"road":"Marae Road","suburb":"Greenhithe","city":"Auckland","customer":"Willow","salesPerson":"Eleanor","category":"Harpy","brand":"or","value":1459,"date":"2022-05-04T16:42:24.073Z"}
+{"road":"Tūāpapa Way","suburb":"Mount Wellington","city":"Auckland","customer":"Hudson","salesPerson":"Sophia","category":"Unicorn","brand":"or","value":8909,"date":"2021-10-31T13:14:12.067Z"}
+{"road":"Kaanapali Place","suburb":"Wattle Downs","city":"Auckland","customer":"Isabella","salesPerson":"Julian","category":"Pixie","brand":"for","value":5462,"date":"2021-08-16T06:38:25.014Z"}
+{"road":"Haast Street","suburb":"Linwood","city":"Christchurch","customer":"Eleanor","salesPerson":"Carter","category":"Kraken","brand":"yet","value":8484,"date":"2022-04-17T01:41:32.626Z"}
+{"road":"Porter Street","suburb":"Wigram","city":"Christchurch","customer":"Sebastian","salesPerson":"Amelia","category":"Kraken","brand":"so","value":447,"date":"2021-10-22T21:46:43.207Z"}
+{"road":"Luckens Road","suburb":"West Harbour","city":"Auckland","customer":"Ezra","salesPerson":"Luke","category":"Pegasus","brand":"but","value":6757,"date":"2021-07-29T07:53:32.071Z"}
+{"road":"Kerr Crescent","suburb":"Glendowie","city":"Auckland","customer":"William","salesPerson":"Noah","category":"Kraken","brand":"an","value":9222,"date":"2021-12-07T11:11:33.255Z"}
+{"road":"Koromiko Street","suburb":"New Lynn","city":"Auckland","customer":"David","salesPerson":"Julian","category":"Ogre","brand":"but","value":2932,"date":"2021-11-18T00:38:31.421Z"}
+{"road":"Birdwood Street","suburb":"Karori","city":"Wellington","customer":"Elena","salesPerson":"William","category":"Minotaur","brand":"but","value":4856,"date":"2021-10-21T07:57:36.931Z"}
+{"road":"Jacobsen Lane","suburb":"Ngaio","city":"Wellington","customer":"Madison","salesPerson":"Samuel","category":"Dragon","brand":"yet","value":16,"date":"2021-06-17T17:55:12.146Z"}
+{"road":"Judge Street","suburb":"Woolston","city":"Christchurch","customer":"Rylee","salesPerson":"Liam","category":"Hydra","brand":"but","value":324,"date":"2021-08-12T12:18:55.784Z"}
+{"road":"Trengove Place","suburb":"West Harbour","city":"Auckland","customer":"Eli","salesPerson":"Elena","category":"Elf","brand":"yet","value":6519,"date":"2021-09-20T08:38:44.418Z"}
+{"road":"Gunner Drive","suburb":"Te Atatu Peninsula","city":"Auckland","customer":"Penelope","salesPerson":"Oliver","category":"Hydra","brand":"or","value":4049,"date":"2022-04-11T11:02:39.745Z"}
+{"road":"Oregon Avenue","suburb":"Avondale","city":"Auckland","customer":"Grayson","salesPerson":"Ava","category":"Sphinx","brand":"and","value":8794,"date":"2021-07-23T19:16:37.257Z"}
+{"road":"Tagor Street","suburb":"Glen Eden","city":"Auckland","customer":"Luca","salesPerson":"Hudson","category":"Mermaid","brand":"yet","value":1153,"date":"2022-03-05T19:26:39.421Z"}
+{"road":"Guinness Place","suburb":"Massey","city":"Auckland","customer":"Everly","salesPerson":"Liam","category":"Elf","brand":"or","value":1427,"date":"2022-01-24T05:35:02.916Z"}
+{"road":"Ballarat Street","suburb":"Ellerslie","city":"Auckland","customer":"Michael","salesPerson":"Elena","category":"Griffin","brand":"an","value":6981,"date":"2022-03-23T10:33:51.751Z"}
+{"road":"Kerswill Place","suburb":"Pakuranga","city":"Auckland","customer":"Elijah","salesPerson":"Anthony","category":"Unicorn","brand":"so","value":5311,"date":"2022-03-20T16:31:19.151Z"}
+{"road":"Fife Lane","suburb":"Miramar","city":"Wellington","customer":"Emilia","salesPerson":"Nova","category":"Leviathan","brand":"the","value":7454,"date":"2021-07-09T04:15:19.595Z"}
+{"road":"Bayfield Road","suburb":"Ponsonby","city":"Auckland","customer":"Isabella","salesPerson":"Levi","category":"Golems","brand":"so","value":3036,"date":"2021-06-13T16:15:58.504Z"}
+{"road":"Josephine Crescent","suburb":"Aidanfield","city":"Christchurch","customer":"Isaiah","salesPerson":"Nova","category":"Leviathan","brand":"the","value":8641,"date":"2021-11-26T17:34:45.526Z"}
+{"road":"Amaretto Avenue","suburb":"Flat Bush","city":"Auckland","customer":"Aiden","salesPerson":"Elena","category":"Pixie","brand":"the","value":649,"date":"2021-07-10T04:02:06.249Z"}
+{"road":"McLeish Lane","suburb":"Spreydon","city":"Christchurch","customer":"Avery","salesPerson":"Ivy","category":"Kraken","brand":"for","value":658,"date":"2021-06-11T03:33:25.717Z"}
+{"road":"Ohariu Valley Road","suburb":"Johnsonville","city":"Wellington","customer":"Addison","salesPerson":"Riley","category":"Leprechaun","brand":"but","value":6906,"date":"2022-05-20T08:44:12.817Z"}
+{"road":"Orchid Place","suburb":"Te Atatu South","city":"Auckland","customer":"Aurora","salesPerson":"Nora","category":"Golems","brand":"yet","value":7406,"date":"2021-06-10T10:43:55.029Z"}
+{"road":"Ray Emery Drive","suburb":"Auckland Airport","city":"Auckland","customer":"Sebastian","salesPerson":"Elizabeth","category":"Unicorn","brand":"for","value":2604,"date":"2022-01-23T06:02:40.923Z"}
+{"road":"Highgate Place","suburb":"Somerville","city":"Auckland","customer":"Noah","salesPerson":"Penelope","category":"Dragon","brand":"an","value":1336,"date":"2022-03-01T02:31:35.328Z"}
+{"road":"Flanders Street","suburb":"Point England","city":"Auckland","customer":"Jackson","salesPerson":"Isabella","category":"Griffin","brand":"the","value":2351,"date":"2022-02-21T16:51:05.764Z"}
+{"road":"Mission View Drive","suburb":"Northpark","city":"Auckland","customer":"Joseph","salesPerson":"Stella","category":"Elf","brand":"and","value":5729,"date":"2022-03-10T05:41:22.661Z"}
+{"road":"Lingham Crescent","suburb":"Torbay","city":"Auckland","customer":"Owen","salesPerson":"Grace","category":"Golems","brand":"or","value":373,"date":"2022-05-18T10:47:34.696Z"}
+{"road":"Dalgety Street","suburb":"Riccarton","city":"Christchurch","customer":"Lily","salesPerson":"Charlie","category":"Ogre","brand":"if","value":3447,"date":"2021-12-21T06:35:12.752Z"}
+{"road":"Dissmeyer Drive","suburb":"Clover Park","city":"Auckland","customer":"Ella","salesPerson":"Matthew","category":"Phoenix","brand":"but","value":8299,"date":"2022-01-09T14:22:06.020Z"}
+{"road":"St Marks Road","suburb":"Epsom","city":"Auckland","customer":"Leo","salesPerson":"Michael","category":"Unicorn","brand":"a","value":2133,"date":"2021-07-15T18:30:15.789Z"}
+{"road":"Elgin Way","suburb":"Khandallah","city":"Wellington","customer":"Mason","salesPerson":"Chloe","category":"Cyclops","brand":"the","value":4037,"date":"2021-09-07T10:25:47.316Z"}
+{"road":"Ashkirk Place","suburb":"Wattle Downs","city":"Auckland","customer":"Joseph","salesPerson":"Lincoln","category":"Pixie","brand":"the","value":9320,"date":"2021-06-26T11:43:23.432Z"}
+{"road":"Bond Street","suburb":"Te Aro","city":"Wellington","customer":"Jaxon","salesPerson":"Abigail","category":"Griffin","brand":"an","value":6559,"date":"2021-09-19T03:42:17.942Z"}
+{"road":"Highfield Place","suburb":"Avonhead","city":"Christchurch","customer":"Charlie","salesPerson":"Joseph","category":"Sphinx","brand":"but","value":8222,"date":"2022-04-13T22:10:27.599Z"}
+{"road":"Aspiring Avenue","suburb":"Clover Park","city":"Auckland","customer":"Gianna","salesPerson":"Gabriel","category":"Bashee","brand":"the","value":9582,"date":"2022-04-20T13:03:44.421Z"}
+{"road":"Ontario Street","suburb":"Kingston","city":"Wellington","customer":"Mia","salesPerson":"Alexander","category":"Kraken","brand":"yet","value":3319,"date":"2022-04-15T01:16:17.069Z"}
+{"road":"Ramsgate Street","suburb":"Ellerslie","city":"Auckland","customer":"Oliver","salesPerson":"Elizabeth","category":"Hydra","brand":"a","value":9642,"date":"2021-09-07T02:59:04.509Z"}
+{"road":"River Road","suburb":"Te Atatu Peninsula","city":"Auckland","customer":"Luca","salesPerson":"Mia","category":"Leprechaun","brand":"for","value":1172,"date":"2021-09-01T15:59:50.831Z"}
+{"road":"Walker Road","suburb":"Henderson Valley","city":"Auckland","customer":"Maya","salesPerson":"Samuel","category":"Phoenix","brand":"for","value":4212,"date":"2022-05-05T17:45:47.868Z"}
+{"road":"Ferrymead Park Drive","suburb":"Ferrymead","city":"Christchurch","customer":"Owen","salesPerson":"Sebastian","category":"Hydra","brand":"so","value":5896,"date":"2021-07-23T17:40:02.402Z"}
+{"road":"Jeffreys Road","suburb":"Burnside","city":"Christchurch","customer":"Layla","salesPerson":"Isla","category":"Griffin","brand":"an","value":9897,"date":"2022-04-07T05:16:09.694Z"}
+{"road":"Baverstock Road","suburb":"Flat Bush","city":"Auckland","customer":"Violet","salesPerson":"Muhammad","category":"Cyclops","brand":"but","value":7409,"date":"2021-12-24T07:04:53.682Z"}
+{"road":"Tetbury Place","suburb":"Henderson","city":"Auckland","customer":"Jayden","salesPerson":"Luna","category":"Kraken","brand":"for","value":3370,"date":"2021-08-18T01:01:36.959Z"}
+{"road":"Gannet Point","suburb":"Murrays Bay","city":"Auckland","customer":"Kai","salesPerson":"Eleanor","category":"Minotaur","brand":"if","value":3307,"date":"2021-12-01T14:54:53.227Z"}
+{"road":"Helianthus Avenue","suburb":"Flat Bush","city":"Auckland","customer":"Elena","salesPerson":"Ava","category":"Pegasus","brand":"yet","value":7978,"date":"2022-03-13T03:00:10.781Z"}
+{"road":"Mahara Avenue","suburb":"Birkenhead","city":"Auckland","customer":"Eliana","salesPerson":"Ryleigh","category":"Leviathan","brand":"the","value":1462,"date":"2021-11-13T21:21:18.843Z"}
+{"road":"Paddington Street","suburb":"Northcote","city":"Christchurch","customer":"Josiah","salesPerson":"Gabriel","category":"Harpy","brand":"for","value":188,"date":"2022-03-29T22:15:41.362Z"}
+{"road":"Van Ameyde Court","suburb":"St Albans","city":"Christchurch","customer":"Eleanor","salesPerson":"Amelia","category":"Pegasus","brand":"an","value":6957,"date":"2021-08-01T22:27:38.350Z"}
+{"road":"Clementine Way","suburb":"Crofton Downs","city":"Wellington","customer":"Matthew","salesPerson":"Liam","category":"Ogre","brand":"the","value":4667,"date":"2021-08-03T15:56:12.636Z"}
+{"road":"Sargeson Way","suburb":"Kaiwharawhara","city":"Wellington","customer":"Asher","salesPerson":"Oliver","category":"Mermaid","brand":"and","value":5964,"date":"2022-05-10T12:32:02.543Z"}
+{"road":"Mihini Road","suburb":"Henderson","city":"Auckland","customer":"Lily","salesPerson":"Riley","category":"Unicorn","brand":"if","value":6246,"date":"2022-04-29T15:00:15.896Z"}
+{"road":"Bamford Place","suburb":"Avondale","city":"Auckland","customer":"Isla","salesPerson":"Samuel","category":"Golems","brand":"and","value":8398,"date":"2021-10-21T16:39:58.988Z"}
+{"road":"Calthorp Close","suburb":"Favona","city":"Auckland","customer":"Ella","salesPerson":"John","category":"Elf","brand":"and","value":9008,"date":"2021-12-16T12:39:51.170Z"}
+{"road":"Seresin Crescent","suburb":"Flat Bush","city":"Auckland","customer":"Nova","salesPerson":"Joseph","category":"Pegasus","brand":"the","value":1342,"date":"2021-10-13T21:13:10.514Z"}
+{"road":"Kirkbride Road","suburb":"Mangere Bridge","city":"Auckland","customer":"Mia","salesPerson":"John","category":"Pegasus","brand":"for","value":7197,"date":"2021-12-15T00:54:54.166Z"}
+{"road":"Morris Avenue","suburb":"Papatoetoe","city":"Auckland","customer":"Carter","salesPerson":"Luke","category":"Golems","brand":"the","value":8499,"date":"2022-04-15T08:53:05.260Z"}
+{"road":"Surville Place","suburb":"Mairangi Bay","city":"Auckland","customer":"Jayden","salesPerson":"Luke","category":"Cyclops","brand":"if","value":8333,"date":"2021-11-11T05:04:03.313Z"}
+{"road":"Dorothy Road","suburb":"Laingholm","city":"Auckland","customer":"Benjamin","salesPerson":"Muhammad","category":"Leviathan","brand":"but","value":8017,"date":"2022-01-06T15:10:04.647Z"}
+{"road":"Argyle Terrace","suburb":"Milford","city":"Auckland","customer":"Eleanor","salesPerson":"John","category":"Mermaid","brand":"and","value":9340,"date":"2022-01-24T16:46:48.655Z"}
+{"road":"Waterfront Road","suburb":"Mangere Bridge","city":"Auckland","customer":"Charlotte","salesPerson":"Kai","category":"Unicorn","brand":"but","value":3582,"date":"2021-11-25T12:47:48.207Z"}
+{"road":"Hadfield Street","suburb":"Beach Haven","city":"Auckland","customer":"Julian","salesPerson":"Noah","category":"Mermaid","brand":"for","value":8106,"date":"2021-11-10T22:28:00.782Z"}
+{"road":"Vandeleur Avenue","suburb":"Birkdale","city":"Auckland","customer":"Anthony","salesPerson":"Ivy","category":"Elf","brand":"for","value":8638,"date":"2021-07-06T05:56:14.130Z"}
+{"road":"Ansty Place","suburb":"Mangere","city":"Auckland","customer":"Stella","salesPerson":"Charlotte","category":"Minotaur","brand":"an","value":7276,"date":"2021-07-23T18:39:07.368Z"}
+{"road":"Channel Place","suburb":"Aranui","city":"Christchurch","customer":"Paisley","salesPerson":"Gabriel","category":"Mermaid","brand":"yet","value":254,"date":"2021-12-17T03:45:08.220Z"}
+{"road":"Dovey Place","suburb":"Massey","city":"Auckland","customer":"Ellie","salesPerson":"Owen","category":"Dragon","brand":"an","value":2583,"date":"2022-01-20T19:14:10.236Z"}
+{"road":"Chrystal Street","suburb":"Richmond","city":"Christchurch","customer":"Willow","salesPerson":"Chloe","category":"Medusa","brand":"or","value":9067,"date":"2022-05-23T01:41:26.200Z"}
+{"road":"Falstone Lane","suburb":"Browns Bay","city":"Auckland","customer":"Levi","salesPerson":"Anthony","category":"Harpy","brand":"the","value":8739,"date":"2021-07-22T22:23:56.804Z"}
+{"road":"Kingsbridge West","suburb":"Burwood","city":"Christchurch","customer":"Jayden","salesPerson":"Grace","category":"Leviathan","brand":"for","value":1359,"date":"2021-12-10T13:51:46.421Z"}
+{"road":"Twomey Grove","suburb":"Houghton Bay","city":"Wellington","customer":"Levi","salesPerson":"William","category":"Griffin","brand":"but","value":3223,"date":"2021-09-26T09:07:10.175Z"}
+{"road":"Opal Close","suburb":"Rosedale","city":"Auckland","customer":"Levi","salesPerson":"Oliver","category":"Harpy","brand":"so","value":341,"date":"2022-05-01T00:25:21.629Z"}
+{"road":"Monier Place","suburb":"Mount Wellington","city":"Auckland","customer":"Everly","salesPerson":"Mason","category":"Minotaur","brand":"so","value":3923,"date":"2021-07-09T20:25:10.664Z"}
+{"road":"Parkhead Place","suburb":"Rosedale","city":"Auckland","customer":"Alexander","salesPerson":"Elijah","category":"Pixie","brand":"and","value":9521,"date":"2021-10-02T17:29:06.366Z"}
+{"road":"Purchas Road","suburb":"Hauraki","city":"Auckland","customer":"Penelope","salesPerson":"Elena","category":"Golems","brand":"so","value":7294,"date":"2022-01-30T01:18:23.324Z"}
+{"road":"Exmouth Road","suburb":"Northcote","city":"Auckland","customer":"Mia","salesPerson":"Hudson","category":"Leviathan","brand":"yet","value":5013,"date":"2021-10-21T10:14:59.716Z"}
+{"road":"McDonald Street","suburb":"Morningside","city":"Auckland","customer":"Carter","salesPerson":"Sophia","category":"Dragon","brand":"an","value":271,"date":"2021-08-21T08:56:15.960Z"}
+{"road":"Helios Place","suburb":"Titirangi","city":"Auckland","customer":"Oliver","salesPerson":"Riley","category":"Elf","brand":"a","value":9128,"date":"2021-07-13T00:00:23.868Z"}
+{"road":"Rosebery Street","suburb":"Spreydon","city":"Christchurch","customer":"Josiah","salesPerson":"Zoey","category":"Phoenix","brand":"an","value":6559,"date":"2021-07-29T15:28:21.655Z"}
+{"road":"John Brian Drive","suburb":"Redvale","city":"Auckland","customer":"Avery","salesPerson":"Abigail","category":"Kraken","brand":"a","value":7183,"date":"2021-06-11T06:48:07.186Z"}
+{"road":"Arthur Rolfe Lane","suburb":"Swanson","city":"Auckland","customer":"Liam","salesPerson":"Gabriel","category":"Dragon","brand":"or","value":5900,"date":"2022-05-08T09:50:51.095Z"}
+{"road":"Croftwood Lane","suburb":"Harewood","city":"Christchurch","customer":"Hudson","salesPerson":"William","category":"Elf","brand":"for","value":7593,"date":"2021-10-24T04:28:20.050Z"}
+{"road":"Beatty Avenue","suburb":"Manurewa","city":"Auckland","customer":"Asher","salesPerson":"Matthew","category":"Medusa","brand":"if","value":6857,"date":"2022-05-03T13:29:58.259Z"}
+{"road":"Keri Anne Place","suburb":"Goodwood Heights","city":"Auckland","customer":"Rylee","salesPerson":"Ava","category":"Leviathan","brand":"an","value":7234,"date":"2021-06-04T05:56:14.570Z"}
+{"road":"Anthony Place","suburb":"Pakuranga","city":"Auckland","customer":"Elias","salesPerson":"Hudson","category":"Dragon","brand":"and","value":2672,"date":"2021-06-27T22:28:28.777Z"}
+{"road":"Waipuna Road","suburb":"Mount Wellington","city":"Auckland","customer":"Ellie","salesPerson":"Addison","category":"Sphinx","brand":"so","value":1910,"date":"2021-09-06T08:20:30.821Z"}
+{"road":"Torquay Place","suburb":"Bryndwr","city":"Christchurch","customer":"David","salesPerson":"Luke","category":"Sphinx","brand":"and","value":8164,"date":"2022-02-26T00:48:16.085Z"}
+{"road":"Palomino Drive","suburb":"Henderson","city":"Auckland","customer":"Ryleigh","salesPerson":"Noah","category":"Dragon","brand":"yet","value":608,"date":"2021-12-04T11:03:13.521Z"}
+{"road":"Moeller Street","suburb":"Mount Victoria","city":"Wellington","customer":"Grayson","salesPerson":"Grace","category":"Pegasus","brand":"for","value":2962,"date":"2022-03-01T21:23:56.275Z"}
+{"road":"Hislop Way","suburb":"Johnsonville","city":"Wellington","customer":"Leo","salesPerson":"Julian","category":"Mermaid","brand":"or","value":4240,"date":"2021-11-13T22:45:51.065Z"}
+{"road":"Vautier Avenue","suburb":"Wadestown","city":"Wellington","customer":"Mia","salesPerson":"Sebastian","category":"Unicorn","brand":"for","value":1040,"date":"2021-11-24T17:33:11.456Z"}
+{"road":"Bournemouth Avenue","suburb":"Sandringham","city":"Auckland","customer":"Kai","salesPerson":"Elijah","category":"Elf","brand":"so","value":2678,"date":"2021-09-17T09:51:31.338Z"}
+{"road":"Porter Avenue","suburb":"Te Atatu South","city":"Auckland","customer":"Ava","salesPerson":"Michael","category":"Mermaid","brand":"the","value":5135,"date":"2021-06-15T00:22:34.329Z"}
+{"road":"Leigh Terrace","suburb":"Bayview","city":"Auckland","customer":"Isabella","salesPerson":"Samuel","category":"Mermaid","brand":"so","value":9984,"date":"2021-12-05T19:42:29.393Z"}
+{"road":"Newall Avenue","suburb":"Bryndwr","city":"Christchurch","customer":"Madison","salesPerson":"Carter","category":"Sphinx","brand":"yet","value":1439,"date":"2021-09-21T08:00:18.105Z"}
+{"road":"Willowview Drive","suburb":"Redwood","city":"Christchurch","customer":"Henry","salesPerson":"Daniel","category":"Elf","brand":"but","value":448,"date":"2022-04-19T09:21:11.706Z"}
+{"road":"Orari Street","suburb":"Ngaio","city":"Wellington","customer":"Aria","salesPerson":"Aurora","category":"Mermaid","brand":"and","value":4447,"date":"2021-10-04T10:33:00.286Z"}
+{"road":"Blackbridge Road","suburb":"Wadestown","city":"Wellington","customer":"Camila","salesPerson":"Charlie","category":"Leprechaun","brand":"an","value":23,"date":"2022-04-27T09:31:50.897Z"}
+{"road":"Kano Street","suburb":"Karori","city":"Wellington","customer":"Avery","salesPerson":"Ivy","category":"Phoenix","brand":"the","value":248,"date":"2021-12-18T08:47:00.483Z"}
+{"road":"Rosalind Street","suburb":"Ngaio","city":"Wellington","customer":"Rylee","salesPerson":"Sofia","category":"Pegasus","brand":"the","value":9599,"date":"2021-06-22T14:24:47.492Z"}
+{"road":"Advocate Place","suburb":"Randwick Park","city":"Auckland","customer":"Chloe","salesPerson":"Levi","category":"Medusa","brand":"and","value":1870,"date":"2021-08-04T03:29:23.398Z"}
+{"road":"Pasteur Place","suburb":"New Windsor","city":"Auckland","customer":"Camila","salesPerson":"Rylee","category":"Pegasus","brand":"yet","value":984,"date":"2022-01-20T16:56:32.223Z"}
+{"road":"Clifford Road","suburb":"Johnsonville","city":"Wellington","customer":"Oliver","salesPerson":"Michael","category":"Ogre","brand":"but","value":3241,"date":"2021-06-15T19:32:43.491Z"}
+{"road":"Tauoma Crescent","suburb":"Stonefields","city":"Auckland","customer":"Mateo","salesPerson":"Asher","category":"Golems","brand":"the","value":6680,"date":"2022-04-15T12:34:54.637Z"}
+{"road":"Waverley Street","suburb":"Sydenham","city":"Christchurch","customer":"Elena","salesPerson":"Zoey","category":"Cyclops","brand":"or","value":9830,"date":"2021-12-02T03:06:03.798Z"}
+{"road":"Stretton Street","suburb":"Bishopdale","city":"Christchurch","customer":"Elena","salesPerson":"Oliver","category":"Leviathan","brand":"yet","value":6971,"date":"2021-06-22T03:44:46.780Z"}
+{"road":"Kaiwhiria Lane","suburb":"Mount Roskill","city":"Auckland","customer":"Lucas","salesPerson":"Joseph","category":"Griffin","brand":"so","value":5382,"date":"2021-10-02T17:10:23.933Z"}
+{"road":"Crossland Place","suburb":"Maraetai","city":"Auckland","customer":"Levi","salesPerson":"Gabriel","category":"Pixie","brand":"and","value":4914,"date":"2022-04-27T13:58:15.800Z"}
+{"road":"Furneaux Way","suburb":"Remuera","city":"Auckland","customer":"Ivy","salesPerson":"Mason","category":"Pegasus","brand":"an","value":2372,"date":"2022-01-20T20:49:26.354Z"}
+{"road":"Hastings Street West","suburb":"Sydenham","city":"Christchurch","customer":"James","salesPerson":"Daniel","category":"Harpy","brand":"for","value":994,"date":"2021-11-19T11:30:57.006Z"}
+{"road":"Alpers Place","suburb":"Hoon Hay","city":"Christchurch","customer":"Kai","salesPerson":"Isla","category":"Ogre","brand":"but","value":87,"date":"2021-07-28T00:01:36.244Z"}
+{"road":"Matā Road","suburb":"Massey","city":"Auckland","customer":"James","salesPerson":"Matthew","category":"Phoenix","brand":"a","value":2347,"date":"2021-09-28T04:53:39.146Z"}
+{"road":"Bede Place","suburb":"Mangere","city":"Auckland","customer":"Owen","salesPerson":"Maya","category":"Medusa","brand":"yet","value":2884,"date":"2022-04-25T13:14:27.805Z"}
+{"road":"Delaware Crescent","suburb":"Russley","city":"Christchurch","customer":"Lucas","salesPerson":"Elena","category":"Harpy","brand":"or","value":8153,"date":"2022-02-05T18:28:22.617Z"}
+{"road":"Powell Street","suburb":"Avondale","city":"Auckland","customer":"Isla","salesPerson":"Eli","category":"Hydra","brand":"but","value":4132,"date":"2022-01-29T05:48:42.220Z"}
+{"road":"Warwick Street","suburb":"Richmond","city":"Christchurch","customer":"Stella","salesPerson":"Zoey","category":"Pixie","brand":"so","value":4747,"date":"2022-02-10T21:41:07.847Z"}
+{"road":"Queenspark Drive","suburb":"Parklands","city":"Christchurch","customer":"Muhammad","salesPerson":"Matthew","category":"Phoenix","brand":"but","value":2899,"date":"2021-07-25T20:59:34.812Z"}
+{"road":"Kari Street","suburb":"Grafton","city":"Auckland","customer":"Eliana","salesPerson":"Elijah","category":"Elf","brand":"or","value":4860,"date":"2021-07-14T00:43:22.208Z"}
+{"road":"Aberdeen Crescent","suburb":"Wattle Downs","city":"Auckland","customer":"Logan","salesPerson":"Amelia","category":"Medusa","brand":"for","value":5868,"date":"2022-01-07T20:11:06.506Z"}
+{"road":"Vildebeest Street","suburb":"Halswell","city":"Christchurch","customer":"Madison","salesPerson":"William","category":"Kraken","brand":"the","value":7994,"date":"2021-12-23T18:15:04.722Z"}
+{"road":"Balrath Road","suburb":"East Tamaki","city":"Auckland","customer":"Evelyn","salesPerson":"Isla","category":"Dragon","brand":"so","value":7001,"date":"2021-07-04T18:16:58.866Z"}
+{"road":"Rawene Road","suburb":"Birkenhead","city":"Auckland","customer":"Isabella","salesPerson":"Grace","category":"Unicorn","brand":"a","value":3521,"date":"2022-05-26T04:28:29.928Z"}
+{"road":"Renway Rise","suburb":"Somerville","city":"Auckland","customer":"Elijah","salesPerson":"Owen","category":"Griffin","brand":"or","value":9776,"date":"2021-11-19T03:56:41.778Z"}
+{"road":"Ongley Crescent","suburb":"Tawa","city":"Wellington","customer":"Ava","salesPerson":"Nova","category":"Leprechaun","brand":"yet","value":3178,"date":"2021-06-07T01:46:36.495Z"}
+{"road":"Mollymawk Place","suburb":"Woolston","city":"Christchurch","customer":"Ava","salesPerson":"Sofia","category":"Phoenix","brand":"an","value":3994,"date":"2022-04-03T22:57:10.980Z"}
+{"road":"Feltwell Place","suburb":"Mangere Bridge","city":"Auckland","customer":"Mateo","salesPerson":"Sophia","category":"Hydra","brand":"yet","value":814,"date":"2022-05-26T04:15:47.796Z"}
+{"road":"Glenarm Avenue","suburb":"Wesley","city":"Auckland","customer":"Ellie","salesPerson":"Ava","category":"Pixie","brand":"but","value":4941,"date":"2022-01-02T10:57:24.807Z"}
+{"road":"Sanctuary Point","suburb":"Sunnyhills","city":"Auckland","customer":"Ivy","salesPerson":"Isla","category":"Griffin","brand":"an","value":9806,"date":"2021-08-22T03:19:05.507Z"}
+{"road":"Randal Place","suburb":"Bayview","city":"Auckland","customer":"Jayden","salesPerson":"Ivy","category":"Phoenix","brand":"and","value":5921,"date":"2021-12-01T23:54:12.725Z"}
+{"road":"Teoteo Place","suburb":"Flat Bush","city":"Auckland","customer":"Elena","salesPerson":"Oliver","category":"Hydra","brand":"but","value":2211,"date":"2022-05-17T14:57:20.521Z"}
+{"road":"Gwen Place","suburb":"Redwood","city":"Christchurch","customer":"Zoey","salesPerson":"Noah","category":"Ogre","brand":"yet","value":607,"date":"2021-12-06T06:14:13.165Z"}
+{"road":"Namsan Close","suburb":"Fairview Heights","city":"Auckland","customer":"Isla","salesPerson":"Charlotte","category":"Bashee","brand":"yet","value":9340,"date":"2021-08-29T12:17:23.058Z"}
+{"road":"Newsome Street","suburb":"Onehunga","city":"Auckland","customer":"Owen","salesPerson":"Lucas","category":"Elf","brand":"so","value":2985,"date":"2022-04-20T01:54:54.058Z"}
+{"road":"Stockade View Lane","suburb":"Howick","city":"Auckland","customer":"Lily","salesPerson":"Grace","category":"Unicorn","brand":"the","value":9682,"date":"2022-02-21T14:57:41.098Z"}
+{"road":"Tiri Place","suburb":"Mount Wellington","city":"Auckland","customer":"Ivy","salesPerson":"Michael","category":"Pegasus","brand":"so","value":4299,"date":"2021-12-18T05:00:52.681Z"}
+{"road":"Alloway Street","suburb":"Avondale","city":"Christchurch","customer":"Levi","salesPerson":"Joseph","category":"Griffin","brand":"for","value":3019,"date":"2022-04-28T14:16:52.255Z"}
+{"road":"Braemar Road","suburb":"Rothesay Bay","city":"Auckland","customer":"Luke","salesPerson":"Isaiah","category":"Bashee","brand":"if","value":6671,"date":"2022-01-26T20:40:20.487Z"}
+{"road":"Kerlin Crescent","suburb":"West Harbour","city":"Auckland","customer":"Oliver","salesPerson":"Oliver","category":"Hydra","brand":"if","value":3602,"date":"2022-01-22T05:50:34.588Z"}
+{"road":"Henry Blyth Lane","suburb":"Greenhithe","city":"Auckland","customer":"Joseph","salesPerson":"Muhammad","category":"Phoenix","brand":"but","value":9744,"date":"2021-07-26T10:49:44.319Z"}
+{"road":"Donne Street","suburb":"Marshland","city":"Christchurch","customer":"Asher","salesPerson":"Liam","category":"Unicorn","brand":"a","value":3411,"date":"2021-12-25T02:07:30.831Z"}
+{"road":"Ngaoho Place","suburb":"Parnell","city":"Auckland","customer":"Hazel","salesPerson":"Anthony","category":"Kraken","brand":"the","value":6333,"date":"2021-09-23T06:48:37.423Z"}
+{"road":"The Drive","suburb":"Tawa","city":"Wellington","customer":"Luna","salesPerson":"Chloe","category":"Minotaur","brand":"a","value":231,"date":"2021-09-23T20:26:03.075Z"}
+{"road":"Pittville Place","suburb":"Henderson","city":"Auckland","customer":"Maya","salesPerson":"Ryleigh","category":"Griffin","brand":"so","value":4271,"date":"2021-08-05T00:57:42.066Z"}
+{"road":"Hermes Road","suburb":"Flat Bush","city":"Auckland","customer":"Riley","salesPerson":"Jacob","category":"Mermaid","brand":"if","value":1051,"date":"2021-12-17T16:29:35.397Z"}
+{"road":"Hayward Wright Lane","suburb":"Avondale","city":"Auckland","customer":"Gianna","salesPerson":"Maya","category":"Phoenix","brand":"and","value":942,"date":"2021-12-16T20:01:17.510Z"}
+{"road":"Lexington Drive","suburb":"Botany Downs","city":"Auckland","customer":"Benjamin","salesPerson":"Jaxon","category":"Mermaid","brand":"and","value":8567,"date":"2022-04-28T18:07:54.882Z"}
+{"road":"George Street","suburb":"Riccarton","city":"Christchurch","customer":"Elena","salesPerson":"Emma","category":"Bashee","brand":"a","value":9405,"date":"2021-06-09T14:38:22.023Z"}
+{"road":"Mary Place","suburb":"Favona","city":"Auckland","customer":"Addison","salesPerson":"Charlotte","category":"Phoenix","brand":"yet","value":589,"date":"2021-12-04T09:14:07.814Z"}
+{"road":"Arorangi Rise","suburb":"Te Atatu Peninsula","city":"Auckland","customer":"Wyatt","salesPerson":"Zoey","category":"Harpy","brand":"yet","value":3175,"date":"2021-11-12T04:06:23.537Z"}
+{"road":"Centennial Avenue","suburb":"Riccarton","city":"Christchurch","customer":"Ella","salesPerson":"William","category":"Bashee","brand":"or","value":9744,"date":"2022-03-21T23:40:41.341Z"}
+{"road":"Kawakawa Place","suburb":"Whenuapai","city":"Auckland","customer":"Mateo","salesPerson":"Eleanor","category":"Pixie","brand":"and","value":5528,"date":"2021-08-06T07:36:06.561Z"}
+{"road":"Nuttall Drive","suburb":"Hillsborough","city":"Christchurch","customer":"Sophia","salesPerson":"Isla","category":"Sphinx","brand":"an","value":5837,"date":"2021-09-18T18:23:20.405Z"}
+{"road":"Atkinson Avenue","suburb":"Papatoetoe","city":"Auckland","customer":"Jackson","salesPerson":"Levi","category":"Minotaur","brand":"but","value":9075,"date":"2022-04-07T23:20:11.475Z"}
+{"road":"Whitnall Street","suburb":"Halswell","city":"Christchurch","customer":"Elena","salesPerson":"Aurora","category":"Minotaur","brand":"so","value":7425,"date":"2021-10-26T04:38:22.105Z"}
+{"road":"Jury Place","suburb":"Favona","city":"Auckland","customer":"Mila","salesPerson":"Amelia","category":"Medusa","brand":"or","value":9673,"date":"2021-11-07T21:53:27.333Z"}
+{"road":"Glenmall Place","suburb":"Glen Eden","city":"Auckland","customer":"Jayden","salesPerson":"Stella","category":"Leviathan","brand":"the","value":8121,"date":"2021-08-16T12:07:30.103Z"}
+{"road":"Aberdeen Crescent","suburb":"Wattle Downs","city":"Auckland","customer":"Elias","salesPerson":"Olivia","category":"Phoenix","brand":"for","value":4545,"date":"2021-11-09T15:43:27.761Z"}
+{"road":"Yule Street","suburb":"Kilbirnie","city":"Wellington","customer":"Violet","salesPerson":"Noah","category":"Mermaid","brand":"for","value":6280,"date":"2022-02-25T19:43:49.946Z"}
+{"road":"Ruskin Street","suburb":"Sydenham","city":"Christchurch","customer":"Emma","salesPerson":"Olivia","category":"Pegasus","brand":"for","value":4594,"date":"2022-03-08T20:36:58.550Z"}
+{"road":"Grand Drive","suburb":"Remuera","city":"Auckland","customer":"Violet","salesPerson":"Jacob","category":"Harpy","brand":"so","value":8007,"date":"2021-12-14T04:58:09.487Z"}
+{"road":"Bronco Drive","suburb":"Aidanfield","city":"Christchurch","customer":"Mateo","salesPerson":"Charlie","category":"Griffin","brand":"so","value":4567,"date":"2021-07-28T21:37:32.495Z"}
+{"road":"Wilde Place","suburb":"Mount Roskill","city":"Auckland","customer":"Elena","salesPerson":"Elena","category":"Leprechaun","brand":"yet","value":4292,"date":"2021-11-14T01:05:42.723Z"}
+{"road":"Amera Place","suburb":"Huntington Park","city":"Auckland","customer":"Oliver","salesPerson":"Sofia","category":"Cyclops","brand":"but","value":5853,"date":"2022-02-26T18:26:04.217Z"}
+{"road":"Nuffield Street","suburb":"Newmarket","city":"Auckland","customer":"Violet","salesPerson":"Sophia","category":"Minotaur","brand":"yet","value":4499,"date":"2021-08-21T15:44:43.266Z"}
+{"road":"Crayford Street West","suburb":"Avondale","city":"Auckland","customer":"Eliana","salesPerson":"Maya","category":"Phoenix","brand":"if","value":2117,"date":"2021-11-04T03:09:14.608Z"}
+{"road":"Ordley Grove","suburb":"Tawa","city":"Wellington","customer":"Grace","salesPerson":"Ezra","category":"Mermaid","brand":"and","value":8215,"date":"2022-05-29T16:24:10.776Z"}
+{"road":"Betts Avenue","suburb":"Wesley","city":"Auckland","customer":"Josiah","salesPerson":"Ivy","category":"Ogre","brand":"yet","value":8100,"date":"2021-12-07T19:39:17.777Z"}
+{"road":"Celia Place","suburb":"Mangere East","city":"Auckland","customer":"Mason","salesPerson":"Riley","category":"Griffin","brand":"or","value":6521,"date":"2022-04-25T22:02:57.075Z"}
+{"road":"Stoneleigh Green","suburb":"Parklands","city":"Christchurch","customer":"Zoey","salesPerson":"Scarlett","category":"Dragon","brand":"the","value":4920,"date":"2021-08-29T20:34:22.937Z"}
+{"road":"Mull Place","suburb":"Broomfield","city":"Christchurch","customer":"Julian","salesPerson":"Samuel","category":"Unicorn","brand":"or","value":3994,"date":"2021-08-20T19:53:12.735Z"}
+{"road":"McHaffies Place","suburb":"Wainoni","city":"Christchurch","customer":"Jack","salesPerson":"Carter","category":"Griffin","brand":"if","value":8671,"date":"2022-03-24T16:28:08.739Z"}
+{"road":"Antico Street","suburb":"Melrose","city":"Wellington","customer":"Nova","salesPerson":"Penelope","category":"Sphinx","brand":"and","value":5039,"date":"2022-03-08T03:44:34.247Z"}
+{"road":"Arthur Carman Street","suburb":"Johnsonville","city":"Wellington","customer":"Emily","salesPerson":"Scarlett","category":"Pegasus","brand":"yet","value":531,"date":"2021-11-11T22:18:14.125Z"}
+{"road":"Tanya Street","suburb":"Bromley","city":"Christchurch","customer":"Carter","salesPerson":"Elizabeth","category":"Sphinx","brand":"for","value":1288,"date":"2021-06-24T13:08:57.529Z"}
+{"road":"Ahuriri Street","suburb":"Strathmore Park","city":"Wellington","customer":"Emily","salesPerson":"Emma","category":"Bashee","brand":"and","value":3127,"date":"2021-08-09T07:55:58.291Z"}
+{"road":"Belle Verde Drive","suburb":"Sunnynook","city":"Auckland","customer":"Gabriel","salesPerson":"Ryleigh","category":"Bashee","brand":"the","value":9154,"date":"2021-07-09T06:49:26.818Z"}
+{"road":"Rockport Place","suburb":"Parklands","city":"Christchurch","customer":"Ella","salesPerson":"Emma","category":"Leprechaun","brand":"the","value":9256,"date":"2022-02-13T15:43:24.689Z"}
+{"road":"Longreach Drive","suburb":"Sunnyvale","city":"Auckland","customer":"Asher","salesPerson":"Ryleigh","category":"Dragon","brand":"the","value":5403,"date":"2021-10-03T07:43:37.804Z"}
+{"road":"Montague Street","suburb":"Islington","city":"Christchurch","customer":"Ella","salesPerson":"Samuel","category":"Golems","brand":"but","value":9852,"date":"2022-04-12T14:39:25.828Z"}
+{"road":"Kiwi Esplanade","suburb":"Mangere Bridge","city":"Auckland","customer":"Wyatt","salesPerson":"Lucas","category":"Harpy","brand":"but","value":2495,"date":"2022-05-26T06:33:39.494Z"}
+{"road":"Cognac Place","suburb":"Henderson","city":"Auckland","customer":"Ethan","salesPerson":"Mason","category":"Medusa","brand":"a","value":938,"date":"2022-04-23T18:05:08.008Z"}
+{"road":"Hillary Crescent","suburb":"Upper Riccarton","city":"Christchurch","customer":"Benjamin","salesPerson":"Oliver","category":"Hydra","brand":"if","value":5430,"date":"2021-06-17T03:24:26.300Z"}
+{"road":"Regalwood Place","suburb":"Favona","city":"Auckland","customer":"Scarlett","salesPerson":"Elizabeth","category":"Dragon","brand":"or","value":2477,"date":"2021-12-08T19:26:59.610Z"}
+{"road":"Renton Road","suburb":"Mount Albert","city":"Auckland","customer":"Abigail","salesPerson":"Olivia","category":"Harpy","brand":"the","value":7702,"date":"2021-12-20T16:29:44.890Z"}
+{"road":"Bosnyak Drive","suburb":"Te Atatu South","city":"Auckland","customer":"Ezra","salesPerson":"Noah","category":"Harpy","brand":"yet","value":1951,"date":"2022-05-22T05:02:58.455Z"}
+{"road":"Randwick Street","suburb":"North New Brighton","city":"Christchurch","customer":"Emma","salesPerson":"Elena","category":"Cyclops","brand":"so","value":3521,"date":"2021-12-21T04:13:29.708Z"}
+{"road":"Awaroa Lane","suburb":"Sumner","city":"Christchurch","customer":"Jacob","salesPerson":"John","category":"Cyclops","brand":"or","value":1659,"date":"2021-12-19T09:09:35.354Z"}
+{"road":"Defender Crescent","suburb":"Beachlands","city":"Auckland","customer":"Benjamin","salesPerson":"Samuel","category":"Leprechaun","brand":"if","value":5393,"date":"2021-12-18T07:33:26.592Z"}
+{"road":"Kambalda Street","suburb":"Mangere Bridge","city":"Auckland","customer":"Michael","salesPerson":"Elena","category":"Mermaid","brand":"or","value":8166,"date":"2022-01-14T14:26:20.993Z"}
+{"road":"Kahala Place","suburb":"West Harbour","city":"Auckland","customer":"David","salesPerson":"Isabella","category":"Harpy","brand":"the","value":766,"date":"2022-01-04T20:07:13.473Z"}
+{"road":"Stonewall Place","suburb":"Huntsbury","city":"Christchurch","customer":"Luna","salesPerson":"Elizabeth","category":"Hydra","brand":"yet","value":6063,"date":"2022-03-21T15:55:57.192Z"}
+{"road":"Rothery Road","suburb":"Hillpark","city":"Auckland","customer":"Gabriel","salesPerson":"Eli","category":"Leviathan","brand":"yet","value":7412,"date":"2022-05-05T15:50:48.605Z"}
+{"road":"Bennington Way","suburb":"Wigram","city":"Christchurch","customer":"Asher","salesPerson":"Luke","category":"Unicorn","brand":"yet","value":1593,"date":"2022-03-09T05:51:12.907Z"}
+{"road":"Suva Street","suburb":"Upper Riccarton","city":"Christchurch","customer":"Emma","salesPerson":"Elena","category":"Kraken","brand":"so","value":5550,"date":"2021-06-30T01:14:01.887Z"}
+{"road":"Whytehead Crescent","suburb":"St Heliers","city":"Auckland","customer":"Willow","salesPerson":"Jacob","category":"Medusa","brand":"or","value":7617,"date":"2022-03-27T09:36:25.639Z"}
+{"road":"Wagener Place","suburb":"Mount Albert","city":"Auckland","customer":"Isaiah","salesPerson":"Eli","category":"Dragon","brand":"or","value":3821,"date":"2021-07-23T22:16:57.396Z"}
+{"road":"Broadhurst Road","suburb":"Flat Bush","city":"Auckland","customer":"Leo","salesPerson":"Elizabeth","category":"Cyclops","brand":"an","value":9447,"date":"2021-06-14T10:51:50.616Z"}
+{"road":"Whitford Road","suburb":"Somerville","city":"Auckland","customer":"Michael","salesPerson":"Elena","category":"Golems","brand":"for","value":9251,"date":"2022-01-17T12:44:00.232Z"}
+{"road":"Mahoe Street","suburb":"Tawa","city":"Wellington","customer":"Ava","salesPerson":"Scarlett","category":"Kraken","brand":"but","value":9305,"date":"2021-12-20T13:13:56.283Z"}
+{"road":"Moore Street","suburb":"Sydenham","city":"Christchurch","customer":"Maya","salesPerson":"Gabriel","category":"Cyclops","brand":"so","value":2865,"date":"2021-11-01T09:13:38.793Z"}
+{"road":"Cargill Street","suburb":"Karori","city":"Wellington","customer":"Isabella","salesPerson":"Matthew","category":"Leprechaun","brand":"a","value":1179,"date":"2022-03-07T11:26:53.581Z"}
+{"road":"Appleton Place","suburb":"Karori","city":"Wellington","customer":"Isla","salesPerson":"Chloe","category":"Harpy","brand":"but","value":4028,"date":"2021-10-25T13:34:19.395Z"}
+{"road":"Nerissa Place","suburb":"Randwick Park","city":"Auckland","customer":"Emily","salesPerson":"Lincoln","category":"Harpy","brand":"a","value":3139,"date":"2022-01-27T09:18:31.977Z"}
+{"road":"Baxter Street","suburb":"Mount Roskill","city":"Auckland","customer":"Owen","salesPerson":"Jaxon","category":"Pegasus","brand":"but","value":2580,"date":"2021-09-15T05:36:18.721Z"}
+{"road":"Wynyard Road","suburb":"Mount Eden","city":"Auckland","customer":"Gabriel","salesPerson":"Emma","category":"Golems","brand":"an","value":894,"date":"2022-01-25T08:51:12.653Z"}
+{"road":"Richill Street","suburb":"Belfast","city":"Christchurch","customer":"Eliana","salesPerson":"Oliver","category":"Pixie","brand":"for","value":7940,"date":"2022-04-27T10:50:40.722Z"}
+{"road":"Bushlands Park Drive","suburb":"Albany","city":"Auckland","customer":"Henry","salesPerson":"Ryleigh","category":"Pegasus","brand":"and","value":9312,"date":"2022-04-04T11:25:39.285Z"}
+{"road":"Huia Road","suburb":"Hataitai","city":"Wellington","customer":"Jackson","salesPerson":"Hazel","category":"Medusa","brand":"or","value":880,"date":"2022-02-16T04:35:02.720Z"}
+{"road":"Gardiner Grove","suburb":"Mangere East","city":"Auckland","customer":"Grace","salesPerson":"Mia","category":"Pegasus","brand":"yet","value":552,"date":"2022-03-17T11:50:14.845Z"}
+{"road":"Kotinga Avenue","suburb":"Glen Eden","city":"Auckland","customer":"Jackson","salesPerson":"Isabella","category":"Griffin","brand":"yet","value":147,"date":"2021-07-29T23:16:10.809Z"}
+{"road":"Awatahi Place","suburb":"Greenhithe","city":"Auckland","customer":"Leo","salesPerson":"Elena","category":"Cyclops","brand":"a","value":6892,"date":"2021-12-22T15:32:27.042Z"}
+{"road":"Nelson Avenue","suburb":"Northcote Point","city":"Auckland","customer":"Stella","salesPerson":"Julian","category":"Dragon","brand":"and","value":7996,"date":"2021-09-08T09:11:52.233Z"}
+{"road":"Roscommon Road","suburb":"Clendon Park","city":"Auckland","customer":"Elijah","salesPerson":"Addison","category":"Griffin","brand":"an","value":2745,"date":"2021-09-30T02:53:35.617Z"}
+{"road":"Alice Place","suburb":"Hillcrest","city":"Auckland","customer":"Hazel","salesPerson":"Ryleigh","category":"Minotaur","brand":"for","value":9584,"date":"2021-09-14T00:27:20.605Z"}
+{"road":"Primrose Place","suburb":"Manurewa","city":"Auckland","customer":"Henry","salesPerson":"Stella","category":"Ogre","brand":"yet","value":181,"date":"2022-04-11T01:37:51.093Z"}
+{"road":"Anderson Terrace","suburb":"Mount Cook","city":"Wellington","customer":"Oliver","salesPerson":"Abigail","category":"Cyclops","brand":"yet","value":2921,"date":"2022-05-14T18:58:36.609Z"}
+{"road":"Swan Lane","suburb":"Te Aro","city":"Wellington","customer":"William","salesPerson":"Samuel","category":"Kraken","brand":"or","value":3461,"date":"2021-08-04T20:38:04.092Z"}
+{"road":"Concord Place","suburb":"Burwood","city":"Christchurch","customer":"James","salesPerson":"Charlie","category":"Minotaur","brand":"an","value":1700,"date":"2022-02-02T05:59:14.274Z"}
+{"road":"Bedlington Avenue","suburb":"Manurewa","city":"Auckland","customer":"Ryleigh","salesPerson":"Ivy","category":"Dragon","brand":"for","value":384,"date":"2021-11-15T20:39:23.441Z"}
+{"road":"Squadron Drive","suburb":"Hobsonville","city":"Auckland","customer":"Joseph","salesPerson":"Grace","category":"Griffin","brand":"an","value":4219,"date":"2021-08-07T16:26:25.387Z"}
+{"road":"Middlemore Road","suburb":"Otahuhu","city":"Auckland","customer":"James","salesPerson":"Joseph","category":"Mermaid","brand":"a","value":4840,"date":"2021-08-19T08:45:55.922Z"}
+{"road":"Eleanor Lane","suburb":"Casebrook","city":"Christchurch","customer":"Ethan","salesPerson":"Sebastian","category":"Hydra","brand":"a","value":6557,"date":"2021-09-17T22:43:26.315Z"}
+{"road":"Jackmin Lane","suburb":"Burwood","city":"Christchurch","customer":"Wyatt","salesPerson":"Joseph","category":"Phoenix","brand":"and","value":566,"date":"2021-06-21T13:57:33.627Z"}
+{"road":"Glencullen Place","suburb":"Dannemora","city":"Auckland","customer":"Mason","salesPerson":"Joseph","category":"Griffin","brand":"but","value":3192,"date":"2022-02-17T22:13:53.292Z"}
+{"road":"Hillview Road","suburb":"Phillipstown","city":"Christchurch","customer":"Owen","salesPerson":"Lincoln","category":"Unicorn","brand":"an","value":4474,"date":"2021-08-27T14:01:36.936Z"}
+{"road":"Gray Avenue","suburb":"Mangere East","city":"Auckland","customer":"Benjamin","salesPerson":"Jacob","category":"Sphinx","brand":"a","value":9159,"date":"2022-02-10T08:16:26.140Z"}
+{"road":"Ensors Road","suburb":"Waltham","city":"Christchurch","customer":"Charlie","salesPerson":"Alexander","category":"Bashee","brand":"but","value":742,"date":"2022-04-20T22:14:26.166Z"}
+{"road":"Bramwell Place","suburb":"Epsom","city":"Auckland","customer":"Levi","salesPerson":"Ezra","category":"Hydra","brand":"and","value":1032,"date":"2021-08-18T09:21:32.423Z"}
+{"road":"Stourbridge Street","suburb":"Spreydon","city":"Christchurch","customer":"Mila","salesPerson":"Matthew","category":"Kraken","brand":"or","value":7397,"date":"2021-12-15T21:59:13.058Z"}
+{"road":"Thomas Rea Place","suburb":"Te Atatu South","city":"Auckland","customer":"Olivia","salesPerson":"Lucas","category":"Golems","brand":"an","value":806,"date":"2022-05-12T11:38:03.610Z"}
+{"road":"Arawa Street","suburb":"New Lynn","city":"Auckland","customer":"Luca","salesPerson":"Sophia","category":"Medusa","brand":"for","value":1746,"date":"2021-08-11T08:11:45.351Z"}
+{"road":"Glenvar Close","suburb":"Torbay","city":"Auckland","customer":"Violet","salesPerson":"Rylee","category":"Unicorn","brand":"yet","value":364,"date":"2021-10-31T21:47:15.265Z"}
+{"road":"Winsley Terrace","suburb":"Churton Park","city":"Wellington","customer":"Lily","salesPerson":"Sebastian","category":"Sphinx","brand":"or","value":7790,"date":"2022-01-26T06:57:53.571Z"}
+{"road":"Dale Crescent","suburb":"Pakuranga","city":"Auckland","customer":"Emma","salesPerson":"Elias","category":"Phoenix","brand":"if","value":7097,"date":"2021-07-27T11:08:41.353Z"}
+{"road":"Limes Avenue","suburb":"Parklands","city":"Christchurch","customer":"Olivia","salesPerson":"Lincoln","category":"Pegasus","brand":"yet","value":5110,"date":"2021-09-12T02:06:25.554Z"}
+{"road":"Nathan Place","suburb":"Harewood","city":"Christchurch","customer":"Jackson","salesPerson":"Eleanor","category":"Pegasus","brand":"or","value":4972,"date":"2021-12-13T22:51:33.278Z"}
+{"road":"Tawa Street","suburb":"Tawa","city":"Wellington","customer":"Aurora","salesPerson":"Julian","category":"Medusa","brand":"but","value":930,"date":"2022-01-06T17:21:56.240Z"}
+{"road":"Frederick Street","suburb":"Waltham","city":"Christchurch","customer":"Hudson","salesPerson":"Emma","category":"Griffin","brand":"if","value":8785,"date":"2022-02-21T00:58:34.252Z"}
+{"road":"Monteith Grove","suburb":"Brooklyn","city":"Wellington","customer":"Mateo","salesPerson":"William","category":"Hydra","brand":"so","value":9,"date":"2021-06-13T11:33:09.050Z"}
+{"road":"Banville Road","suburb":"East Tamaki","city":"Auckland","customer":"William","salesPerson":"Elena","category":"Leviathan","brand":"and","value":117,"date":"2022-04-29T13:31:34.785Z"}
+{"road":"Regents Park Place","suburb":"Westgate","city":"Auckland","customer":"Mila","salesPerson":"Emma","category":"Minotaur","brand":"a","value":4834,"date":"2021-10-31T23:33:49.516Z"}
+{"road":"Wembley Road","suburb":"Sandringham","city":"Auckland","customer":"Grayson","salesPerson":"Mason","category":"Bashee","brand":"a","value":7134,"date":"2021-09-18T23:02:25.864Z"}
+{"road":"Cam Place","suburb":"Harewood","city":"Christchurch","customer":"Elena","salesPerson":"Joseph","category":"Medusa","brand":"but","value":341,"date":"2022-02-20T03:52:29.731Z"}
+{"road":"Vinewood Drive","suburb":"Albany","city":"Auckland","customer":"Emilia","salesPerson":"Emma","category":"Cyclops","brand":"an","value":8206,"date":"2022-05-09T04:40:28.750Z"}
+{"road":"Emma Street","suburb":"Marshland","city":"Christchurch","customer":"Ellie","salesPerson":"Alexander","category":"Dragon","brand":"or","value":4278,"date":"2021-12-03T18:21:14.044Z"}
+{"road":"Admirals Way","suburb":"New Brighton","city":"Christchurch","customer":"Maverick","salesPerson":"Ryleigh","category":"Bashee","brand":"or","value":6261,"date":"2022-03-23T22:03:10.240Z"}
+{"road":"Mitika Way","suburb":"Strathmore Park","city":"Wellington","customer":"Stella","salesPerson":"Hazel","category":"Kraken","brand":"an","value":241,"date":"2021-08-25T06:04:34.738Z"}
+{"road":"Struan Place","suburb":"Highland Park","city":"Auckland","customer":"Aria","salesPerson":"Anthony","category":"Hydra","brand":"or","value":2059,"date":"2021-10-20T04:29:21.770Z"}
+{"road":"Kimberley Way","suburb":"Khandallah","city":"Wellington","customer":"Penelope","salesPerson":"Owen","category":"Bashee","brand":"yet","value":9948,"date":"2021-10-20T06:11:36.003Z"}
+{"road":"Jays Road","suburb":"Titirangi","city":"Auckland","customer":"Avery","salesPerson":"Anthony","category":"Unicorn","brand":"an","value":46,"date":"2021-07-10T12:24:43.513Z"}
+{"road":"Kakariki Lane","suburb":"Clifton","city":"Christchurch","customer":"Levi","salesPerson":"Luke","category":"Leviathan","brand":"so","value":8382,"date":"2022-03-13T08:31:42.027Z"}
+{"road":"Park Road","suburb":"Miramar","city":"Wellington","customer":"Ryleigh","salesPerson":"Olivia","category":"Leprechaun","brand":"yet","value":4814,"date":"2022-04-01T14:25:16.729Z"}
+{"road":"Ngatiawa Street","suburb":"One Tree Hill","city":"Auckland","customer":"Elijah","salesPerson":"Oliver","category":"Phoenix","brand":"an","value":9360,"date":"2022-01-03T15:11:01.062Z"}
+{"road":"Nordon Place","suburb":"Remuera","city":"Auckland","customer":"Kai","salesPerson":"Levi","category":"Elf","brand":"an","value":2183,"date":"2021-06-25T10:05:48.598Z"}
+{"road":"Algie Place","suburb":"Avonhead","city":"Christchurch","customer":"Evelyn","salesPerson":"Charlie","category":"Ogre","brand":"so","value":710,"date":"2021-10-25T19:03:08.369Z"}
+{"road":"Spenbrooke Road","suburb":"Flat Bush","city":"Auckland","customer":"Elijah","salesPerson":"Sophia","category":"Minotaur","brand":"for","value":1603,"date":"2021-08-15T12:42:52.958Z"}
+{"road":"Guadeloupe Crescent","suburb":"Grenada Village","city":"Wellington","customer":"Ethan","salesPerson":"Scarlett","category":"Ogre","brand":"for","value":5255,"date":"2021-12-31T07:20:01.832Z"}
+{"road":"Queen Elizabeth II Drive","suburb":"Mairehau","city":"Christchurch","customer":"Elias","salesPerson":"Lincoln","category":"Pixie","brand":"for","value":8036,"date":"2021-07-19T03:08:55.740Z"}
+{"road":"Lascelles Street","suburb":"Saint Martins","city":"Christchurch","customer":"Daniel","salesPerson":"Jacob","category":"Kraken","brand":"but","value":3273,"date":"2021-09-13T08:28:33.704Z"}
+{"road":"Mordane Place","suburb":"Flat Bush","city":"Auckland","customer":"Ella","salesPerson":"Ivy","category":"Golems","brand":"if","value":323,"date":"2021-09-13T03:14:51.133Z"}
+{"road":"Fifeshire Street","suburb":"Belmont","city":"Auckland","customer":"Leo","salesPerson":"Luke","category":"Ogre","brand":"if","value":6462,"date":"2021-09-14T23:38:30.094Z"}
+{"road":"Balcairn Street","suburb":"Halswell","city":"Christchurch","customer":"Maverick","salesPerson":"John","category":"Pegasus","brand":"yet","value":6583,"date":"2021-07-13T00:33:23.054Z"}
+{"road":"Tangmere Place","suburb":"Burwood","city":"Christchurch","customer":"Gianna","salesPerson":"Jacob","category":"Elf","brand":"or","value":8052,"date":"2021-08-24T11:25:03.797Z"}
+{"road":"Captain Springs Road","suburb":"Onehunga","city":"Auckland","customer":"Grace","salesPerson":"Amelia","category":"Pegasus","brand":"so","value":5466,"date":"2022-04-18T21:07:49.691Z"}
+{"road":"Ridge Road","suburb":"Lucas Heights","city":"Auckland","customer":"Isabella","salesPerson":"Mason","category":"Minotaur","brand":"so","value":4940,"date":"2022-05-18T20:25:33.339Z"}
+{"road":"Kirklow Place","suburb":"Goodwood Heights","city":"Auckland","customer":"Charlie","salesPerson":"Ryleigh","category":"Bashee","brand":"yet","value":3751,"date":"2021-10-30T02:04:45.489Z"}
+{"road":"Flax Place","suburb":"Stonefields","city":"Auckland","customer":"Emilia","salesPerson":"Eli","category":"Harpy","brand":"but","value":3031,"date":"2021-06-28T11:20:06.236Z"}
+{"road":"Lyn Christie Place","suburb":"Wainoni","city":"Christchurch","customer":"Leo","salesPerson":"Grace","category":"Sphinx","brand":"or","value":9402,"date":"2022-03-03T14:14:01.660Z"}
+{"road":"Owhiro Bay Parade","suburb":"Island Bay","city":"Wellington","customer":"Jaxon","salesPerson":"Grace","category":"Elf","brand":"the","value":9994,"date":"2022-01-20T18:58:53.940Z"}
+{"road":"Annie Going Lane","suburb":"Halswell","city":"Christchurch","customer":"Gianna","salesPerson":"Oliver","category":"Sphinx","brand":"so","value":7600,"date":"2021-11-20T23:42:12.585Z"}
+{"road":"Morton Street","suburb":"Auckland Central","city":"Auckland","customer":"Penelope","salesPerson":"Lincoln","category":"Bashee","brand":"yet","value":8958,"date":"2021-08-31T19:51:47.584Z"}
+{"road":"Conie Glen Lane","suburb":"Broomfield","city":"Christchurch","customer":"Samuel","salesPerson":"Elena","category":"Hydra","brand":"if","value":8742,"date":"2022-03-11T17:19:20.291Z"}
+{"road":"Elie Place","suburb":"Wattle Downs","city":"Auckland","customer":"Isaiah","salesPerson":"Jacob","category":"Bashee","brand":"for","value":1511,"date":"2022-05-02T20:55:11.933Z"}
+{"road":"Rauhuia Crescent","suburb":"Parau","city":"Auckland","customer":"Luna","salesPerson":"Isla","category":"Golems","brand":"or","value":9416,"date":"2021-12-13T00:31:49.753Z"}
+{"road":"Rimu Street","suburb":"New Lynn","city":"Auckland","customer":"Eli","salesPerson":"Amelia","category":"Phoenix","brand":"and","value":8037,"date":"2021-08-21T04:59:02.662Z"}
+{"road":"Martin Jugum Lane","suburb":"Ranui","city":"Auckland","customer":"Luke","salesPerson":"Oliver","category":"Ogre","brand":"a","value":8170,"date":"2022-05-14T20:30:45.141Z"}
+{"road":"Leila Place","suburb":"Clover Park","city":"Auckland","customer":"Anthony","salesPerson":"Amelia","category":"Leprechaun","brand":"so","value":340,"date":"2022-04-23T04:24:54.361Z"}
+{"road":"Kinross Street","suburb":"Blockhouse Bay","city":"Auckland","customer":"Madison","salesPerson":"Noah","category":"Medusa","brand":"yet","value":6244,"date":"2021-11-01T02:58:26.885Z"}
+{"road":"Pelorous Street","suburb":"Paparangi","city":"Wellington","customer":"Gabriel","salesPerson":"Noah","category":"Harpy","brand":"but","value":2034,"date":"2022-03-23T15:31:56.753Z"}
+{"road":"Canal Road","suburb":"Avondale","city":"Auckland","customer":"Gianna","salesPerson":"Ryleigh","category":"Bashee","brand":"but","value":5222,"date":"2021-07-01T15:14:09.205Z"}
+{"road":"Chisbury Terrace","suburb":"Shelly Park","city":"Auckland","customer":"Everly","salesPerson":"Levi","category":"Leprechaun","brand":"the","value":1132,"date":"2021-11-13T12:38:31.212Z"}
+{"road":"Kabul Street","suburb":"Khandallah","city":"Wellington","customer":"Joseph","salesPerson":"Joseph","category":"Mermaid","brand":"the","value":7263,"date":"2021-06-26T23:26:10.098Z"}
+{"road":"Greenslade Crescent","suburb":"Northcote","city":"Auckland","customer":"Aria","salesPerson":"Owen","category":"Elf","brand":"yet","value":1935,"date":"2021-12-04T16:04:27.462Z"}
+{"road":"Carter Road","suburb":"Oratia","city":"Auckland","customer":"Elizabeth","salesPerson":"Charlotte","category":"Leviathan","brand":"so","value":8739,"date":"2021-12-19T21:48:48.552Z"}
+{"road":"Malters Place","suburb":"Browns Bay","city":"Auckland","customer":"Eleanor","salesPerson":"Asher","category":"Golems","brand":"if","value":992,"date":"2022-04-26T17:59:59.259Z"}
+{"road":"Chilcott Road","suburb":"Henderson","city":"Auckland","customer":"Logan","salesPerson":"Ryleigh","category":"Sphinx","brand":"for","value":6154,"date":"2022-02-21T11:17:26.564Z"}
+{"road":"Halston Road","suburb":"Mount Eden","city":"Auckland","customer":"Luke","salesPerson":"Muhammad","category":"Mermaid","brand":"yet","value":6726,"date":"2022-04-19T14:27:18.600Z"}
+{"road":"Suffolk Street","suburb":"Phillipstown","city":"Christchurch","customer":"Owen","salesPerson":"Carter","category":"Griffin","brand":"for","value":3772,"date":"2021-07-25T21:04:29.649Z"}
+{"road":"Cahir Place","suburb":"Flat Bush","city":"Auckland","customer":"Anthony","salesPerson":"Olivia","category":"Leprechaun","brand":"if","value":4320,"date":"2021-11-28T12:41:41.002Z"}
+{"road":"Monique Place","suburb":"Flat Bush","city":"Auckland","customer":"Aria","salesPerson":"Hudson","category":"Elf","brand":"for","value":1060,"date":"2021-12-06T15:27:21.982Z"}
+{"road":"Lane Crescent","suburb":"Tawa","city":"Wellington","customer":"Lucas","salesPerson":"Alexander","category":"Medusa","brand":"or","value":8554,"date":"2021-08-21T15:29:37.084Z"}
+{"road":"Barbarich Drive","suburb":"Stonefields","city":"Auckland","customer":"Amelia","salesPerson":"Isaiah","category":"Kraken","brand":"if","value":862,"date":"2021-10-31T12:16:03.477Z"}
+{"road":"Nikau Road","suburb":"Otahuhu","city":"Auckland","customer":"Anthony","salesPerson":"Abigail","category":"Cyclops","brand":"if","value":9370,"date":"2021-07-16T02:03:44.220Z"}
+{"road":"Kotuku Crescent","suburb":"Woolston","city":"Christchurch","customer":"Asher","salesPerson":"Daniel","category":"Leviathan","brand":"for","value":1862,"date":"2021-11-08T14:58:49.252Z"}
+{"road":"Leiden Place","suburb":"Totara Vale","city":"Auckland","customer":"Harper","salesPerson":"Abigail","category":"Griffin","brand":"a","value":51,"date":"2021-09-28T09:55:46.437Z"}
+{"road":"Arakan Way","suburb":"Khandallah","city":"Wellington","customer":"William","salesPerson":"Abigail","category":"Golems","brand":"an","value":1422,"date":"2021-09-16T20:30:06.680Z"}
+{"road":"Killarney Street","suburb":"Takapuna","city":"Auckland","customer":"Kai","salesPerson":"Penelope","category":"Bashee","brand":"the","value":8911,"date":"2021-11-18T00:46:17.717Z"}
+{"road":"Margot Street","suburb":"Epsom","city":"Auckland","customer":"Muhammad","salesPerson":"Amelia","category":"Minotaur","brand":"but","value":9970,"date":"2021-11-07T10:45:19.867Z"}
+{"road":"Newman Terrace","suburb":"Thorndon","city":"Wellington","customer":"David","salesPerson":"Nova","category":"Griffin","brand":"for","value":8398,"date":"2022-03-02T15:31:51.176Z"}
+{"road":"Ashley Avenue","suburb":"Long Bay","city":"Auckland","customer":"Ezra","salesPerson":"Amelia","category":"Sphinx","brand":"for","value":1302,"date":"2022-04-17T11:20:47.612Z"}
+{"road":"Warner Place","suburb":"Heathcote Valley","city":"Christchurch","customer":"Kai","salesPerson":"Sofia","category":"Leviathan","brand":"if","value":2951,"date":"2021-08-02T14:23:08.475Z"}
+{"road":"Esperance Road","suburb":"Glendowie","city":"Auckland","customer":"Elijah","salesPerson":"Liam","category":"Unicorn","brand":"if","value":1275,"date":"2021-09-02T23:17:22.919Z"}
+{"road":"Styxspring Lane","suburb":"Harewood","city":"Christchurch","customer":"Daniel","salesPerson":"Jacob","category":"Sphinx","brand":"but","value":294,"date":"2022-05-21T07:15:23.305Z"}
+{"road":"Waipapa Road","suburb":"Hataitai","city":"Wellington","customer":"Mateo","salesPerson":"Muhammad","category":"Golems","brand":"but","value":8699,"date":"2022-03-04T12:52:07.400Z"}
+{"road":"Post Office Square","suburb":"Wellington Central","city":"Wellington","customer":"Asher","salesPerson":"Olivia","category":"Unicorn","brand":"yet","value":3501,"date":"2021-12-30T05:22:20.815Z"}
+{"road":"Oakdene Place","suburb":"Halswell","city":"Christchurch","customer":"Chloe","salesPerson":"Ivy","category":"Medusa","brand":"and","value":1187,"date":"2022-05-10T19:30:04.363Z"}
+{"road":"Rakiraki Place","suburb":"Flat Bush","city":"Auckland","customer":"Charlotte","salesPerson":"Ryleigh","category":"Ogre","brand":"yet","value":384,"date":"2022-02-19T20:18:55.947Z"}
+{"road":"Tiroroa Avenue","suburb":"Te Atatu South","city":"Auckland","customer":"Aria","salesPerson":"Luna","category":"Mermaid","brand":"or","value":4440,"date":"2021-11-30T20:40:20.606Z"}
+{"road":"Tesla Place","suburb":"Totara Vale","city":"Auckland","customer":"David","salesPerson":"Elizabeth","category":"Kraken","brand":"an","value":8990,"date":"2021-07-05T08:06:06.295Z"}
+{"road":"Lucienne Place","suburb":"Hillsborough","city":"Christchurch","customer":"Mia","salesPerson":"Carter","category":"Leprechaun","brand":"if","value":842,"date":"2022-04-18T10:57:20.780Z"}
+{"road":"Takerei Way","suburb":"Glen Innes","city":"Auckland","customer":"Chloe","salesPerson":"Grace","category":"Bashee","brand":"so","value":7219,"date":"2022-05-02T13:12:23.250Z"}
+{"road":"Guinness Place","suburb":"Massey","city":"Auckland","customer":"Charlotte","salesPerson":"Sofia","category":"Dragon","brand":"or","value":2056,"date":"2022-02-07T18:31:56.194Z"}
+{"road":"Princess Maria Place","suburb":"Massey","city":"Auckland","customer":"Isla","salesPerson":"Matthew","category":"Harpy","brand":"an","value":5209,"date":"2022-05-27T21:47:12.631Z"}
+{"road":"Schopolo Place","suburb":"Schnapper Rock","city":"Auckland","customer":"Mila","salesPerson":"Luna","category":"Hydra","brand":"and","value":8181,"date":"2021-08-19T01:29:36.397Z"}
+{"road":"Olivine Street","suburb":"Shirley","city":"Christchurch","customer":"Leo","salesPerson":"Aurora","category":"Leprechaun","brand":"but","value":1031,"date":"2021-06-25T16:26:11.619Z"}
+{"road":"Glenview Terrace","suburb":"Saint Martins","city":"Christchurch","customer":"Noah","salesPerson":"Noah","category":"Leprechaun","brand":"but","value":2696,"date":"2021-08-12T17:25:37.977Z"}
+{"road":"Olea Road","suburb":"Onehunga","city":"Auckland","customer":"Alexander","salesPerson":"Stella","category":"Hydra","brand":"or","value":1732,"date":"2022-04-13T01:58:44.050Z"}
+{"road":"Busaco Road","suburb":"Hataitai","city":"Wellington","customer":"Eli","salesPerson":"Sofia","category":"Harpy","brand":"or","value":5290,"date":"2021-10-24T20:53:01.747Z"}
+{"road":"Tavua Lane","suburb":"Ranui","city":"Auckland","customer":"Lily","salesPerson":"Amelia","category":"Golems","brand":"and","value":4401,"date":"2022-05-10T15:29:55.874Z"}
+{"road":"Bridgehead Cove","suburb":"West Harbour","city":"Auckland","customer":"Ethan","salesPerson":"Eli","category":"Sphinx","brand":"or","value":9847,"date":"2021-06-09T09:07:23.175Z"}
+{"road":"Maunu Road","suburb":"Papatoetoe","city":"Auckland","customer":"Ethan","salesPerson":"Owen","category":"Elf","brand":"so","value":4541,"date":"2022-02-10T00:26:25.101Z"}
+{"road":"Sistema Way","suburb":"Mangere","city":"Auckland","customer":"Eliana","salesPerson":"John","category":"Leviathan","brand":"for","value":8910,"date":"2021-12-15T17:42:07.073Z"}
+{"road":"Jones Road","suburb":"Templeton","city":"Christchurch","customer":"Michael","salesPerson":"Liam","category":"Hydra","brand":"or","value":9362,"date":"2022-01-26T14:17:52.818Z"}
+{"road":"Pratt Street","suburb":"Freemans Bay","city":"Auckland","customer":"Leo","salesPerson":"Riley","category":"Medusa","brand":"for","value":2283,"date":"2021-11-08T05:33:20.335Z"}
+{"road":"Fitchburg Place","suburb":"Mangere","city":"Auckland","customer":"Daniel","salesPerson":"Addison","category":"Leviathan","brand":"so","value":6939,"date":"2021-10-12T06:46:58.892Z"}
+{"road":"Davington Way","suburb":"Burswood","city":"Auckland","customer":"Joseph","salesPerson":"Jaxon","category":"Dragon","brand":"a","value":5531,"date":"2021-06-05T17:49:03.868Z"}
+{"road":"Nathan Street","suburb":"Tawa","city":"Wellington","customer":"Stella","salesPerson":"Rylee","category":"Hydra","brand":"a","value":4568,"date":"2022-01-05T12:45:20.695Z"}
+{"road":"Vicki Street","suburb":"Sockburn","city":"Christchurch","customer":"Jaxon","salesPerson":"Sofia","category":"Ogre","brand":"so","value":3747,"date":"2021-08-16T18:13:23.606Z"}
+{"road":"Malloy Place","suburb":"Eastern Beach","city":"Auckland","customer":"Eli","salesPerson":"Noah","category":"Medusa","brand":"so","value":1758,"date":"2022-03-18T11:36:32.561Z"}
+{"road":"Leicester Crescent","suburb":"Hoon Hay","city":"Christchurch","customer":"Ezra","salesPerson":"Chloe","category":"Kraken","brand":"if","value":5122,"date":"2021-12-04T23:18:16.296Z"}
+{"road":"Mullafin Road","suburb":"Flat Bush","city":"Auckland","customer":"Henry","salesPerson":"Nora","category":"Kraken","brand":"for","value":5419,"date":"2021-10-13T11:06:51.287Z"}
+{"road":"Golden Avenue","suburb":"Flat Bush","city":"Auckland","customer":"Eli","salesPerson":"Paisley","category":"Pegasus","brand":"for","value":181,"date":"2021-10-19T05:39:27.583Z"}
+{"road":"Wilkie Place","suburb":"Mount Wellington","city":"Auckland","customer":"Violet","salesPerson":"Maya","category":"Golems","brand":"if","value":8427,"date":"2021-07-23T11:15:54.467Z"}
+{"road":"Helianthus Avenue","suburb":"Flat Bush","city":"Auckland","customer":"Ezra","salesPerson":"Zoey","category":"Leprechaun","brand":"so","value":9800,"date":"2022-03-02T13:13:26.408Z"}
+{"road":"Kirrie Avenue","suburb":"Te Atatu South","city":"Auckland","customer":"Logan","salesPerson":"Emma","category":"Ogre","brand":"the","value":923,"date":"2021-10-16T13:18:34.547Z"}
+{"road":"Catlins Place","suburb":"Fairview Heights","city":"Auckland","customer":"Levi","salesPerson":"Julian","category":"Bashee","brand":"the","value":9899,"date":"2022-03-08T04:27:26.222Z"}
+{"road":"Sorrel Crescent","suburb":"Bucklands Beach","city":"Auckland","customer":"Charlotte","salesPerson":"Samuel","category":"Mermaid","brand":"if","value":1040,"date":"2021-10-17T07:33:29.156Z"}
+{"road":"Ardross Avenue","suburb":"Khandallah","city":"Wellington","customer":"Daniel","salesPerson":"Michael","category":"Hydra","brand":"the","value":7035,"date":"2022-03-03T13:52:36.544Z"}
+{"road":"Kershaw Place","suburb":"Richmond","city":"Christchurch","customer":"Ethan","salesPerson":"Daniel","category":"Pixie","brand":"so","value":9932,"date":"2022-04-04T15:06:14.257Z"}
+{"road":"Rowan Terrace","suburb":"Te Atatu South","city":"Auckland","customer":"Matthew","salesPerson":"Elena","category":"Medusa","brand":"the","value":3361,"date":"2022-02-16T23:16:36.233Z"}
+{"road":"Mauretania Place","suburb":"Lynfield","city":"Auckland","customer":"Amelia","salesPerson":"Luna","category":"Dragon","brand":"the","value":7425,"date":"2022-03-29T17:52:10.808Z"}
+{"road":"Apa Street","suburb":"Weymouth","city":"Auckland","customer":"Alexander","salesPerson":"Eleanor","category":"Phoenix","brand":"if","value":6018,"date":"2022-01-03T11:26:58.933Z"}
+{"road":"Forest Hill Road","suburb":"Oratia","city":"Auckland","customer":"Ethan","salesPerson":"Ryleigh","category":"Griffin","brand":"if","value":7302,"date":"2021-12-24T00:31:10.133Z"}
+{"road":"Anderson Avenue","suburb":"Point England","city":"Auckland","customer":"Abigail","salesPerson":"Olivia","category":"Leprechaun","brand":"the","value":9659,"date":"2021-06-12T20:22:41.969Z"}
+{"road":"Rangipawa Road","suburb":"One Tree Hill","city":"Auckland","customer":"Lucas","salesPerson":"Eli","category":"Harpy","brand":"or","value":9618,"date":"2022-05-10T07:22:13.796Z"}
+{"road":"Halifax Avenue","suburb":"Epsom","city":"Auckland","customer":"Sophia","salesPerson":"Eli","category":"Leprechaun","brand":"if","value":9952,"date":"2021-09-25T04:44:50.954Z"}
+{"road":"Arthur Carman Street","suburb":"Johnsonville","city":"Wellington","customer":"Isla","salesPerson":"Rylee","category":"Leprechaun","brand":"a","value":9402,"date":"2021-11-29T22:10:12.834Z"}
+{"road":"Strauss Place","suburb":"Somerfield","city":"Christchurch","customer":"Aurora","salesPerson":"Lincoln","category":"Pegasus","brand":"an","value":6792,"date":"2022-05-22T00:44:19.821Z"}
+{"road":"Rongomai Road","suburb":"Otara","city":"Auckland","customer":"Daniel","salesPerson":"Liam","category":"Dragon","brand":"an","value":2191,"date":"2021-09-26T22:19:41.548Z"}
+{"road":"Tomtit Lane","suburb":"Flat Bush","city":"Auckland","customer":"Lucas","salesPerson":"Kai","category":"Sphinx","brand":"and","value":2255,"date":"2022-03-22T07:57:01.797Z"}
+{"road":"Balnoon Place","suburb":"Mangere East","city":"Auckland","customer":"Willow","salesPerson":"Mason","category":"Medusa","brand":"or","value":2980,"date":"2022-01-07T03:21:23.677Z"}
+{"road":"Korokio Lane","suburb":"Halswell","city":"Christchurch","customer":"Lucas","salesPerson":"William","category":"Ogre","brand":"but","value":6927,"date":"2021-09-18T04:02:35.166Z"}
+{"road":"Mathesons Road","suburb":"Waltham","city":"Christchurch","customer":"Muhammad","salesPerson":"Nova","category":"Griffin","brand":"the","value":5061,"date":"2022-05-10T21:03:52.563Z"}
+{"road":"Township Road","suburb":"Waitakere","city":"Auckland","customer":"Gianna","salesPerson":"Oliver","category":"Griffin","brand":"or","value":4108,"date":"2022-04-23T22:05:13.447Z"}
+{"road":"Pembroke Street","suburb":"Tawa","city":"Wellington","customer":"Elena","salesPerson":"Hazel","category":"Golems","brand":"if","value":7537,"date":"2021-07-26T02:40:17.802Z"}
+{"road":"Glen Kerran Close","suburb":"Broomfield","city":"Christchurch","customer":"Violet","salesPerson":"Oliver","category":"Pixie","brand":"if","value":5054,"date":"2022-03-16T03:25:00.971Z"}
+{"road":"Kinnerton Lane","suburb":"Casebrook","city":"Christchurch","customer":"Nova","salesPerson":"Isla","category":"Leprechaun","brand":"or","value":140,"date":"2021-08-03T21:04:10.142Z"}
+{"road":"Industry Road","suburb":"Penrose","city":"Auckland","customer":"Anthony","salesPerson":"Mason","category":"Minotaur","brand":"but","value":124,"date":"2021-09-20T16:16:17.654Z"}
+{"road":"Franklyne Road","suburb":"Otara","city":"Auckland","customer":"Grayson","salesPerson":"Lincoln","category":"Harpy","brand":"the","value":1409,"date":"2022-04-12T17:09:26.475Z"}
+{"road":"Hornbrook Street","suburb":"Waltham","city":"Christchurch","customer":"Elena","salesPerson":"Charlie","category":"Leprechaun","brand":"the","value":4393,"date":"2021-08-03T01:10:06.966Z"}
+{"road":"Warrington Street","suburb":"Edgeware","city":"Christchurch","customer":"Elizabeth","salesPerson":"Eleanor","category":"Leprechaun","brand":"for","value":9554,"date":"2021-10-07T03:03:34.352Z"}
+{"road":"Lupin Terrace","suburb":"Tawa","city":"Wellington","customer":"Eli","salesPerson":"Noah","category":"Phoenix","brand":"but","value":9851,"date":"2021-10-26T13:37:28.438Z"}
+{"road":"Awhina Street","suburb":"Favona","city":"Auckland","customer":"Eli","salesPerson":"Michael","category":"Medusa","brand":"or","value":982,"date":"2021-08-13T10:24:06.791Z"}
+{"road":"Basin View Lane","suburb":"Panmure","city":"Auckland","customer":"Penelope","salesPerson":"Noah","category":"Medusa","brand":"if","value":7943,"date":"2021-08-17T14:54:04.899Z"}
+{"road":"Daytona Road","suburb":"Henderson","city":"Auckland","customer":"Lucas","salesPerson":"Lucas","category":"Leviathan","brand":"if","value":8488,"date":"2022-05-27T09:48:15.469Z"}
+{"road":"Mountbatten Avenue","suburb":"Hillcrest","city":"Auckland","customer":"Anthony","salesPerson":"Elias","category":"Mermaid","brand":"and","value":2152,"date":"2021-06-12T18:18:55.306Z"}
+{"road":"McCormacks Bay Road","suburb":"Mount Pleasant","city":"Christchurch","customer":"Scarlett","salesPerson":"John","category":"Dragon","brand":"an","value":1913,"date":"2022-03-31T12:40:44.960Z"}
+{"road":"Kainui Road","suburb":"Hataitai","city":"Wellington","customer":"Luca","salesPerson":"Amelia","category":"Mermaid","brand":"but","value":242,"date":"2021-12-05T20:33:33.015Z"}
+{"road":"Puketea Street","suburb":"Blockhouse Bay","city":"Auckland","customer":"Mateo","salesPerson":"Everly","category":"Harpy","brand":"for","value":3734,"date":"2022-05-31T05:06:58.266Z"}
+{"road":"Lohia Street","suburb":"Khandallah","city":"Wellington","customer":"Harper","salesPerson":"Owen","category":"Cyclops","brand":"if","value":6864,"date":"2022-02-17T01:25:19.191Z"}
+{"road":"Angela Street","suburb":"Sockburn","city":"Christchurch","customer":"Isla","salesPerson":"Liam","category":"Hydra","brand":"an","value":1442,"date":"2021-11-01T13:39:38.874Z"}
+{"road":"Wallath Road","suburb":"Onehunga","city":"Auckland","customer":"Muhammad","salesPerson":"Sophia","category":"Leviathan","brand":"so","value":1075,"date":"2022-05-14T14:42:09.589Z"}
+{"road":"Redwood Drive","suburb":"Massey","city":"Auckland","customer":"Evelyn","salesPerson":"Rylee","category":"Pegasus","brand":"so","value":1951,"date":"2021-12-03T08:27:58.203Z"}
+{"road":"Wilmshurst Avenue","suburb":"Papatoetoe","city":"Auckland","customer":"Julian","salesPerson":"Noah","category":"Pegasus","brand":"if","value":8268,"date":"2022-03-12T13:49:19.616Z"}
+{"road":"Wilsher Crescent","suburb":"Henderson","city":"Auckland","customer":"Daniel","salesPerson":"Everly","category":"Dragon","brand":"if","value":1925,"date":"2022-03-22T07:57:13.338Z"}
+{"road":"Hyde Road","suburb":"Rothesay Bay","city":"Auckland","customer":"Aria","salesPerson":"Paisley","category":"Cyclops","brand":"but","value":6389,"date":"2022-05-20T10:34:46.370Z"}
+{"road":"Oroua Place","suburb":"Otara","city":"Auckland","customer":"Sebastian","salesPerson":"Sofia","category":"Leviathan","brand":"but","value":6514,"date":"2022-02-28T13:57:00.211Z"}
+{"road":"Swindon Close","suburb":"Mellons Bay","city":"Auckland","customer":"Gianna","salesPerson":"Paisley","category":"Hydra","brand":"a","value":8286,"date":"2021-09-24T19:45:57.418Z"}
+{"road":"Valdena Avenue","suburb":"Albany Heights","city":"Auckland","customer":"Willow","salesPerson":"Matthew","category":"Elf","brand":"a","value":2814,"date":"2021-12-11T19:56:05.508Z"}
+{"road":"Sunnyfield Crescent","suburb":"Glenfield","city":"Auckland","customer":"Matthew","salesPerson":"Lincoln","category":"Bashee","brand":"for","value":66,"date":"2022-05-17T07:17:23.906Z"}
+{"road":"Dunkirk Terrace","suburb":"Mount Albert","city":"Auckland","customer":"Mateo","salesPerson":"Gabriel","category":"Leviathan","brand":"for","value":3650,"date":"2022-01-05T04:21:30.855Z"}
+{"road":"Westmoreland Street East","suburb":"Grey Lynn","city":"Auckland","customer":"David","salesPerson":"Paisley","category":"Leviathan","brand":"an","value":3861,"date":"2021-07-14T05:10:59.128Z"}
+{"road":"Farrelly Avenue","suburb":"Wesley","city":"Auckland","customer":"Elijah","salesPerson":"Maya","category":"Sphinx","brand":"the","value":7257,"date":"2021-07-17T00:35:45.147Z"}
+{"road":"Watts Road","suburb":"Manurewa","city":"Auckland","customer":"Aria","salesPerson":"Gabriel","category":"Hydra","brand":"if","value":1116,"date":"2021-12-23T22:21:32.856Z"}
+{"road":"Inca Place","suburb":"Redwood","city":"Christchurch","customer":"Eleanor","salesPerson":"Hudson","category":"Sphinx","brand":"yet","value":7514,"date":"2021-12-16T20:48:33.531Z"}
+{"road":"Elsie Street","suburb":"Halswell","city":"Christchurch","customer":"Stella","salesPerson":"Grace","category":"Ogre","brand":"an","value":8889,"date":"2021-08-31T19:54:18.511Z"}
+{"road":"Bournemouth Terrace","suburb":"Murrays Bay","city":"Auckland","customer":"Camila","salesPerson":"Mason","category":"Ogre","brand":"for","value":6425,"date":"2021-10-04T15:00:20.803Z"}
+{"road":"Pegler Avenue","suburb":"Epsom","city":"Auckland","customer":"Oliver","salesPerson":"Riley","category":"Mermaid","brand":"but","value":8399,"date":"2022-03-30T13:03:55.049Z"}
+{"road":"Ardkeen Place","suburb":"East Tamaki","city":"Auckland","customer":"Elizabeth","salesPerson":"Riley","category":"Pegasus","brand":"the","value":93,"date":"2022-04-08T12:52:16.721Z"}
+{"road":"Louise Place","suburb":"Browns Bay","city":"Auckland","customer":"Maverick","salesPerson":"Eleanor","category":"Harpy","brand":"if","value":7641,"date":"2021-06-07T11:44:40.978Z"}
+{"road":"Vallance Place","suburb":"Massey","city":"Auckland","customer":"Sofia","salesPerson":"Charlotte","category":"Sphinx","brand":"if","value":7462,"date":"2022-04-02T14:23:13.729Z"}
+{"road":"Rossbeg Lane","suburb":"Flat Bush","city":"Auckland","customer":"Anthony","salesPerson":"Mason","category":"Elf","brand":"so","value":31,"date":"2021-10-06T11:16:17.912Z"}
+{"road":"Charles Heaphy Lane","suburb":"Stonefields","city":"Auckland","customer":"Scarlett","salesPerson":"Isla","category":"Griffin","brand":"yet","value":2082,"date":"2021-09-13T21:44:29.520Z"}
+{"road":"Flaunty Place","suburb":"West Harbour","city":"Auckland","customer":"Alexander","salesPerson":"Gabriel","category":"Mermaid","brand":"the","value":4045,"date":"2022-05-29T23:43:11.398Z"}
+{"road":"Royal Terrace","suburb":"Sandringham","city":"Auckland","customer":"Charlie","salesPerson":"Joseph","category":"Kraken","brand":"the","value":894,"date":"2021-06-27T09:09:42.617Z"}
+{"road":"Cloverly Crescent","suburb":"Campbells Bay","city":"Auckland","customer":"Lincoln","salesPerson":"Addison","category":"Hydra","brand":"so","value":2671,"date":"2021-11-09T19:31:54.377Z"}
+{"road":"Ransom Smyth Drive","suburb":"Goodwood Heights","city":"Auckland","customer":"Evelyn","salesPerson":"Emma","category":"Medusa","brand":"and","value":3122,"date":"2022-05-02T05:38:14.106Z"}
+{"road":"Lomeer Way","suburb":"Beachlands","city":"Auckland","customer":"Henry","salesPerson":"Matthew","category":"Golems","brand":"if","value":6611,"date":"2022-01-06T19:33:08.526Z"}
+{"road":"Derrynane Lane","suburb":"Cashmere","city":"Christchurch","customer":"Hazel","salesPerson":"Elena","category":"Dragon","brand":"if","value":1275,"date":"2022-01-14T22:05:12.430Z"}
+{"road":"Astley Avenue","suburb":"New Lynn","city":"Auckland","customer":"Ivy","salesPerson":"Mason","category":"Medusa","brand":"a","value":9373,"date":"2021-11-29T17:49:30.178Z"}
+{"road":"Esplanade Road","suburb":"Mount Eden","city":"Auckland","customer":"Hudson","salesPerson":"Levi","category":"Hydra","brand":"or","value":4723,"date":"2021-12-05T03:08:02.387Z"}
+{"road":"Sykes Road","suburb":"Manurewa","city":"Auckland","customer":"Ryleigh","salesPerson":"Olivia","category":"Bashee","brand":"and","value":3049,"date":"2021-11-15T17:48:09.615Z"}
+{"road":"Nutfield Lane","suburb":"Cashmere","city":"Christchurch","customer":"Sebastian","salesPerson":"Olivia","category":"Ogre","brand":"if","value":8037,"date":"2021-09-30T09:39:11.461Z"}
+{"road":"Hankey Street","suburb":"Mount Cook","city":"Wellington","customer":"Matthew","salesPerson":"Rylee","category":"Kraken","brand":"or","value":9365,"date":"2021-09-19T14:06:15.812Z"}
+{"road":"Hiropi Street","suburb":"Newtown","city":"Wellington","customer":"Eleanor","salesPerson":"Liam","category":"Griffin","brand":"the","value":7989,"date":"2021-06-13T20:19:55.680Z"}
+{"road":"Como Street","suburb":"Takapuna","city":"Auckland","customer":"Benjamin","salesPerson":"Elias","category":"Elf","brand":"the","value":8749,"date":"2022-04-15T10:12:02.605Z"}
+{"road":"Vermont Street","suburb":"Ponsonby","city":"Auckland","customer":"Madison","salesPerson":"Lincoln","category":"Cyclops","brand":"for","value":4713,"date":"2021-09-29T05:30:48.993Z"}
+{"road":"Cockle Bay Road","suburb":"Cockle Bay","city":"Auckland","customer":"Addison","salesPerson":"Ava","category":"Medusa","brand":"a","value":8414,"date":"2021-07-24T04:19:03.350Z"}
+{"road":"Capil Court","suburb":"Halswell","city":"Christchurch","customer":"Oliver","salesPerson":"Emma","category":"Pegasus","brand":"so","value":6904,"date":"2021-09-18T09:14:01.253Z"}
+{"road":"Cratloe Lane","suburb":"East Tamaki","city":"Auckland","customer":"Emma","salesPerson":"Penelope","category":"Bashee","brand":"and","value":7076,"date":"2021-07-08T16:55:22.091Z"}
+{"road":"Seymour Street","suburb":"Hornby South","city":"Christchurch","customer":"Willow","salesPerson":"Luke","category":"Phoenix","brand":"the","value":6598,"date":"2021-07-18T22:29:42.663Z"}
+{"road":"Stoddart Lane","suburb":"Cashmere","city":"Christchurch","customer":"Stella","salesPerson":"Liam","category":"Pegasus","brand":"yet","value":7030,"date":"2022-03-29T08:30:16.121Z"}
+{"road":"Woodard Terrace","suburb":"Somerfield","city":"Christchurch","customer":"Jaxon","salesPerson":"Matthew","category":"Pegasus","brand":"but","value":145,"date":"2021-08-27T11:13:23.525Z"}
+{"road":"Elwyn Place","suburb":"Avonhead","city":"Christchurch","customer":"Julian","salesPerson":"Liam","category":"Elf","brand":"so","value":3146,"date":"2022-04-20T21:09:19.149Z"}
+{"road":"Chorley Grove","suburb":"Churton Park","city":"Wellington","customer":"John","salesPerson":"Grace","category":"Dragon","brand":"a","value":7579,"date":"2021-07-26T06:03:24.410Z"}
+{"road":"Newbridge Place","suburb":"Ilam","city":"Christchurch","customer":"Avery","salesPerson":"Scarlett","category":"Ogre","brand":"or","value":5463,"date":"2021-08-30T19:05:23.956Z"}
+{"road":"Lewis Street","suburb":"Hoon Hay","city":"Christchurch","customer":"Madison","salesPerson":"Joseph","category":"Harpy","brand":"a","value":1880,"date":"2021-06-13T07:50:03.492Z"}
+{"road":"Shelly Bay Road","suburb":"Beachlands","city":"Auckland","customer":"Jaxon","salesPerson":"Everly","category":"Mermaid","brand":"or","value":3547,"date":"2021-12-25T12:03:07.864Z"}
+{"road":"Gibson Place","suburb":"Mellons Bay","city":"Auckland","customer":"Charlotte","salesPerson":"Joseph","category":"Cyclops","brand":"so","value":8437,"date":"2022-03-22T09:15:15.167Z"}
+{"road":"Ennerdale Row","suburb":"Westmorland","city":"Christchurch","customer":"Isaiah","salesPerson":"Ivy","category":"Minotaur","brand":"an","value":8229,"date":"2022-05-21T21:40:09.928Z"}
+{"road":"Pike Place","suburb":"Mangere East","city":"Auckland","customer":"Ava","salesPerson":"Mia","category":"Pegasus","brand":"the","value":160,"date":"2022-01-20T23:16:09.831Z"}
+{"road":"Sussex Street","suburb":"Grey Lynn","city":"Auckland","customer":"Lincoln","salesPerson":"Emma","category":"Golems","brand":"so","value":3731,"date":"2022-05-29T20:43:55.600Z"}
+{"road":"Whitaker Place","suburb":"Grafton","city":"Auckland","customer":"John","salesPerson":"Stella","category":"Sphinx","brand":"an","value":4657,"date":"2021-12-04T02:59:50.297Z"}
+{"road":"Buller Street","suburb":"Te Aro","city":"Wellington","customer":"Jacob","salesPerson":"Nora","category":"Harpy","brand":"yet","value":7526,"date":"2022-03-27T02:40:49.692Z"}
+{"road":"Sequel Road","suburb":"Halswell","city":"Christchurch","customer":"Jacob","salesPerson":"Chloe","category":"Ogre","brand":"for","value":5214,"date":"2022-01-01T20:04:49.970Z"}
+{"road":"Taranui Place","suburb":"Bromley","city":"Christchurch","customer":"Harper","salesPerson":"Sebastian","category":"Minotaur","brand":"if","value":9233,"date":"2021-06-23T17:31:45.528Z"}
+{"road":"Tane Street","suburb":"New Lynn","city":"Auckland","customer":"Joseph","salesPerson":"Eli","category":"Leviathan","brand":"and","value":9508,"date":"2022-05-28T20:10:56.781Z"}
+{"road":"Fred Ladd Way","suburb":"Auckland Airport","city":"Auckland","customer":"Jayden","salesPerson":"Rylee","category":"Sphinx","brand":"the","value":6520,"date":"2021-08-15T23:08:15.826Z"}
+{"road":"Keoghs Lane","suburb":"St Albans","city":"Christchurch","customer":"Josiah","salesPerson":"Gabriel","category":"Ogre","brand":"and","value":9877,"date":"2022-03-27T10:37:58.824Z"}
+{"road":"Onewa Road","suburb":"Northcote Point","city":"Auckland","customer":"Gianna","salesPerson":"Asher","category":"Kraken","brand":"a","value":6297,"date":"2022-02-25T08:43:09.877Z"}
+{"road":"Higham Lane","suburb":"Harewood","city":"Christchurch","customer":"Hazel","salesPerson":"Elizabeth","category":"Golems","brand":"and","value":5309,"date":"2022-05-07T23:25:32.191Z"}
+{"road":"Darlington Road","suburb":"Miramar","city":"Wellington","customer":"Sofia","salesPerson":"Grace","category":"Griffin","brand":"for","value":1166,"date":"2022-04-28T06:54:55.182Z"}
+{"road":"Stack Street","suburb":"Herne Bay","city":"Auckland","customer":"Aurora","salesPerson":"Ryleigh","category":"Harpy","brand":"so","value":2378,"date":"2022-03-03T07:09:44.878Z"}
+{"road":"Pigeon Mountain Road","suburb":"Half Moon Bay","city":"Auckland","customer":"Sophia","salesPerson":"Oliver","category":"Minotaur","brand":"or","value":4963,"date":"2022-01-09T08:10:16.042Z"}
+{"road":"La Perouse Place","suburb":"Northcote","city":"Christchurch","customer":"Nova","salesPerson":"Aurora","category":"Harpy","brand":"but","value":9190,"date":"2022-04-29T19:02:28.658Z"}
+{"road":"Wyatt Place","suburb":"Russley","city":"Christchurch","customer":"Ezra","salesPerson":"Lincoln","category":"Pixie","brand":"if","value":3611,"date":"2021-08-13T18:07:20.437Z"}
+{"road":"Scorpio Place","suburb":"Windsor Park","city":"Auckland","customer":"Aiden","salesPerson":"Julian","category":"Ogre","brand":"the","value":4245,"date":"2021-08-16T21:46:10.727Z"}
+{"road":"Weatherly Road","suburb":"Torbay","city":"Auckland","customer":"Jayden","salesPerson":"Paisley","category":"Phoenix","brand":"an","value":7062,"date":"2022-01-24T17:45:05.276Z"}
+{"road":"Hinau Street","suburb":"Tawa","city":"Wellington","customer":"Amelia","salesPerson":"Sofia","category":"Pixie","brand":"or","value":3296,"date":"2021-08-30T15:44:27.050Z"}
+{"road":"Beihlers Road","suburb":"Weymouth","city":"Auckland","customer":"Charlotte","salesPerson":"Olivia","category":"Minotaur","brand":"if","value":9011,"date":"2021-08-22T16:45:54.091Z"}
+{"road":"Glencoe Street","suburb":"Burnside","city":"Christchurch","customer":"Mason","salesPerson":"Matthew","category":"Cyclops","brand":"a","value":8952,"date":"2021-08-13T05:07:42.584Z"}
+{"road":"Kallaroo Place","suburb":"Botany Downs","city":"Auckland","customer":"Scarlett","salesPerson":"Everly","category":"Dragon","brand":"but","value":2552,"date":"2022-02-18T07:10:53.006Z"}
+{"road":"Sarikei Avenue","suburb":"Northwood","city":"Christchurch","customer":"Muhammad","salesPerson":"Grace","category":"Leprechaun","brand":"or","value":9831,"date":"2022-05-06T08:54:20.012Z"}
+{"road":"Parkstone Place","suburb":"Favona","city":"Auckland","customer":"Daniel","salesPerson":"Riley","category":"Ogre","brand":"or","value":5277,"date":"2021-08-21T06:02:28.435Z"}
+{"road":"Orewa Close","suburb":"Parklands","city":"Christchurch","customer":"Harper","salesPerson":"Daniel","category":"Sphinx","brand":"so","value":2230,"date":"2021-06-22T01:33:50.980Z"}
+{"road":"Clyma Place","suburb":"Massey","city":"Auckland","customer":"Henry","salesPerson":"Levi","category":"Pegasus","brand":"yet","value":1073,"date":"2022-02-19T18:45:04.197Z"}
+{"road":"Military Road","suburb":"Northland","city":"Wellington","customer":"Olivia","salesPerson":"John","category":"Griffin","brand":"or","value":7758,"date":"2021-11-11T22:35:26.044Z"}
+{"road":"Hendon Avenue","suburb":"Mount Albert","city":"Auckland","customer":"Maverick","salesPerson":"Lucas","category":"Harpy","brand":"an","value":9969,"date":"2022-02-21T00:41:18.929Z"}
+{"road":"Virginia Grove","suburb":"Brooklyn","city":"Wellington","customer":"Charlie","salesPerson":"Aurora","category":"Mermaid","brand":"and","value":2690,"date":"2021-10-22T10:38:49.776Z"}
+{"road":"Dransfield Street","suburb":"Vogeltown","city":"Wellington","customer":"Aurora","salesPerson":"Amelia","category":"Dragon","brand":"or","value":8094,"date":"2022-05-04T19:33:49.380Z"}
+{"road":"Miramar North Road","suburb":"Miramar","city":"Wellington","customer":"Maverick","salesPerson":"Chloe","category":"Medusa","brand":"if","value":5425,"date":"2022-01-31T11:27:25.021Z"}
+{"road":"Selwyn Terrace","suburb":"Thorndon","city":"Wellington","customer":"Ivy","salesPerson":"Michael","category":"Golems","brand":"but","value":5068,"date":"2021-08-17T20:41:25.130Z"}
+{"road":"Reward Place","suburb":"Mangere","city":"Auckland","customer":"Eleanor","salesPerson":"Stella","category":"Kraken","brand":"if","value":1782,"date":"2022-04-25T20:59:01.215Z"}
+{"road":"Proctor Place","suburb":"Mangere","city":"Auckland","customer":"Evelyn","salesPerson":"Sophia","category":"Bashee","brand":"yet","value":7651,"date":"2021-06-13T19:50:08.304Z"}
+{"road":"Gothic Place","suburb":"Lynfield","city":"Auckland","customer":"Ava","salesPerson":"Maya","category":"Minotaur","brand":"or","value":7865,"date":"2021-10-22T18:02:19.603Z"}
+{"road":"Leewood Place","suburb":"Pakuranga Heights","city":"Auckland","customer":"Muhammad","salesPerson":"Levi","category":"Leviathan","brand":"and","value":4336,"date":"2021-08-25T01:54:40.610Z"}
+{"road":"Orchard Street","suburb":"Avondale","city":"Auckland","customer":"Elena","salesPerson":"Samuel","category":"Griffin","brand":"an","value":593,"date":"2021-12-22T04:13:48.918Z"}
+{"road":"Dawson Road","suburb":"Otara","city":"Auckland","customer":"Mila","salesPerson":"Grace","category":"Phoenix","brand":"the","value":7895,"date":"2022-01-02T13:27:10.316Z"}
+{"road":"Torless Terrace","suburb":"Thorndon","city":"Wellington","customer":"Everly","salesPerson":"Alexander","category":"Harpy","brand":"so","value":6327,"date":"2022-04-01T08:29:16.196Z"}
+{"road":"Duggan Avenue","suburb":"Mangere","city":"Auckland","customer":"Grace","salesPerson":"Samuel","category":"Pixie","brand":"or","value":6123,"date":"2021-10-15T18:54:19.324Z"}
+{"road":"Fieldmoor Place","suburb":"Parklands","city":"Christchurch","customer":"Carter","salesPerson":"Scarlett","category":"Griffin","brand":"for","value":3885,"date":"2022-03-20T02:52:45.784Z"}
+{"road":"Oakley Crescent","suburb":"Hornby","city":"Christchurch","customer":"Lucas","salesPerson":"Samuel","category":"Bashee","brand":"so","value":1579,"date":"2021-09-18T12:39:31.165Z"}
+{"road":"Consul Place","suburb":"Wigram","city":"Christchurch","customer":"Jaxon","salesPerson":"Noah","category":"Dragon","brand":"so","value":4829,"date":"2022-05-20T10:49:24.785Z"}
+{"road":"Misty Place","suburb":"Papatoetoe","city":"Auckland","customer":"Luna","salesPerson":"Jacob","category":"Sphinx","brand":"yet","value":5373,"date":"2021-07-25T09:37:26.909Z"}
+{"road":"Segedin Place","suburb":"Glenfield","city":"Auckland","customer":"Logan","salesPerson":"Jacob","category":"Kraken","brand":"and","value":665,"date":"2021-08-06T14:38:49.194Z"}
+{"road":"Douglas Alexander Parade","suburb":"Rosedale","city":"Auckland","customer":"Julian","salesPerson":"Abigail","category":"Medusa","brand":"if","value":6908,"date":"2022-05-27T16:33:01.927Z"}
+{"road":"Ewart Road","suburb":"Mangere East","city":"Auckland","customer":"Nora","salesPerson":"Eli","category":"Cyclops","brand":"a","value":6540,"date":"2021-12-04T13:18:33.440Z"}
+{"road":"Dunstan Crescent","suburb":"Hornby","city":"Christchurch","customer":"Luca","salesPerson":"William","category":"Dragon","brand":"but","value":5180,"date":"2021-11-09T02:40:52.104Z"}
+{"road":"Rapaki Place","suburb":"Te Atatu Peninsula","city":"Auckland","customer":"Carter","salesPerson":"Eleanor","category":"Minotaur","brand":"if","value":4383,"date":"2021-07-05T19:22:22.736Z"}
+{"road":"Selby Square","suburb":"Saint Marys Bay","city":"Auckland","customer":"James","salesPerson":"Eleanor","category":"Dragon","brand":"a","value":1621,"date":"2021-10-11T09:53:35.853Z"}
+{"road":"Matisse Place","suburb":"Burnside","city":"Christchurch","customer":"Noah","salesPerson":"Scarlett","category":"Elf","brand":"an","value":3429,"date":"2021-12-02T14:16:08.597Z"}
+{"road":"Lyncroft Street","suburb":"Mangere East","city":"Auckland","customer":"Sophia","salesPerson":"Luna","category":"Medusa","brand":"a","value":9281,"date":"2021-09-27T09:51:15.650Z"}
+{"road":"Paisley Street","suburb":"Mellons Bay","city":"Auckland","customer":"Jacob","salesPerson":"Sophia","category":"Cyclops","brand":"if","value":1400,"date":"2022-04-23T22:00:01.581Z"}
+{"road":"Dellaca Lane","suburb":"Wigram","city":"Christchurch","customer":"Jacob","salesPerson":"Hudson","category":"Bashee","brand":"the","value":3271,"date":"2021-10-03T09:02:57.747Z"}
+{"road":"Silverfield","suburb":"Wairau Valley","city":"Auckland","customer":"Owen","salesPerson":"Luna","category":"Leprechaun","brand":"a","value":9468,"date":"2021-06-24T12:24:05.811Z"}
+{"road":"Fisher Crescent","suburb":"Mount Wellington","city":"Auckland","customer":"William","salesPerson":"Mason","category":"Medusa","brand":"for","value":9585,"date":"2022-01-13T17:06:04.174Z"}
+{"road":"O'Connor Place","suburb":"Burnside","city":"Christchurch","customer":"Charlotte","salesPerson":"Zoey","category":"Cyclops","brand":"an","value":1144,"date":"2021-08-21T16:54:44.389Z"}
+{"road":"Vermeer Place","suburb":"West Harbour","city":"Auckland","customer":"Isaiah","salesPerson":"Samuel","category":"Phoenix","brand":"yet","value":6891,"date":"2021-06-15T20:55:13.662Z"}
+{"road":"Ludlow Terrace","suburb":"Totara Vale","city":"Auckland","customer":"Jayden","salesPerson":"Joseph","category":"Mermaid","brand":"and","value":9229,"date":"2022-02-10T05:39:30.079Z"}
+{"road":"Campana Lane","suburb":"St Albans","city":"Christchurch","customer":"Gianna","salesPerson":"Nova","category":"Unicorn","brand":"for","value":9507,"date":"2021-07-04T22:52:14.801Z"}
+{"road":"Cashmore Place","suburb":"Flat Bush","city":"Auckland","customer":"Lily","salesPerson":"Ivy","category":"Mermaid","brand":"so","value":6608,"date":"2021-06-04T23:24:41.949Z"}
+{"road":"Johnston Road","suburb":"Mount Wellington","city":"Auckland","customer":"Hudson","salesPerson":"Elizabeth","category":"Dragon","brand":"yet","value":6452,"date":"2021-06-23T00:33:12.914Z"}
+{"road":"Brackendale Place","suburb":"Burnside","city":"Christchurch","customer":"Paisley","salesPerson":"Luke","category":"Ogre","brand":"a","value":2447,"date":"2022-03-31T04:31:24.349Z"}
+{"road":"Innes Road","suburb":"St Albans","city":"Christchurch","customer":"Sebastian","salesPerson":"Oliver","category":"Sphinx","brand":"but","value":2340,"date":"2021-12-25T07:53:50.446Z"}
+{"road":"Oakhaven Place","suburb":"Ranui","city":"Auckland","customer":"Henry","salesPerson":"Eleanor","category":"Harpy","brand":"if","value":6557,"date":"2022-05-20T16:43:30.617Z"}
+{"road":"Tweed Street","suburb":"Herne Bay","city":"Auckland","customer":"Emily","salesPerson":"John","category":"Pegasus","brand":"the","value":2304,"date":"2021-09-07T23:15:25.362Z"}
+{"road":"Belsera Court","suburb":"Northpark","city":"Auckland","customer":"Emma","salesPerson":"Amelia","category":"Hydra","brand":"so","value":1146,"date":"2021-12-25T23:46:10.927Z"}
+{"road":"Awatea Gardens","suburb":"Wigram","city":"Christchurch","customer":"Nova","salesPerson":"Carter","category":"Pegasus","brand":"an","value":4327,"date":"2021-11-26T20:17:38.634Z"}
+{"road":"Rara Lane","suburb":"Manukau","city":"Auckland","customer":"Chloe","salesPerson":"Olivia","category":"Leprechaun","brand":"if","value":3893,"date":"2022-05-28T23:32:06.812Z"}
+{"road":"Cawood Terrace","suburb":"Kainga","city":"Christchurch","customer":"Chloe","salesPerson":"Elena","category":"Elf","brand":"so","value":6234,"date":"2021-09-27T06:46:43.203Z"}
+{"road":"Stebbings Road","suburb":"Glenside","city":"Wellington","customer":"Liam","salesPerson":"Owen","category":"Pegasus","brand":"or","value":7309,"date":"2021-08-02T20:38:41.948Z"}
+{"road":"Joval Place","suburb":"Wiri","city":"Auckland","customer":"Madison","salesPerson":"Elijah","category":"Pixie","brand":"an","value":5976,"date":"2022-05-31T16:12:07.240Z"}
+{"road":"Little Collins Street","suburb":"Tawa","city":"Wellington","customer":"Abigail","salesPerson":"Michael","category":"Bashee","brand":"for","value":1969,"date":"2022-04-15T13:08:44.139Z"}
+{"road":"Centennial Highway","suburb":"Ngauranga","city":"Wellington","customer":"Ethan","salesPerson":"Amelia","category":"Minotaur","brand":"for","value":3855,"date":"2021-11-16T11:10:37.608Z"}
+{"road":"Boon Street","suburb":"Manurewa","city":"Auckland","customer":"Kai","salesPerson":"Stella","category":"Golems","brand":"a","value":7224,"date":"2022-04-10T14:27:24.326Z"}
+{"road":"Bodmin Place","suburb":"Mangere East","city":"Auckland","customer":"Ava","salesPerson":"Eli","category":"Dragon","brand":"the","value":5604,"date":"2021-10-31T23:55:30.381Z"}
+{"road":"Cobham Drive","suburb":"Miramar","city":"Wellington","customer":"Willow","salesPerson":"Matthew","category":"Medusa","brand":"the","value":861,"date":"2021-10-26T12:48:15.753Z"}
+{"road":"Raxworthy Street","suburb":"Ilam","city":"Christchurch","customer":"Hazel","salesPerson":"William","category":"Pegasus","brand":"the","value":9815,"date":"2022-05-17T18:26:03.525Z"}
+{"road":"Joll Street","suburb":"Karori","city":"Wellington","customer":"Stella","salesPerson":"Oliver","category":"Medusa","brand":"yet","value":8047,"date":"2022-04-10T05:53:46.737Z"}
+{"road":"Cordoba Court","suburb":"Otara","city":"Auckland","customer":"Abigail","salesPerson":"Elizabeth","category":"Golems","brand":"and","value":6960,"date":"2022-03-01T14:03:07.965Z"}
+{"road":"Dianne-Louise Drive","suburb":"Half Moon Bay","city":"Auckland","customer":"Ellie","salesPerson":"Joseph","category":"Dragon","brand":"a","value":9483,"date":"2022-05-05T05:41:25.979Z"}
+{"road":"Espalier Drive","suburb":"Henderson","city":"Auckland","customer":"Kai","salesPerson":"Olivia","category":"Phoenix","brand":"so","value":7204,"date":"2021-08-03T20:53:56.096Z"}
+{"road":"Convoy Lane","suburb":"Otahuhu","city":"Auckland","customer":"Elias","salesPerson":"Anthony","category":"Mermaid","brand":"an","value":2792,"date":"2021-07-26T12:29:04.354Z"}
+{"road":"Celia Street","suburb":"Redcliffs","city":"Christchurch","customer":"Michael","salesPerson":"Sofia","category":"Leprechaun","brand":"if","value":7424,"date":"2022-04-08T11:25:00.283Z"}
+{"road":"Lester Street","suburb":"Hobsonville","city":"Auckland","customer":"Isla","salesPerson":"Elias","category":"Pixie","brand":"and","value":2198,"date":"2022-05-06T17:43:19.748Z"}
+{"road":"Melksham Drive","suburb":"Churton Park","city":"Wellington","customer":"Grace","salesPerson":"Sebastian","category":"Mermaid","brand":"the","value":4276,"date":"2021-12-13T20:50:23.994Z"}
+{"road":"Hebe Lane","suburb":"Northwood","city":"Christchurch","customer":"Evelyn","salesPerson":"Sofia","category":"Kraken","brand":"and","value":6191,"date":"2021-12-27T19:43:29.373Z"}
+{"road":"Killarney Avenue","suburb":"Halswell","city":"Christchurch","customer":"Charlotte","salesPerson":"Samuel","category":"Ogre","brand":"an","value":6097,"date":"2021-11-28T05:43:17.995Z"}
+{"road":"Miro Place","suburb":"Albany","city":"Auckland","customer":"Ella","salesPerson":"Penelope","category":"Griffin","brand":"so","value":8794,"date":"2021-11-20T21:14:24.937Z"}
+{"road":"Torbay Heights","suburb":"Torbay","city":"Auckland","customer":"Ellie","salesPerson":"Maya","category":"Leviathan","brand":"so","value":3647,"date":"2022-01-06T22:49:51.834Z"}
+{"road":"Oranga Avenue","suburb":"Onehunga","city":"Auckland","customer":"Oliver","salesPerson":"Mia","category":"Golems","brand":"and","value":6900,"date":"2021-11-23T13:20:52.677Z"}
+{"road":"Dunaverty Place","suburb":"Broomfield","city":"Christchurch","customer":"Noah","salesPerson":"Hudson","category":"Phoenix","brand":"a","value":4184,"date":"2022-01-29T12:06:34.738Z"}
+{"road":"Glendon Avenue","suburb":"Avondale","city":"Auckland","customer":"Elijah","salesPerson":"Asher","category":"Pixie","brand":"yet","value":6935,"date":"2021-09-02T18:59:36.557Z"}
+{"road":"Tidal Road","suburb":"Mangere","city":"Auckland","customer":"Matthew","salesPerson":"Elizabeth","category":"Phoenix","brand":"if","value":200,"date":"2022-01-15T20:29:31.522Z"}
+{"road":"Salecia Gardens","suburb":"Brooklands","city":"Christchurch","customer":"Paisley","salesPerson":"Zoey","category":"Harpy","brand":"a","value":7773,"date":"2021-09-01T06:44:30.206Z"}
+{"road":"Columbia Road","suburb":"Sandringham","city":"Auckland","customer":"Elijah","salesPerson":"Paisley","category":"Griffin","brand":"an","value":8079,"date":"2022-05-08T17:05:29.844Z"}
+{"road":"Malory Street","suburb":"Avondale","city":"Auckland","customer":"Aiden","salesPerson":"Amelia","category":"Dragon","brand":"and","value":4174,"date":"2021-12-28T06:56:12.917Z"}
+{"road":"Godden Crescent","suburb":"Mission Bay","city":"Auckland","customer":"Scarlett","salesPerson":"Emma","category":"Unicorn","brand":"if","value":64,"date":"2021-09-06T06:11:52.406Z"}
+{"road":"De Bloge Place","suburb":"Clendon Park","city":"Auckland","customer":"Zoey","salesPerson":"Hazel","category":"Mermaid","brand":"but","value":7346,"date":"2022-03-22T12:52:12.653Z"}
+{"road":"Mahalo Avenue","suburb":"Wiri","city":"Auckland","customer":"Sophia","salesPerson":"Jacob","category":"Cyclops","brand":"an","value":1947,"date":"2021-07-30T16:55:36.660Z"}
+{"road":"Conservators Road","suburb":"McLeans Island","city":"Christchurch","customer":"Aria","salesPerson":"Isla","category":"Pixie","brand":"or","value":8620,"date":"2021-07-07T07:14:16.484Z"}
+{"road":"Lincoln Park Avenue","suburb":"Massey","city":"Auckland","customer":"Grace","salesPerson":"Hazel","category":"Mermaid","brand":"and","value":3461,"date":"2021-09-10T19:46:44.411Z"}
+{"road":"Waddell Lane","suburb":"Avondale","city":"Christchurch","customer":"Jackson","salesPerson":"Joseph","category":"Kraken","brand":"an","value":5265,"date":"2022-01-10T22:08:58.742Z"}
+{"road":"Rawson Street","suburb":"Tawa","city":"Wellington","customer":"Zoey","salesPerson":"Liam","category":"Dragon","brand":"for","value":9184,"date":"2021-06-03T01:01:18.839Z"}
+{"road":"Athol Crescent","suburb":"Wellington Central","city":"Wellington","customer":"Muhammad","salesPerson":"Alexander","category":"Medusa","brand":"or","value":2676,"date":"2022-04-14T17:17:49.535Z"}
+{"road":"Pitcairn Crescent","suburb":"Bryndwr","city":"Christchurch","customer":"Luca","salesPerson":"Carter","category":"Pegasus","brand":"if","value":9717,"date":"2021-10-07T18:36:56.212Z"}
+{"road":"Aintree Avenue","suburb":"Mangere","city":"Auckland","customer":"Liam","salesPerson":"Gabriel","category":"Golems","brand":"for","value":8544,"date":"2022-02-16T16:01:39.964Z"}
+{"road":"Wentworth Street","suburb":"Mornington","city":"Wellington","customer":"Muhammad","salesPerson":"Charlie","category":"Bashee","brand":"so","value":9654,"date":"2022-05-17T20:13:57.312Z"}
+{"road":"Manners Street","suburb":"Te Aro","city":"Wellington","customer":"Eleanor","salesPerson":"William","category":"Leviathan","brand":"or","value":1548,"date":"2021-11-29T20:38:14.922Z"}
+{"road":"Grey Street","suburb":"Onehunga","city":"Auckland","customer":"Riley","salesPerson":"Paisley","category":"Dragon","brand":"for","value":1622,"date":"2022-03-04T15:35:14.758Z"}
+{"road":"Lalanga Lane","suburb":"Wai O Taiki Bay","city":"Auckland","customer":"Liam","salesPerson":"Matthew","category":"Kraken","brand":"if","value":5926,"date":"2021-11-22T15:09:02.692Z"}
+{"road":"Weka Street","suburb":"Fendalton","city":"Christchurch","customer":"Josiah","salesPerson":"Grace","category":"Ogre","brand":"if","value":1631,"date":"2021-11-01T01:22:39.892Z"}
+{"road":"Carey Street","suburb":"Somerfield","city":"Christchurch","customer":"Hazel","salesPerson":"Matthew","category":"Hydra","brand":"an","value":3538,"date":"2021-06-06T11:49:29.736Z"}
+{"road":"Bladon Terrace","suburb":"Ngaio","city":"Wellington","customer":"Scarlett","salesPerson":"Olivia","category":"Ogre","brand":"an","value":5347,"date":"2022-05-05T06:51:49.557Z"}
+{"road":"Springbank Street","suburb":"Bryndwr","city":"Christchurch","customer":"Emily","salesPerson":"Jacob","category":"Mermaid","brand":"for","value":7198,"date":"2021-11-19T19:59:17.393Z"}
+{"road":"Wainui Street","suburb":"Riccarton","city":"Christchurch","customer":"Sofia","salesPerson":"Ivy","category":"Medusa","brand":"if","value":9464,"date":"2021-10-03T19:26:38.550Z"}
+{"road":"Skilgate Avenue","suburb":"New Lynn","city":"Auckland","customer":"Oliver","salesPerson":"Isla","category":"Griffin","brand":"for","value":4028,"date":"2021-09-02T10:37:32.861Z"}
+{"road":"Neesons Way","suburb":"Glendene","city":"Auckland","customer":"Samuel","salesPerson":"Lucas","category":"Pegasus","brand":"for","value":6721,"date":"2021-08-29T06:50:25.476Z"}
+{"road":"Canary Place","suburb":"Unsworth Heights","city":"Auckland","customer":"Grace","salesPerson":"Riley","category":"Harpy","brand":"but","value":633,"date":"2021-11-06T11:58:56.616Z"}
+{"road":"Landscape Road","suburb":"Epsom","city":"Auckland","customer":"Scarlett","salesPerson":"Lincoln","category":"Leviathan","brand":"or","value":3999,"date":"2022-03-11T09:03:04.299Z"}
+{"road":"Roxburgh Street","suburb":"Sydenham","city":"Christchurch","customer":"Elizabeth","salesPerson":"Alexander","category":"Pixie","brand":"or","value":7774,"date":"2021-06-16T06:27:20.846Z"}
+{"road":"Morley Street","suburb":"Bryndwr","city":"Christchurch","customer":"James","salesPerson":"Isla","category":"Golems","brand":"but","value":6810,"date":"2022-04-28T11:11:36.407Z"}
+{"road":"Parsons Road","suburb":"Saint Johns","city":"Auckland","customer":"Charlie","salesPerson":"Elizabeth","category":"Kraken","brand":"yet","value":1223,"date":"2021-11-17T23:03:00.172Z"}
+{"road":"Pari Tai Way","suburb":"Houghton Bay","city":"Wellington","customer":"Logan","salesPerson":"Michael","category":"Harpy","brand":"the","value":4824,"date":"2022-02-17T03:21:26.838Z"}
+{"road":"Lady Polson Lane","suburb":"Cashmere","city":"Christchurch","customer":"Luna","salesPerson":"John","category":"Medusa","brand":"an","value":5311,"date":"2022-02-11T18:20:41.439Z"}
+{"road":"Payling Lane","suburb":"Mairehau","city":"Christchurch","customer":"Logan","salesPerson":"Olivia","category":"Unicorn","brand":"and","value":3091,"date":"2021-08-16T15:14:02.963Z"}
+{"road":"Dewsbury Lane","suburb":"Sydenham","city":"Christchurch","customer":"Eliana","salesPerson":"Luke","category":"Pixie","brand":"and","value":7044,"date":"2022-05-22T02:14:20.322Z"}
+{"road":"Blue Gum Place","suburb":"New Brighton","city":"Christchurch","customer":"Ivy","salesPerson":"Matthew","category":"Phoenix","brand":"but","value":7019,"date":"2021-06-14T02:48:46.620Z"}
+{"road":"Duncan Street","suburb":"Sumner","city":"Christchurch","customer":"Rylee","salesPerson":"Noah","category":"Elf","brand":"the","value":2759,"date":"2021-12-29T12:55:52.339Z"}
+{"road":"Line Road","suburb":"Glen Innes","city":"Auckland","customer":"Ezra","salesPerson":"Noah","category":"Hydra","brand":"a","value":6934,"date":"2021-12-14T23:58:00.092Z"}
+{"road":"Hardington Street","suburb":"Onehunga","city":"Auckland","customer":"Nova","salesPerson":"Matthew","category":"Bashee","brand":"if","value":585,"date":"2022-02-10T23:29:19.565Z"}
+{"road":"Puhinui Road","suburb":"Papatoetoe","city":"Auckland","customer":"Nora","salesPerson":"Jacob","category":"Cyclops","brand":"for","value":5990,"date":"2021-08-23T08:34:57.920Z"}
+{"road":"Katote Close","suburb":"The Gardens","city":"Auckland","customer":"Oliver","salesPerson":"Jaxon","category":"Pegasus","brand":"for","value":259,"date":"2021-09-17T05:51:50.030Z"}
+{"road":"Sparky Road","suburb":"Otara","city":"Auckland","customer":"Gabriel","salesPerson":"Paisley","category":"Bashee","brand":"but","value":8371,"date":"2021-12-07T21:31:20.085Z"}
+{"road":"Walnut Avenue","suburb":"Strowan","city":"Christchurch","customer":"Elijah","salesPerson":"Grace","category":"Pixie","brand":"so","value":1919,"date":"2021-11-29T10:55:01.682Z"}
+{"road":"Debra Way","suburb":"Karori","city":"Wellington","customer":"Daniel","salesPerson":"Noah","category":"Hydra","brand":"if","value":6732,"date":"2021-07-14T16:14:58.503Z"}
+{"road":"Benghazi Road","suburb":"Panmure","city":"Auckland","customer":"Charlotte","salesPerson":"Hudson","category":"Minotaur","brand":"or","value":45,"date":"2022-01-17T08:02:01.014Z"}
+{"road":"David Beattie Place","suburb":"Chatswood","city":"Auckland","customer":"Emily","salesPerson":"Lincoln","category":"Pegasus","brand":"and","value":6798,"date":"2022-02-07T12:22:21.987Z"}
+{"road":"Admirals Way","suburb":"New Brighton","city":"Christchurch","customer":"Grace","salesPerson":"Elizabeth","category":"Griffin","brand":"but","value":3130,"date":"2022-03-03T15:02:31.989Z"}
+{"road":"Tahatai Street","suburb":"Otahuhu","city":"Auckland","customer":"Nova","salesPerson":"Joseph","category":"Ogre","brand":"if","value":9165,"date":"2021-12-08T23:13:57.588Z"}
+{"road":"The Esplanade","suburb":"Island Bay","city":"Wellington","customer":"Daniel","salesPerson":"Scarlett","category":"Ogre","brand":"so","value":6905,"date":"2021-10-08T23:33:05.260Z"}
+{"road":"Austin Brave Place","suburb":"Favona","city":"Auckland","customer":"Logan","salesPerson":"Paisley","category":"Harpy","brand":"so","value":3098,"date":"2022-01-27T05:46:03.433Z"}
+{"road":"Wanstead Place","suburb":"Woolston","city":"Christchurch","customer":"Levi","salesPerson":"Isla","category":"Bashee","brand":"an","value":6638,"date":"2021-11-15T05:06:50.297Z"}
+{"road":"Stone Street","suburb":"Hauraki","city":"Auckland","customer":"Ellie","salesPerson":"Eli","category":"Unicorn","brand":"or","value":7509,"date":"2022-01-03T21:47:30.572Z"}
+{"road":"Tokomaru Street","suburb":"Orakei","city":"Auckland","customer":"Madison","salesPerson":"Kai","category":"Pegasus","brand":"if","value":3790,"date":"2021-06-13T06:34:15.063Z"}
+{"road":"Raglan Street","suburb":"Phillipstown","city":"Christchurch","customer":"Willow","salesPerson":"Alexander","category":"Cyclops","brand":"or","value":164,"date":"2022-05-27T19:25:45.484Z"}
+{"road":"Seddon Avenue","suburb":"Papatoetoe","city":"Auckland","customer":"Paisley","salesPerson":"Ezra","category":"Kraken","brand":"if","value":2312,"date":"2021-07-29T19:06:11.234Z"}
+{"road":"Arahura Place","suburb":"Cashmere","city":"Christchurch","customer":"William","salesPerson":"Nova","category":"Medusa","brand":"for","value":2677,"date":"2021-10-05T15:44:01.619Z"}
+{"road":"Bellshill Close","suburb":"Wattle Downs","city":"Auckland","customer":"Ava","salesPerson":"Luna","category":"Unicorn","brand":"for","value":502,"date":"2021-12-05T01:24:38.936Z"}
+{"road":"Waterloo Road","suburb":"Milford","city":"Auckland","customer":"Jayden","salesPerson":"Eli","category":"Leprechaun","brand":"for","value":2390,"date":"2022-05-06T00:11:23.311Z"}
+{"road":"Mahlet Street","suburb":"Northwood","city":"Christchurch","customer":"Sophia","salesPerson":"Grace","category":"Mermaid","brand":"an","value":8862,"date":"2022-02-18T03:20:24.789Z"}
+{"road":"Ebony Street","suburb":"Bishopdale","city":"Christchurch","customer":"Layla","salesPerson":"Luke","category":"Mermaid","brand":"and","value":3834,"date":"2022-04-06T07:04:26.252Z"}
+{"road":"Minerva Street","suburb":"Newtown","city":"Wellington","customer":"Ethan","salesPerson":"Joseph","category":"Unicorn","brand":"so","value":1343,"date":"2022-04-23T21:36:05.078Z"}
+{"road":"Woolston Court","suburb":"Woolston","city":"Christchurch","customer":"Anthony","salesPerson":"Samuel","category":"Minotaur","brand":"for","value":5645,"date":"2022-01-11T17:11:53.079Z"}
+{"road":"Ashfield Grove","suburb":"Churton Park","city":"Wellington","customer":"Amelia","salesPerson":"John","category":"Bashee","brand":"a","value":6116,"date":"2021-10-16T20:52:24.502Z"}
+{"road":"Maraetai Coast Road","suburb":"Maraetai","city":"Auckland","customer":"Ava","salesPerson":"Jaxon","category":"Pegasus","brand":"an","value":1282,"date":"2022-03-08T13:57:12.092Z"}
+{"road":"Meritage Lane","suburb":"Te Atatu South","city":"Auckland","customer":"Nora","salesPerson":"Gabriel","category":"Dragon","brand":"yet","value":3792,"date":"2022-04-22T21:07:11.410Z"}
+{"road":"Karaka Street","suburb":"Takapuna","city":"Auckland","customer":"Emilia","salesPerson":"Abigail","category":"Medusa","brand":"and","value":345,"date":"2021-09-22T03:59:28.199Z"}
+{"road":"Barters Road","suburb":"Templeton","city":"Christchurch","customer":"Emma","salesPerson":"Aurora","category":"Sphinx","brand":"and","value":3252,"date":"2021-06-10T13:59:51.848Z"}
+{"road":"MacAlister Place","suburb":"Miramar","city":"Wellington","customer":"Lincoln","salesPerson":"Rylee","category":"Minotaur","brand":"if","value":2639,"date":"2021-06-17T16:40:42.982Z"}
+{"road":"Marcel Place","suburb":"Glenfield","city":"Auckland","customer":"Elizabeth","salesPerson":"Hazel","category":"Ogre","brand":"the","value":8161,"date":"2021-09-30T07:08:07.443Z"}
+{"road":"Bayley Place","suburb":"Spreydon","city":"Christchurch","customer":"William","salesPerson":"Emma","category":"Kraken","brand":"yet","value":2560,"date":"2021-06-16T20:52:18.436Z"}
+{"road":"McDougall Avenue","suburb":"St Albans","city":"Christchurch","customer":"Grayson","salesPerson":"Liam","category":"Griffin","brand":"and","value":7910,"date":"2022-03-24T20:06:13.520Z"}
+{"road":"Olivia Crescent","suburb":"Tawa","city":"Wellington","customer":"Amelia","salesPerson":"Charlie","category":"Leviathan","brand":"yet","value":3760,"date":"2022-03-28T15:16:49.486Z"}
+{"road":"Woodford Avenue","suburb":"Henderson","city":"Auckland","customer":"Mason","salesPerson":"Luna","category":"Phoenix","brand":"yet","value":25,"date":"2021-06-24T07:24:20.315Z"}
+{"road":"Tourmalin Place","suburb":"Wiri","city":"Auckland","customer":"Muhammad","salesPerson":"Jacob","category":"Harpy","brand":"and","value":1070,"date":"2021-12-14T10:09:08.625Z"}
+{"road":"Rashni Road","suburb":"Flat Bush","city":"Auckland","customer":"Leo","salesPerson":"Jaxon","category":"Kraken","brand":"so","value":9608,"date":"2022-01-31T17:26:14.353Z"}
+{"road":"Evelyn Place","suburb":"Hillcrest","city":"Auckland","customer":"Penelope","salesPerson":"John","category":"Griffin","brand":"and","value":4057,"date":"2022-02-22T19:49:36.569Z"}
+{"road":"Volkner Place","suburb":"Rosedale","city":"Auckland","customer":"Camila","salesPerson":"Joseph","category":"Griffin","brand":"the","value":6038,"date":"2021-11-20T18:33:06.542Z"}
+{"road":"Hoon Hay Valley Road","suburb":"Cracroft","city":"Christchurch","customer":"David","salesPerson":"Elena","category":"Sphinx","brand":"a","value":9610,"date":"2021-07-10T05:30:15.507Z"}
+{"road":"Seven Oaks Drive","suburb":"Pakuranga","city":"Auckland","customer":"Sophia","salesPerson":"Grace","category":"Harpy","brand":"but","value":6040,"date":"2021-12-31T07:39:16.943Z"}
+{"road":"Egmont Place","suburb":"Bishopdale","city":"Christchurch","customer":"Addison","salesPerson":"Scarlett","category":"Phoenix","brand":"a","value":9603,"date":"2022-01-09T10:54:51.019Z"}
+{"road":"Rhine Place","suburb":"Weymouth","city":"Auckland","customer":"Jayden","salesPerson":"Ezra","category":"Pegasus","brand":"but","value":8424,"date":"2022-03-18T23:20:17.969Z"}
+{"road":"Rebecca Avenue","suburb":"Burwood","city":"Christchurch","customer":"Grayson","salesPerson":"Chloe","category":"Minotaur","brand":"or","value":3737,"date":"2022-02-19T07:26:09.198Z"}
+{"road":"Baltic Place","suburb":"Northwood","city":"Christchurch","customer":"Elena","salesPerson":"Amelia","category":"Pixie","brand":"for","value":5045,"date":"2021-07-03T15:05:21.776Z"}
+{"road":"John Davis Road","suburb":"Mount Roskill","city":"Auckland","customer":"Elijah","salesPerson":"Michael","category":"Griffin","brand":"for","value":656,"date":"2021-08-31T15:22:31.335Z"}
+{"road":"Oxley Avenue","suburb":"Wesley","city":"Auckland","customer":"Mason","salesPerson":"Sophia","category":"Phoenix","brand":"a","value":761,"date":"2022-01-03T04:13:50.727Z"}
+{"road":"Evatt Street","suburb":"Bryndwr","city":"Christchurch","customer":"Harper","salesPerson":"Oliver","category":"Leprechaun","brand":"a","value":4212,"date":"2021-08-24T17:22:00.197Z"}
+{"road":"Dalgarven Place","suburb":"Hillsborough","city":"Christchurch","customer":"Everly","salesPerson":"Aurora","category":"Sphinx","brand":"for","value":6069,"date":"2021-08-26T18:42:18.773Z"}
+{"road":"Statesman Street","suburb":"Henderson","city":"Auckland","customer":"Maverick","salesPerson":"Emma","category":"Phoenix","brand":"if","value":9714,"date":"2021-08-07T09:48:47.346Z"}
+{"road":"Glendale Grove","suburb":"Churton Park","city":"Wellington","customer":"Michael","salesPerson":"Michael","category":"Ogre","brand":"a","value":6160,"date":"2021-12-10T05:51:05.941Z"}
+{"road":"Charles Prevost Drive","suburb":"The Gardens","city":"Auckland","customer":"Evelyn","salesPerson":"Lucas","category":"Griffin","brand":"for","value":9168,"date":"2021-06-08T02:52:43.452Z"}
+{"road":"Wootton Road","suburb":"Remuera","city":"Auckland","customer":"Muhammad","salesPerson":"Maya","category":"Mermaid","brand":"for","value":3134,"date":"2021-09-06T16:25:24.901Z"}
+{"road":"Basilton Close","suburb":"Bucklands Beach","city":"Auckland","customer":"Camila","salesPerson":"Nora","category":"Pegasus","brand":"the","value":3349,"date":"2022-05-28T05:40:16.079Z"}
+{"road":"Kamahi Street","suburb":"Mount Eden","city":"Auckland","customer":"Joseph","salesPerson":"Asher","category":"Phoenix","brand":"and","value":1361,"date":"2022-01-26T01:44:47.103Z"}
+{"road":"Carillon Place","suburb":"Massey","city":"Auckland","customer":"Aiden","salesPerson":"Stella","category":"Pixie","brand":"an","value":9770,"date":"2021-09-21T15:18:57.848Z"}
+{"road":"Cherry Hill","suburb":"Fairview Heights","city":"Auckland","customer":"Elena","salesPerson":"Jacob","category":"Minotaur","brand":"or","value":5204,"date":"2022-05-26T09:21:11.553Z"}
+{"road":"Deering Place","suburb":"Papatoetoe","city":"Auckland","customer":"Lincoln","salesPerson":"Jacob","category":"Phoenix","brand":"for","value":4493,"date":"2022-04-08T23:07:54.403Z"}
+{"road":"Sharnbrook Lane","suburb":"Casebrook","city":"Christchurch","customer":"Paisley","salesPerson":"Luke","category":"Kraken","brand":"so","value":2778,"date":"2021-06-28T10:32:11.496Z"}
+{"road":"Tyers Road","suburb":"Ngauranga","city":"Wellington","customer":"James","salesPerson":"Charlie","category":"Phoenix","brand":"if","value":7270,"date":"2021-07-27T11:34:33.821Z"}
+{"road":"Orsova Place","suburb":"Lynfield","city":"Auckland","customer":"Madison","salesPerson":"Zoey","category":"Elf","brand":"and","value":8452,"date":"2021-07-30T15:10:42.192Z"}
+{"road":"Stapleford Crescent","suburb":"Browns Bay","city":"Auckland","customer":"Maverick","salesPerson":"Isabella","category":"Pegasus","brand":"a","value":5104,"date":"2021-12-08T11:02:43.025Z"}
+{"road":"Boscawen Street","suburb":"Point Chevalier","city":"Auckland","customer":"Daniel","salesPerson":"Emma","category":"Hydra","brand":"so","value":4688,"date":"2021-12-12T08:13:50.453Z"}
+{"road":"Waltham Road","suburb":"Sydenham","city":"Christchurch","customer":"Mia","salesPerson":"Eleanor","category":"Elf","brand":"the","value":8122,"date":"2022-01-06T16:59:25.454Z"}
+{"road":"Toomer Place","suburb":"Beachlands","city":"Auckland","customer":"Samuel","salesPerson":"Olivia","category":"Minotaur","brand":"but","value":9347,"date":"2021-09-14T16:24:02.228Z"}
+{"road":"Ward Terrace","suburb":"Sandringham","city":"Auckland","customer":"Maya","salesPerson":"Emma","category":"Golems","brand":"so","value":1050,"date":"2022-02-22T07:09:35.934Z"}
+{"road":"Canonbie Place","suburb":"East Tamaki Heights","city":"Auckland","customer":"Gianna","salesPerson":"Owen","category":"Medusa","brand":"the","value":1122,"date":"2021-07-12T22:47:06.889Z"}
+{"road":"Ronald Macken Place","suburb":"Windsor Park","city":"Auckland","customer":"Daniel","salesPerson":"Isla","category":"Dragon","brand":"a","value":8791,"date":"2022-05-28T10:36:39.471Z"}
+{"road":"Mayn Avenue","suburb":"Wesley","city":"Auckland","customer":"Emma","salesPerson":"Elena","category":"Griffin","brand":"an","value":9603,"date":"2022-04-18T23:18:45.457Z"}
+{"road":"Kotahi Road","suburb":"Mount Wellington","city":"Auckland","customer":"Gianna","salesPerson":"Luna","category":"Ogre","brand":"or","value":2765,"date":"2022-04-16T19:42:27.150Z"}
+{"road":"Segar Avenue","suburb":"Mount Albert","city":"Auckland","customer":"Nova","salesPerson":"Jacob","category":"Leprechaun","brand":"yet","value":1905,"date":"2021-08-18T11:35:25.192Z"}
+{"road":"Maaka Place","suburb":"Saint Johns","city":"Auckland","customer":"Mila","salesPerson":"Everly","category":"Unicorn","brand":"yet","value":6151,"date":"2022-04-12T21:00:01.574Z"}
+{"road":"Earn Place","suburb":"Southgate","city":"Wellington","customer":"Zoey","salesPerson":"Ivy","category":"Medusa","brand":"or","value":4785,"date":"2021-09-08T22:15:14.124Z"}
+{"road":"Creedon Glen","suburb":"Casebrook","city":"Christchurch","customer":"Maverick","salesPerson":"Oliver","category":"Pegasus","brand":"an","value":2717,"date":"2021-10-30T15:16:32.484Z"}
+{"road":"Balcairn Street","suburb":"Halswell","city":"Christchurch","customer":"Leo","salesPerson":"Nova","category":"Unicorn","brand":"the","value":4900,"date":"2022-02-14T08:27:12.984Z"}
+{"road":"Hindess Street","suburb":"Halswell","city":"Christchurch","customer":"Hazel","salesPerson":"Nova","category":"Hydra","brand":"and","value":23,"date":"2021-06-27T20:05:27.764Z"}
+{"road":"Collingwood Street","suburb":"Ngaio","city":"Wellington","customer":"Levi","salesPerson":"Amelia","category":"Dragon","brand":"or","value":257,"date":"2022-01-17T07:58:57.288Z"}
+{"road":"Vardon Crescent","suburb":"Shirley","city":"Christchurch","customer":"Penelope","salesPerson":"Gabriel","category":"Leprechaun","brand":"but","value":8973,"date":"2022-05-06T17:04:48.228Z"}
+{"road":"Miramar Place","suburb":"Pakuranga","city":"Auckland","customer":"Mila","salesPerson":"Penelope","category":"Bashee","brand":"the","value":5791,"date":"2022-02-23T01:19:20.922Z"}
+{"road":"Birdwood Street","suburb":"Karori","city":"Wellington","customer":"Carter","salesPerson":"William","category":"Leprechaun","brand":"for","value":4725,"date":"2021-08-12T00:02:23.008Z"}
+{"road":"Peach Parade","suburb":"Remuera","city":"Auckland","customer":"Hazel","salesPerson":"Maya","category":"Leviathan","brand":"a","value":6264,"date":"2022-02-21T03:16:12.138Z"}
+{"road":"Pleasant Road","suburb":"Titirangi","city":"Auckland","customer":"Owen","salesPerson":"Anthony","category":"Leviathan","brand":"if","value":9000,"date":"2021-08-06T09:58:12.019Z"}
+{"road":"Colenso Place","suburb":"Mission Bay","city":"Auckland","customer":"Aiden","salesPerson":"Matthew","category":"Golems","brand":"and","value":4415,"date":"2022-02-10T18:52:30.837Z"}
+{"road":"Red Checkers Place","suburb":"Wigram","city":"Christchurch","customer":"Maya","salesPerson":"Gabriel","category":"Minotaur","brand":"the","value":9364,"date":"2022-01-14T14:36:39.915Z"}
+{"road":"Raven Avenue","suburb":"Mount Roskill","city":"Auckland","customer":"Lucas","salesPerson":"Sofia","category":"Golems","brand":"if","value":1126,"date":"2022-05-04T16:44:48.214Z"}
+{"road":"Belfast Street","suburb":"Hillsborough","city":"Auckland","customer":"Everly","salesPerson":"Asher","category":"Mermaid","brand":"an","value":3347,"date":"2021-11-26T00:46:25.461Z"}
+{"road":"Deuxberry Avenue","suburb":"Northcote","city":"Auckland","customer":"Ellie","salesPerson":"Jacob","category":"Ogre","brand":"or","value":6221,"date":"2021-06-11T01:31:32.746Z"}
+{"road":"Sapphire Place","suburb":"Bayview","city":"Auckland","customer":"Isaiah","salesPerson":"John","category":"Mermaid","brand":"if","value":4673,"date":"2021-07-14T13:48:22.556Z"}
+{"road":"Temata Lane","suburb":"Wai O Taiki Bay","city":"Auckland","customer":"Logan","salesPerson":"Hazel","category":"Leviathan","brand":"yet","value":1428,"date":"2022-05-31T20:31:39.567Z"}
+{"road":"Opau Road","suburb":"Makara","city":"Wellington","customer":"Aria","salesPerson":"William","category":"Ogre","brand":"an","value":6124,"date":"2022-03-17T06:40:59.085Z"}
+{"road":"Tremewan Street","suburb":"Tawa","city":"Wellington","customer":"Nora","salesPerson":"Charlie","category":"Ogre","brand":"a","value":5157,"date":"2022-04-11T09:49:21.536Z"}
+{"road":"Maple Street","suburb":"Bishopdale","city":"Christchurch","customer":"Maya","salesPerson":"Ryleigh","category":"Bashee","brand":"so","value":8935,"date":"2022-05-15T17:53:41.396Z"}
