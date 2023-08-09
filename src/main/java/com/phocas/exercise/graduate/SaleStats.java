@@ -14,8 +14,9 @@ import java.util.LinkedList;
  */
 public final class SaleStats {
 
+
     /**
-     * Finds the key with the highest value in a hashmap.
+     * Finds the key with the highest value in a hashmap. Takes first encountered in the case of a tie.
      * @param map The hashmap to find the key with the highest value in.
      * @return The key with the highest value in a hashmap.
      */
@@ -31,8 +32,9 @@ public final class SaleStats {
 		return maxKey;
 	}
 
+
     /**
-     * Finds the fourth most valued salesperson.
+     * Finds the fourth most valued salesperson. Takse last alphabetically in the case of a tie.
      * @param salesPersonTotals A hashmap of salesperson to total value of transactions.
      * @return The fourth most valued salesperson.
      */
@@ -43,6 +45,7 @@ public final class SaleStats {
         return pairsList.get(pairsList.size() - 4).getKey();
     }
     
+
     /**
      * Finds the brand with the highest value of transactions.
      * @param transactions The transactions to check.
@@ -63,6 +66,7 @@ public final class SaleStats {
         }
         return hashMapMax(brandTotals);
     }
+
 
     /**
      * Finds the category with the highest value of transactions.
@@ -85,6 +89,7 @@ public final class SaleStats {
         return hashMapMax(categoryValues);
     }
 
+
     /**
      * Counts the number of transactions that have both the given brand and category.
      * @param transactions The transactions to check.
@@ -102,6 +107,7 @@ public final class SaleStats {
         return count;
     }
 
+    
     /**
      * Finds the road with the most transactions.
      * @param transactions The transactions to check.
@@ -112,12 +118,11 @@ public final class SaleStats {
         for (Transaction transaction : transactions) {
 
             final String road = transaction.getRoadSold();
-            final int value = transaction.getValue();
 
             if (roadTotals.containsKey(road)) {
-                roadTotals.put(road, roadTotals.get(road) + value);
+                roadTotals.put(road, roadTotals.get(road) + 1);
             } else {
-                roadTotals.put(road, value);
+                roadTotals.put(road, 1);
             }
         }
         return hashMapMax(roadTotals);

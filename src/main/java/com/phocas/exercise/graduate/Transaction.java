@@ -7,20 +7,26 @@ import java.util.Objects;
  */
 final class Transaction {
     
+
     // Name of seller in transaction.
     private final String salesPerson;
+
 
     // Value of transaction.
     private final int value;
 
+
     // Brand of item in transaction.
     private final String brand;
+
 
     // Category of item in transaction.
     private final String category;
 
+
     // Road of location of transaction.
     private final String road;
+
 
     public Transaction(String salesPerson, int value, String brand, String category, String road) {
         this.salesPerson = salesPerson;
@@ -30,31 +36,38 @@ final class Transaction {
         this.road = road;
     }
 
+
     public String getSalesPerson() {
         return salesPerson;
     }
+
 
     public int getValue() {
         return value;
     }
 
+
     public String getBrand() {
         return brand;
     }
+
 
     public String getCategory() {
         return category;
     }
 
+
     public String getRoadSold() {
         return road;
     }
+
 
     @Override
     public int hashCode() {
         int hashCode = Objects.hash(getValue(), getSalesPerson(), getBrand(), getCategory(), getRoadSold());
         return hashCode;
     }
+
 
     @Override
     public boolean equals(Object obj) {
@@ -75,6 +88,7 @@ final class Transaction {
         }
         return getRoadSold().equals(that.getRoadSold());
     }
+    
 
     @Override
     public String toString() {
@@ -86,5 +100,4 @@ final class Transaction {
                 + ", road='" + road + '\''
                 + '}';
     }
-
 }
