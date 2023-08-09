@@ -3,16 +3,52 @@ package com.phocas.exercise.graduate;
 import java.util.HashMap;
 import java.util.LinkedList;
 
+/**
+ * A utility class containing methods for computing statistics on transactions.
+ * The methods can be used to answer the following:
+ * 1. Who is the fourth best salesperson?
+ * 2. (For the salesperson) What is the best selling brand?
+ * 3. (For the salesperson) What is the best selling category?
+ * 4. (For the salesperson) How many transactions were there in both the best selling brand and category?
+ * 5. (For the salesperson) What road has the most transactions?
+ */
+public final class SaleStats {
 
-public class SaleStats {
+    /**
+     * Finds the key with the highest value in a hashmap.
+     * @param map The hashmap to find the key with the highest value in.
+     * @return The key with the highest value in a hashmap.
+     */
+	private static String hashMapMax(HashMap<String, Integer> map) {
+		int max = 0;
+		String maxKey = "";
+		for (String key : map.keySet()) {
+			if (map.get(key) > max) {
+				max = map.get(key);
+				maxKey = key;
+			}
+		}
+		return maxKey;
+	}
 
-    public static String getNthMostValuedSalesperson(HashMap<String, Integer> salesPersonTotals, int n) {
-        LinkedList<HashMap.Entry<String, Integer>> pairsList = new LinkedList<>(salesPersonTotals.entrySet());
+    /**
+     * Finds the fourth most valued salesperson.
+     * @param salesPersonTotals A hashmap of salesperson to total value of transactions.
+     * @return The fourth most valued salesperson.
+     */
+    public static String findFourthMostValuedSalesperson(HashMap<String, Integer> salesPersonTotals) {
+        // Sort the hashmap by value before indexing fourth highest valued salesperson.
+        final LinkedList<HashMap.Entry<String, Integer>> pairsList = new LinkedList<>(salesPersonTotals.entrySet());
         pairsList.sort(HashMap.Entry.comparingByValue());
-        return pairsList.get(pairsList.size() - n).getKey();
+        return pairsList.get(pairsList.size() - 4).getKey();
     }
     
-    public static HashMap<String, Integer> getBrandTotalsMap(LinkedList<Transaction> transactions) {
+    /**
+     * Finds the brand with the highest value of transactions.
+     * @param transactions The transactions to check.
+     * @return The brand with the highest value of transactions.
+     */
+    public static String findMaxBrand(LinkedList<Transaction> transactions) {
         final HashMap<String, Integer> brandTotals = new HashMap<>();
         for (Transaction transaction : transactions) {
 
@@ -25,10 +61,15 @@ public class SaleStats {
                 brandTotals.put(brand, value);
             }
         }
-        return brandTotals;
+        return hashMapMax(brandTotals);
     }
 
-    public static HashMap<String, Integer> getCategoryTotalsMap(LinkedList<Transaction> transactions) {
+    /**
+     * Finds the category with the highest value of transactions.
+     * @param transactions The transactions to check.
+     * @return The category with the highest value of transactions.
+     */
+    public static String findMaxCategory(LinkedList<Transaction> transactions) {
         final HashMap<String, Integer> categoryValues = new HashMap<>();
         for (Transaction transaction : transactions) {
 
@@ -41,9 +82,16 @@ public class SaleStats {
                 categoryValues.put(category, value);
             }
         }
-        return categoryValues;
+        return hashMapMax(categoryValues);
     }
 
+    /**
+     * Counts the number of transactions that have both the given brand and category.
+     * @param transactions The transactions to check.
+     * @param brand The brand to check for.
+     * @param category The category to check for.
+     * @return The number of transactions that have both the given brand and category.
+     */
     public static int transactionsInBrandAndCategory(LinkedList<Transaction> transactions, String brand, String category) {
         int count = 0;
         for (Transaction transaction : transactions) {
@@ -54,7 +102,12 @@ public class SaleStats {
         return count;
     }
 
-    public static HashMap<String, Integer> roadTransactions(LinkedList<Transaction> transactions) {
+    /**
+     * Finds the road with the most transactions.
+     * @param transactions The transactions to check.
+     * @return The road with the most transactions.
+     */
+    public static String maxRoadTransactions(LinkedList<Transaction> transactions) {
         final HashMap<String, Integer> roadTotals = new HashMap<>();
         for (Transaction transaction : transactions) {
 
@@ -67,6 +120,6 @@ public class SaleStats {
                 roadTotals.put(road, value);
             }
         }
-        return roadTotals;
+        return hashMapMax(roadTotals);
     }
 }

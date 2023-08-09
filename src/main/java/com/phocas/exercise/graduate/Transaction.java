@@ -2,14 +2,24 @@ package com.phocas.exercise.graduate;
 import java.util.Objects;
 
 /**
- * A class representing a transaction.
+ * A record class representing a transaction, but containing only key elements
+ * of the transaction for statistic computations.
  */
 final class Transaction {
     
+    // Name of seller in transaction.
     private final String salesPerson;
+
+    // Value of transaction.
     private final int value;
+
+    // Brand of item in transaction.
     private final String brand;
+
+    // Category of item in transaction.
     private final String category;
+
+    // Road of location of transaction.
     private final String road;
 
     public Transaction(String salesPerson, int value, String brand, String category, String road) {
